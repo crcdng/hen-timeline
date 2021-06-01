@@ -101,18 +101,18 @@ OBJKT Swap, a manifesto and roadmap (Medium)
 https://hicetnunc2000.medium.com/objkt-swap-62dbaf776336 
 
 #### February 18, 2021
-Artist and climate activist Joanie Lemercier sheds more light on the energy consumption of Proof-of-Work Ethereum cryptoart platforms. H=N runs on Tezos, a Proof-of-Stake blockchain whose energy impact 
-https://joanielemercier.com/the-problem-of-cryptoart/
+Artist and climate activist Joanie Lemercier sheds more light on the energy consumption of Proof-of-Work Ethereum cryptoart platforms. H=N runs on Tezos, a Proof-of-Stake blockchain whose energy impact is neglectable in comparison to Proof-of-Work blockchains (Bitcoin, Ethereum) according to an article published two days earlier by the Tezos foundation.  
+https://joanielemercier.com/the-problem-of-cryptoart/    
+https://medium.com/tqtezos/proof-of-work-vs-proof-of-stake-the-ecological-footprint-c58029faee44 
 
 #### February 24, 2021
 Artist Mario Klingemann mints on H=N
 https://twitter.com/quasimondo/status/1364558512286806018
 
 #### March 1, 2021
-This date marks the official beginning of H=N, when “swapping OBJKTs” (trading of NFTs in H=N lingo) is possible. In parallel the governance hDAO token is released. The event is announced in an essay
-https://twitter.com/hicetnunc2000/status/1366345595405934592 
-https://hicetnunc2000.medium.com/objkt-swap-62dbaf776336
-https://better-call.dev/mainnet/KT1AFA2mwNUMNd4SsujE1YYp29vd8BZejyKW/tokens 
+This date marks the official beginning of H=N, when “swapping OBJKTs” (trading of NFTs in H=N lingo) is possible. At the same time, the governance hDAO token is released. 
+https://twitter.com/hicetnunc2000/status/1366345595405934592     
+https://better-call.dev/mainnet/KT1AFA2mwNUMNd4SsujE1YYp29vd8BZejyKW/tokens    
 
 #### March 10, 2021
 First commit to hicetnunc API GitHub repo
@@ -132,13 +132,13 @@ https://www.hicetnunc.xyz/gallery/pupiladilatada
 
 #### March 26-28, 2021
 The first OBJKT4OBJKT event in collaboration with the DiverseNftArt initiative takes place. Artists swap their NFTs for free. The second event in late April attracts even more attention but also reveals the problem of “hoarder bots”, programs written to mass-collect free objects and resell them.  
-https://www.hicetnunc.xyz/gallery/objkt4objkt
-https://diversenftart.hotglue.me/ 
+https://www.hicetnunc.xyz/gallery/objkt4objkt    
+https://diversenftart.hotglue.me/     
 
 #### April 9, 2021
 "Not another JPEG." Artist M Plummer-Fernández shares thoughts about the blossoming (and sometimes stuttering) platform that attracts more and more people critical of mainstream NFT marketplaces. The essay itself is steganographically hidden in an acompanying NFT.
-https://www.plummerfernandez.com/works/not-another-jpeg/
-https://www.hicetnunc.xyz/objkt/27679
+https://www.plummerfernandez.com/works/not-another-jpeg/    
+https://www.hicetnunc.xyz/objkt/27679    
 
 #### April 19, 2021 
 The inaugural #TheFEN event takes place, a “coordinated drop” by a selection of artists curated by Juliette Bibasse and Joanie Lemercier. The events bring artists to the platform, including Auriea Harvey, Memo Akten, Addie Wagenknecht and Zai Divecha.
