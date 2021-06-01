@@ -1,12 +1,14 @@
 ###  Introduction
 
-[Hic et Nunc](https://www.hicetnunc.xyz/) (abbreviated H=N, sometimes HEN or hen) is the first NFT art place on the [Tezos](https://tezos.com/) blockchain. This brief timeline is meant to help preserve common memory by capturing some of the key events that led up to the current phenomenon. Therefore it puts focus on H=N itself and does not attempt to serve as a timeline of blockchains, NFTs or crypto art in general. For these topics some excellent resources are available, e.g:
+[Hic et Nunc](https://www.hicetnunc.xyz/) (abbreviated H=N, sometimes HEN or hen) is the first NFT art place on the [Tezos](https://tezos.com/) blockchain. This brief timeline is meant to help preserve common memory by capturing some of the key events that led up to the current phenomenon. Therefore it puts focus on H=N itself, not trying to serve as a timeline of blockchains, NFTs or crypto art in general. For these topics some excellent resources are available, e.g:
 
 * https://decal.furtherfield.org/2020/05/22/a-blockchain-art-history-timeline/ by Furtherfield
 * https://ostachowski.com/about/what-is-crypto-art-or-nft-art/history-of-crypto-art/ by Martin Lukas Ostachowski
 * https://nfttimeline.com/ 
 
-It will be up to to the people to make sense of the phenomenon that is officially operating since March 1, 2021 and has reached 100.000 minted NFTs three months later. Beyond the numbers, the events listed below might provide clues while some strands appear: a set of experiments in various directions amid an exploding crypto art energy debate, Twitter as a nervous system, a frictionless “open for all“ art platform. However [this tweet](https://twitter.com/mattmedved/status/1385760755958562816) by Matt Medved captures an aspect of H=N that goes beyond rational analysis and explanations. Around the same time in April I [wrote](https://twitter.com/crcdng/status/1386658359290613760) “it feels a bit like the place you visit together after the grand gallery opening to have fun and explore” and shared a bit later my [impressions](https://twitter.com/crcdng/status/1386730188654977031)  during the second OBJKT4OBJCT weekend: “a new community of artists and curators is emerging, an art system within the art system”.
+It will be up to everyoe individually to make sense of a phenomenon that is operating since March 1, 2021 and has reached 100.000 minted NFTs three months later. Beyond the numbers, the events listed below might provide clues while some strands appear: a set of experiments in various directions, an exploding crypto art energy debate, Twitter as a nervous system and amplifier, a frictionless “open for all“ art platform, Proof-of-Work vs. Proof-of-Stake. 
+
+However, [this tweet](https://twitter.com/mattmedved/status/1385760755958562816) by Matt Medved captures another aspect of H=N that goes beyond rational analysis and historical explanations. Around the same time in April I [wrote](https://twitter.com/crcdng/status/1386658359290613760) “it feels a bit like the place you visit together after the grand gallery opening to have fun and explore” and shared my [impressions](https://twitter.com/crcdng/status/1386730188654977031) won during the second OBJKT4OBJCT weekend: “a new community of artists and curators is emerging, an art system within the art system”.
 
 This is for that community.
 
@@ -37,7 +39,7 @@ The “Delphi” upgrade to the Tezos blockchain significantly reduces transacti
 https://blog.nomadic-labs.com/delphi-official-release.html
 
 #### September 23, 2020
-“Friends, something has been bugging me for a while”, starts the tweet in which artist Memo Akten addresses concerns about the energy usage of crypto art. In the subsequent days and weeks a  ensues subsequently publishes research and a tool to calculate energy consumption of artworks and alternative models . In The ensuing artists hold back  
+“Friends, something has been bugging me for a while”, begins the tweet in which artist Memo Akten addresses deep concerns about the energy usage of crypto art. In the subsequent days and weeks heated debates ensue. Memo subsequently publishes research and a tool to calculate the energy consumption of artworks. The latter was later weaponized against individual artists against the intention of its creator and therefore withdrawn.  
 http://cryptoart.wtf 
 https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053 
 https://github.com/memo/eco-nft
@@ -129,7 +131,7 @@ Pupila Dilatada, the first collaborative art show appears as a gallery on H=N.
 https://www.hicetnunc.xyz/gallery/pupiladilatada
 
 #### March 26-28, 2021
-The first OBJKT4OBJKT event in collaboration with the DiverseNftArt initiative takes place. Artists swap their NFTs for free. A second event in April attracts even more attention, but also reveals the problem of “hoarder bots”, programs written to mass-collect free objects and resell them.  
+The first OBJKT4OBJKT event in collaboration with the DiverseNftArt initiative takes place. Artists swap their NFTs for free. The second event in late April attracts even more attention but also reveals the problem of “hoarder bots”, programs written to mass-collect free objects and resell them.  
 https://www.hicetnunc.xyz/gallery/objkt4objkt
 https://diversenftart.hotglue.me/ 
 
@@ -151,7 +153,7 @@ Creative coder and prolific tool creator Javier Graciá-Carpio reports 10.000 Ar
 https://www.hicetnunc.xyz/objkt/83576
 
 #### May 22/23, 2021
-Hickathon, the first H=N hackathon, originates from another tweet by Mario Klingemann, assembles more than 150 participants in 20 groups, who work fo 24 hours on a wide range of issues such as governance, site features and various improvements. The organisers, receiving overwhelming support from the community and the Tezos foundation,  manage to set up the Hickathon within a week and make it a fun event.
+Hickathon, the first H=N hackathon, originates from another tweet by Mario Klingemann, assembles more than 150 participants in 20 groups, who keep working during 24 hours on a wide range of issues such as governance, site features and various improvements. The organisers, receiving overwhelming support from the community and from the Tezos foundation, manage to set up the Hickathon within a week and make it a fun event.
 https://www.hicathon.xyz/ 
 https://www.youtube.com/watch?v=NIy8F5b2_Pk 
 
@@ -161,6 +163,6 @@ https://twitter.com/hicetnunc2000/status/1397724112806633475
 
 … to be continued
 
-Initial version by @crcdng using information from Twitter, Medium, Youtube and other public sources. Special thanks to Javier Graciá-Carpio [@jagracar](https://twitter.com/jagracar) for public data collection.
+*Initial version by @crcdng using information from Twitter, Medium, Youtube and other public sources. Special thanks to Javier Graciá-Carpio [@jagracar](https://twitter.com/jagracar) for public data collection.*
 
 Published under the Creative Commons Attribution 4.0 International License [(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
