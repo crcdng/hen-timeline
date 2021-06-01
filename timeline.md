@@ -1,0 +1,166 @@
+###  Introduction
+
+[Hic et Nunc](https://www.hicetnunc.xyz/) (abbreviated H=N, sometimes HEN or hen) is the first NFT art place on the [Tezos](https://tezos.com/) blockchain. This brief timeline is meant to help preserve common memory by capturing some of the key events that led up to the current phenomenon. Therefore it puts focus on H=N itself and does not attempt to serve as a timeline of blockchains, NFTs or crypto art in general. For these topics some excellent resources are available, e.g:
+
+* https://decal.furtherfield.org/2020/05/22/a-blockchain-art-history-timeline/ by Furtherfield
+* https://ostachowski.com/about/what-is-crypto-art-or-nft-art/history-of-crypto-art/ by Martin Lukas Ostachowski
+* https://nfttimeline.com/ 
+
+It will be up to to the people to make sense of the phenomenon that is officially operating since March 1, 2021 and has reached 100.000 minted NFTs three months later. Beyond the numbers, the events listed below might provide clues while some strands appear: a set of experiments in various directions amid an exploding crypto art energy debate, Twitter as a nervous system, a frictionless “open for all“ art platform. However [this tweet](https://twitter.com/mattmedved/status/1385760755958562816) by Matt Medved captures an aspect of H=N that goes beyond rational analysis and explanations. Around the same time in April I [wrote](https://twitter.com/crcdng/status/1386658359290613760) “it feels a bit like the place you visit together after the grand gallery opening to have fun and explore” and shared a bit later my [impressions](https://twitter.com/crcdng/status/1386730188654977031)  during the second OBJKT4OBJCT weekend: “a new community of artists and curators is emerging, an art system within the art system”.
+
+This is for that community.
+
+### A Brief Timeline of Hic et Nunc
+
+#### September 17, 2018
+Launch of the public Tezos blockchain, the “mainnet”.
+https://tezos.com/
+
+#### March 1, 2020
+The first tweet from account https://twitter.com/hicetnunc2000 contains a link to the lecture A Thousand Years of Nonlinear History by philosopher Manuel DeLanda
+https://www.youtube.com/watch?v=u3aE3Z6llMc 
+
+#### May 19, 2020
+“rearranging architectures, terraforming autonomous communities […] hicetnunc2000 is a lab for decentralized computing experiments” (Medium)
+https://hicetnunc2000.medium.com/ungrund-e4ac3e30de9e 
+
+#### July 7, 2020
+“Hicetnunc by Rafael Lima, geared towards crowdfunding and crowdsourcing in the e-sports community, receives a grant by the Tezos foundation”
+https://tezos.foundation/fourth-cohort-grants/
+
+#### August 20, 2020
+“coming live” (Tweet)
+https://twitter.com/hicetnunc2000/status/1296554519933997058
+
+#### September 3, 2020
+The “Delphi” upgrade to the Tezos blockchain significantly reduces transaction costs, which makes microtransactions even more feasible. Out-of-control transaction fees and negative ecological impact 
+https://blog.nomadic-labs.com/delphi-official-release.html
+
+#### September 23, 2020
+“Friends, something has been bugging me for a while”, starts the tweet in which artist Memo Akten addresses concerns about the energy usage of crypto art. In the subsequent days and weeks a  ensues subsequently publishes research and a tool to calculate energy consumption of artworks and alternative models . In The ensuing artists hold back  
+http://cryptoart.wtf 
+https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053 
+https://github.com/memo/eco-nft
+
+#### September 27, 2020
+Rafael Lima develops random-bridge during chainlink hackathon
+https://www.youtube.com/watch?v=jKihf2JpqiA
+
+#### October 8, 2020
+“A microservice to upload files into IPFS” (Tweet)
+https://twitter.com/hicetnunc2000/status/1314084398124367872 
+
+#### October 17, 2020
+Milestone reached: “microfunding protocol is live” (Tweet) 
+https://twitter.com/hicetnunc2000/status/1317308306189332481 
+
+#### October 27, 2020
+Medium article ”hicetnunc microfunding protocol”
+https://hicetnunc2000.medium.com/hicetnunc-microfunding-protocol-e270a63eb73c 
+
+#### November 7, 2020
+hicetnunc.xzy Domain registration
+Tracked by https://www.hicetnunc.xyz/objkt/90853
+
+#### November 9, 2020
+First commit to the hicetnunc GitHub repo
+https://github.com/hicetnunc2000/hicetnunc/graphs/commit-activity
+
+#### November 12, 2020
+First Archive crawl of www.hicetnunc.xyz
+https://web.archive.org/web/20201112035107/https://www.hicetnunc.xyz/
+(The crawler had difficulties capturing the site. The first visible version 
+is from March 1, 2021 https://web.archive.org/web/20210301170201/https://www.hicetnunc.xyz/ )
+
+#### November 16, 2020
+First mention of NFTs as a giveaway (Tweet)
+https://twitter.com/hicetnunc2000/status/1328393465907064844
+https://better-call.dev/mainnet/KT1SRTR7jVzrBgwzbvbhp7SQ2WFomfqgsYAP/operations
+
+#### November 17, 2020
+First bug report (Tweet) 
+https://twitter.com/cryyptt2/status/1328619566264709122
+
+#### November 17, 2020
+First collectors (Tweet)
+https://twitter.com/Blindripper85/status/1328466738619576321 
+
+#### January 3, 2021
+H=N “evolved into a tool for creating micro-funding DAOs for any purpose” (xtz.news interview)
+https://xtz.news/dao-news/hicetnunc-microfunding-daos-on-tezos/ 
+The interview with Rafael Lima gives clues about the name “hic et nunc”, identifiable in Paul Virilio’s writings about a “futurism of the instant”, see for example Virilio, P., & Lotringer, S. (2001). After Architecture: A Conversation. Grey Room, 3, 32–53. doi:10.1162/152638101300138530 
+
+#### February 12, 2021
+First commit to the hicetnunc DAO smart contracts GitHub repo
+https://github.com/hicetnunc2000/hicetnuncDAO/graphs/commit-activity 
+
+#### February 15, 2021
+OBJKT Swap, a manifesto and roadmap (Medium)
+https://hicetnunc2000.medium.com/objkt-swap-62dbaf776336 
+
+#### February 18, 2021
+Artist and climate activist Joanie Lemercier sheds more light on the energy consumption of Proof-of-Work Ethereum cryptoart platforms. H=N runs on Tezos, a Proof-of-Stake blockchain whose energy impact 
+https://joanielemercier.com/the-problem-of-cryptoart/
+
+#### February 24, 2021
+Artist Mario Klingemann mints on H=N
+https://twitter.com/quasimondo/status/1364558512286806018
+
+#### March 1, 2021
+This date marks the official beginning of H=N, when “swapping OBJKTs” (trading of NFTs in H=N lingo) is possible. In parallel the governance hDAO token is released. The event is announced in an essay
+https://twitter.com/hicetnunc2000/status/1366345595405934592 
+https://hicetnunc2000.medium.com/objkt-swap-62dbaf776336
+https://better-call.dev/mainnet/KT1AFA2mwNUMNd4SsujE1YYp29vd8BZejyKW/tokens 
+
+#### March 10, 2021
+First commit to hicetnunc API GitHub repo
+https://github.com/hicetnunc2000/hicetnunc-api/graphs/commit-activity W
+
+#### March 16, 2021
+Taís Koshino writes the first(?) curation article on NFTs about H=N (Medium)
+https://hicetnunc2000.medium.com/creamy-picks-1-genesis-1b1e0468f576
+
+#### March 21, 2021
+Jason Bailey publishes an article about the new phenomenon on Artnome.
+https://www.artnome.com/news/2021/3/21/hic-et-nunc-revives-the-true-spirit-of-web-art-through-nfts
+
+#### March 25, 2021
+Pupila Dilatada, the first collaborative art show appears as a gallery on H=N.
+https://www.hicetnunc.xyz/gallery/pupiladilatada
+
+#### March 26-28, 2021
+The first OBJKT4OBJKT event in collaboration with the DiverseNftArt initiative takes place. Artists swap their NFTs for free. A second event in April attracts even more attention, but also reveals the problem of “hoarder bots”, programs written to mass-collect free objects and resell them.  
+https://www.hicetnunc.xyz/gallery/objkt4objkt
+https://diversenftart.hotglue.me/ 
+
+#### April 9, 2021
+"Not another JPEG." Artist M Plummer-Fernández shares thoughts about the blossoming (and sometimes stuttering) platform that attracts more and more people critical of mainstream NFT marketplaces. The essay itself is steganographically hidden in an acompanying NFT.
+https://www.plummerfernandez.com/works/not-another-jpeg/
+https://www.hicetnunc.xyz/objkt/27679
+
+#### April 19, 2021 
+The inaugural #TheFEN event takes place, a “coordinated drop” by a selection of artists curated by Juliette Bibasse and Joanie Lemercier. The events bring artists to the platform, including Auriea Harvey, Memo Akten, Addie Wagenknecht and Zai Divecha.
+http://thefen.io/  
+
+#### April 30, 2021
+H=N begins to overtake other NFT platforms, measured by daily active users (DAU).
+https://www.reddit.com/r/CryptoCurrency/comments/n1pxk7/hicetnunc_takes_over_opensea_in_becoming_the/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+
+#### May 16, 2021
+Creative coder and prolific tool creator Javier Graciá-Carpio reports 10.000 Artists on H=N and provides an NFT that visualises this development 
+https://www.hicetnunc.xyz/objkt/83576
+
+#### May 22/23, 2021
+Hickathon, the first H=N hackathon, originates from another tweet by Mario Klingemann, assembles more than 150 participants in 20 groups, who work fo 24 hours on a wide range of issues such as governance, site features and various improvements. The organisers, receiving overwhelming support from the community and the Tezos foundation,  manage to set up the Hickathon within a week and make it a fun event.
+https://www.hicathon.xyz/ 
+https://www.youtube.com/watch?v=NIy8F5b2_Pk 
+
+#### May 27, 2021
+H=N celebrates 100.000 minted NFTs.
+https://twitter.com/hicetnunc2000/status/1397724112806633475
+
+… to be continued
+
+Initial version by @crcdng using information from Twitter, Medium, Youtube and other public sources. Special thanks to Javier Graciá-Carpio [@jagracar](https://twitter.com/jagracar) for public data collection.
+
+Published under the Creative Commons Attribution 4.0 International License [(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
