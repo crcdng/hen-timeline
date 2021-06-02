@@ -110,6 +110,7 @@ Artist Mario Klingemann mints on H=N
 https://twitter.com/quasimondo/status/1364558512286806018
 
 #### March 1, 2021
+![](assets/20210301.png)
 This date marks the official beginning of H=N, when “swapping OBJKTs” (trading of NFTs in H=N lingo) is possible. At the same time, the governance hDAO token is released. 
 https://twitter.com/hicetnunc2000/status/1366345595405934592     
 https://better-call.dev/mainnet/KT1AFA2mwNUMNd4SsujE1YYp29vd8BZejyKW/tokens    
