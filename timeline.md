@@ -6,11 +6,11 @@
 * https://ostachowski.com/about/what-is-crypto-art-or-nft-art/history-of-crypto-art/ by Martin Lukas Ostachowski
 * https://nfttimeline.com/ 
 
-It will be up to everyoe individually to make sense of a phenomenon that is operating since March 1, 2021 and has reached 100.000 minted NFTs three months later. Beyond the numbers, the events listed below might provide clues while some strands appear: a set of experiments in various directions, an exploding crypto art energy debate, Twitter as a nervous system and amplifier, a frictionless “open for all“ art platform, Proof-of-Work vs. Proof-of-Stake. 
+It will be up to everyone individually to make sense of a phenomenon that is operating since March 1, 2021 and has reached 100.000 minted NFTs three months later. Beyond the numbers, the events listed below might provide some clues to the phenomenon: a set of experiments in various directions, an exploding crypto art energy debate, Twitter as a nervous system and amplifier, a frictionless “open for all“ art platform, an eco-friendly Proof-of-Stake blockchain, an emerging and diverse community that includes artists, collectors and hackers. 
 
-However, [this tweet](https://twitter.com/mattmedved/status/1385760755958562816) by Matt Medved captures another aspect of H=N that goes beyond rational analysis and historical explanations. Around the same time in April I [wrote](https://twitter.com/crcdng/status/1386658359290613760) “it feels a bit like the place you visit together after the grand gallery opening to have fun and explore” and shared my [impressions](https://twitter.com/crcdng/status/1386730188654977031) won during the second OBJKT4OBJCT weekend: “a new community of artists and curators is emerging, an art system within the art system”.
+However, [this tweet](https://twitter.com/mattmedved/status/1385760755958562816) by Matt Medved captures another aspect of H=N that goes beyond rational analysis and historical explanation. Around the same time in April I [wrote](https://twitter.com/crcdng/status/1386658359290613760) “it feels a bit like the place you visit together after the grand gallery opening to have fun and explore” and shared my [impressions](https://twitter.com/crcdng/status/1386730188654977031)  during the second [OBJKT4OBJCT](https://www.hicetnunc.xyz/gallery/objkt4objkt) weekend: “a new community of artists and curators is emerging, an art system within the art system”.
 
-This is for that community.
+This timeline is dedicated to the community.
 
 ### A Brief Timeline of Hic et Nunc
 
