@@ -106,8 +106,7 @@ https://joanielemercier.com/the-problem-of-cryptoart/
 https://medium.com/tqtezos/proof-of-work-vs-proof-of-stake-the-ecological-footprint-c58029faee44 
 
 #### February 24, 2021
-Artist Mario Klingemann mints on H=N
-https://twitter.com/quasimondo/status/1364558512286806018
+Artist Mario Klingemann mints what appears to be the 112th NFT on H=N: https://twitter.com/quasimondo/status/1364558512286806018. However, this work is among the first 152 NFTs that were created on a different smart contract and therefore have become "invisible". An NFT by Mike Tyka has collected those lost OBJKTs and links to the still available information on them: https://www.hicetnunc.xyz/objkt/24880
 
 #### March 1, 2021
 ![](assets/20210301.png)
