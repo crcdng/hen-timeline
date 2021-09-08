@@ -161,6 +161,18 @@ https://www.youtube.com/watch?v=NIy8F5b2_Pk
 H=N celebrates 100.000 minted NFTs.
 https://twitter.com/hicetnunc2000/status/1397724112806633475
 
+#### June 28, 2021
+It becomes public knowledge that a logic error in the H=N smart contract which allows an attacker to steal NFTs on the marketplace is actively exploited. In the turbulent fallout of the incident, the selling of NFTs (“swap”) has to be suspended while a new contract is being developed. Effectively this shuts the site down although the creation (“minting”) of new NFTs is still possible without risk. 
+
+Meanwhile, the apparent attacker, who operates under the moniker “hen-exploiter” is engaging with the community, mainly via the H=N discord channel. The ongoing issue also exposes rifts in the H=N community, amidst questions about the development of the site and the parallel opening of another marketplace named objkt.bid (now [object.com](https://objkt.com/)). An AMA (Ask me Anything) event with Rafael Lima brings some insights into the philosophy behind Hic et Nunc.  
+
+Controversial issues remain, yet members of the community react with a quality that can be observed as its strength: humour. As “hen-exploiter” is supposedly negative on Aubergines, a growing number of Aubergine-shaped NFTs are exchanged directly between artists and collectors under the hashtag #AUBJKT4AUBJKT.
+
+The H=N functionality is fully restored on July 6, after which all NFT have to be migrated to the new contract (“v2”).
+
+A detailed write up “Smart Contract Exploit Postmortem” by NoRulesJustFeels can be found here: 
+https://docs.google.com/document/d/1eZgAotkL3s0M9Dc3RahDWcXarFH0dR9_CMzQsvU6mYk/
+
 … to be continued
 
 *Initial version by @crcdng using information from Twitter, Medium, Youtube and other public sources. Special thanks to Javier Graciá-Carpio [@jagracar](https://twitter.com/jagracar) for public data collection.*
