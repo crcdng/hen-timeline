@@ -1,2 +1,2 @@
 # hen-timeline
-  A brief timeline of Hic et Nunc (H=N) 
+  A brief [timeline](timeline.md) of [Hic et Nunc](https://www.hicetnunc.xyz/) (H=N) 
