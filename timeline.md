@@ -166,7 +166,7 @@ It becomes public knowledge that a logic error in the H=N smart contract which a
 
 Meanwhile, the apparent attacker, who operates under the moniker “hen-exploiter” is engaging with the community, mainly via the H=N discord channel. The ongoing issue also exposes rifts in the H=N community, amidst questions about the development of the site and the parallel opening of another marketplace named objkt.bid (now [object.com](https://objkt.com/)). An AMA (Ask me Anything) event with Rafael Lima brings some insights into the philosophy behind Hic et Nunc.  
 
-![](assets/aubjkts.png)
+![](assets/20210701.png)
 Tweet by [@mumu_thestan](https://twitter.com/mumu_thestan), July 1
 Controversial issues remain, yet members of the community react with a quality that can be observed as its strength: humour. As “hen-exploiter” is supposedly negative on Aubergines, a growing number of Aubergine-shaped NFTs are exchanged directly between artists and collectors under the hashtag #AUBJKT4AUBJKT.
 
