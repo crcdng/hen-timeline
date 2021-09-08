@@ -168,6 +168,7 @@ Meanwhile, the apparent attacker, who operates under the moniker “hen-exploite
 
 ![](assets/20210701.png)
 Tweet by [@mumu_thestan](https://twitter.com/mumu_thestan), July 1
+
 Controversial issues remain, yet members of the community react with a quality that can be observed as its strength: humour. As “hen-exploiter” is supposedly negative on Aubergines, a growing number of Aubergine-shaped NFTs are exchanged directly between artists and collectors under the hashtag #AUBJKT4AUBJKT.
 
 The H=N functionality is fully restored on July 6, after which all NFT have to be migrated to the new contract (“v2”).
