@@ -178,6 +178,6 @@ https://docs.google.com/document/d/1eZgAotkL3s0M9Dc3RahDWcXarFH0dR9_CMzQsvU6mYk/
 
 … to be continued
 
-*Initial version by @crcdng using information from Twitter, Medium, Youtube and other public sources. Special thanks to Javier Graciá-Carpio [@jagracar](https://twitter.com/jagracar) for public data collection.*
+*written by [@crcdng](https://twitter.com/crcdng) based on research from Twitter, Medium, Youtube and other public sources. Special thanks to Javier Graciá-Carpio [@jagracar](https://twitter.com/jagracar) for public data collection.*
 
-Published under the Creative Commons Attribution 4.0 International License [(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+Published under the Creative Commons Attribution-NonCommercial 4.0 International License [(CC BY-NC 4.0)](https://creativecommons.org/licenses/by/4.0/)
