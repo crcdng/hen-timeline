@@ -61,7 +61,7 @@ Medium article ”hicetnunc microfunding protocol”
 https://hicetnunc2000.medium.com/hicetnunc-microfunding-protocol-e270a63eb73c 
 
 #### November 7, 2020
-hicetnunc.xzy Domain registration
+hicetnunc.xzy domain registration
 Tracked by https://www.hicetnunc.xyz/objkt/90853
 
 #### November 9, 2020
@@ -173,8 +173,11 @@ Controversial issues remain, yet members of the community react with a quality t
 
 The H=N functionality is fully restored on July 6, after which all NFT have to be migrated to the new contract (“v2”).
 
-A detailed write up “Smart Contract Exploit Postmortem” by NoRulesJustFeels can be found here: 
-https://docs.google.com/document/d/1eZgAotkL3s0M9Dc3RahDWcXarFH0dR9_CMzQsvU6mYk/
+A detailed write up “Smart Contract Exploit Postmortem” by NoRulesJustFeels can be found [here](https://docs.google.com/document/d/1eZgAotkL3s0M9Dc3RahDWcXarFH0dR9_CMzQsvU6mYk/)
+
+### November 2, 2021
+One year after the domain registration, eight months after the first NFTs were swapped on HEN (see above) and amidst some internal and external debate,
+the community is celebrating 500.000 OBJKTs (NFTs) on the platform, using the hashtag #hen500k. Also, the community has roughly a size of 50.000 artists and collectors, while around 5.000 visitors engage with Hic et Nunc daily. Community member and prolific coder [@nftbiker](https://twitter.com/NFTBiker) has provided a [tool to access the contributions](https://nftbiker.xyz/event/hen500k?sort=date). 
 
 … to be continued
 
