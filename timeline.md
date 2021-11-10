@@ -35,7 +35,7 @@ https://tezos.foundation/fourth-cohort-grants/
 https://twitter.com/hicetnunc2000/status/1296554519933997058
 
 #### September 3, 2020
-The “Delphi” upgrade to the Tezos blockchain significantly reduces transaction costs, which makes microtransactions even more feasible. Out-of-control transaction fees and negative ecological impact 
+The “Delphi” upgrade to the Tezos blockchain significantly reduces transaction costs, which makes microtransactions even more feasible. Out-of-control transaction fees and negative ecological impact. 
 https://blog.nomadic-labs.com/delphi-official-release.html
 
 #### September 23, 2020
@@ -45,7 +45,7 @@ https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d
 https://github.com/memo/eco-nft
 
 #### September 27, 2020
-Rafael Lima develops random-bridge during chainlink hackathon
+Rafael Lima develops random-bridge during chainlink hackathon.
 https://www.youtube.com/watch?v=jKihf2JpqiA
 
 #### October 8, 2020
@@ -119,7 +119,7 @@ First commit to hicetnunc API GitHub repo
 https://github.com/hicetnunc2000/hicetnunc-api/graphs/commit-activity 
 
 #### March 16, 2021
-Taís Koshino writes the first(?) curation article on NFTs about H=N (Medium)
+Taís Koshino writes the first(?) curation article on NFTs about H=N (Medium).
 https://hicetnunc2000.medium.com/creamy-picks-1-genesis-1b1e0468f576
 
 #### March 21, 2021
