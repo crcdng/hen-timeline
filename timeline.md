@@ -116,7 +116,7 @@ https://better-call.dev/mainnet/KT1AFA2mwNUMNd4SsujE1YYp29vd8BZejyKW/tokens
 
 #### March 10, 2021
 First commit to hicetnunc API GitHub repo
-https://github.com/hicetnunc2000/hicetnunc-api/graphs/commit-activity W
+https://github.com/hicetnunc2000/hicetnunc-api/graphs/commit-activity 
 
 #### March 16, 2021
 Taís Koshino writes the first(?) curation article on NFTs about H=N (Medium)
