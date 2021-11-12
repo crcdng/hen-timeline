@@ -1,6 +1,6 @@
 ###  Introduction
 
-[Hic et Nunc](https://www.hicetnunc.xyz/) (abbreviated H=N, sometimes HEN or hen) is the first NFT art place on the [Tezos](https://tezos.com/) blockchain. This brief timeline is meant to help preserve common memory by capturing some of the key events that led up to the current phenomenon. Therefore it puts focus on H=N itself, not trying to serve as a timeline of blockchains, NFTs or crypto art in general. For these topics some excellent resources are available, e.g:
+[Hic et Nunc](https://web.archive.org/web/20211107123525/https://www.hicetnunc.xyz/) (abbreviated H=N, sometimes HEN or hen) is the first NFT art place on the [Tezos](https://tezos.com/) blockchain. This brief timeline is meant to help preserve common memory by capturing some of the key events that led up to the current phenomenon. Therefore it puts focus on H=N itself, not trying to serve as a timeline of blockchains, NFTs or crypto art in general. For these topics some excellent resources are available, e.g:
 
 * https://decal.furtherfield.org/2020/05/22/a-blockchain-art-history-timeline/ by Furtherfield
 * https://ostachowski.com/about/what-is-crypto-art-or-nft-art/history-of-crypto-art/ by Martin Lukas Ostachowski
@@ -8,7 +8,7 @@
 
 It will be up to everyone individually to make sense of a phenomenon that is operating since March 1, 2021 and has reached 100.000 minted NFTs three months later. Beyond the numbers, the events listed below might provide some clues to the phenomenon: a set of experiments in various directions, an exploding crypto art energy debate, Twitter as a nervous system and amplifier, a frictionless “open for all“ art platform, an eco-friendly Proof-of-Stake blockchain, an emerging and diverse community that includes artists, collectors and hackers. 
 
-However, [this tweet](https://twitter.com/mattmedved/status/1385760755958562816) by Matt Medved captures another aspect of H=N that goes beyond rational analysis and historical explanation. Around the same time in April I [wrote](https://twitter.com/crcdng/status/1386658359290613760) “it feels a bit like the place you visit together after the grand gallery opening to have fun and explore” and shared my [impressions](https://twitter.com/crcdng/status/1386730188654977031)  during the second [OBJKT4OBJCT](https://www.hicetnunc.xyz/gallery/objkt4objkt) weekend: “a new community of artists and curators is emerging, an art system within the art system”.
+However, [this tweet](https://twitter.com/mattmedved/status/1385760755958562816) by Matt Medved captures another aspect of H=N that goes beyond rational analysis and historical explanation. Around the same time in April I [wrote](https://twitter.com/crcdng/status/1386658359290613760) “it feels a bit like the place you visit together after the grand gallery opening to have fun and explore” and shared my [impressions](https://twitter.com/crcdng/status/1386730188654977031)  during the second OBJKT4OBJCT weekend: “a new community of artists and curators is emerging, an art system within the art system”.
 
 This timeline is dedicated to the community.
 
@@ -62,7 +62,7 @@ https://hicetnunc2000.medium.com/hicetnunc-microfunding-protocol-e270a63eb73c
 
 #### November 7, 2020
 hicetnunc.xzy domain registration
-Tracked by https://www.hicetnunc.xyz/objkt/90853
+Tracked by https://hic.af/objkt/90853
 
 #### November 9, 2020
 First commit to the hicetnunc GitHub repo
@@ -106,7 +106,7 @@ https://joanielemercier.com/the-problem-of-cryptoart/
 https://medium.com/tqtezos/proof-of-work-vs-proof-of-stake-the-ecological-footprint-c58029faee44 
 
 #### February 24, 2021
-Artist Mario Klingemann mints what appears to be the 112th NFT on H=N: https://twitter.com/quasimondo/status/1364558512286806018. However, this work is among the first 152 NFTs that were created on a different smart contract and therefore have become "invisible". An NFT by Mike Tyka has collected those lost OBJKTs and links to the still available information on them: https://www.hicetnunc.xyz/objkt/24880
+Artist Mario Klingemann mints what appears to be the 112th NFT on H=N: https://twitter.com/quasimondo/status/1364558512286806018. However, this work is among the first 152 NFTs that were created on a different smart contract and therefore have become "invisible". An NFT by Mike Tyka has collected those lost OBJKTs and links to the still available information on them: https://hic.af/objkt/24880
 
 #### March 1, 2021
 ![](assets/20210301.png)
@@ -128,17 +128,15 @@ https://www.artnome.com/news/2021/3/21/hic-et-nunc-revives-the-true-spirit-of-we
 
 #### March 25, 2021
 Pupila Dilatada, the first collaborative art show appears as a gallery on H=N.
-https://www.hicetnunc.xyz/gallery/pupiladilatada
 
 #### March 26-28, 2021
 The first OBJKT4OBJKT event in collaboration with the DiverseNftArt initiative takes place. Artists swap their NFTs for free. The second event in late April attracts even more attention but also reveals the problem of “hoarder bots”, programs written to mass-collect free objects and resell them.  
-https://www.hicetnunc.xyz/gallery/objkt4objkt    
 https://diversenftart.hotglue.me/     
 
 #### April 9, 2021
 "Not another JPEG." Artist M Plummer-Fernández shares thoughts about the blossoming (and sometimes stuttering) platform that attracts more and more people critical of mainstream NFT marketplaces. The essay itself is steganographically hidden in an acompanying NFT.
 https://www.plummerfernandez.com/works/not-another-jpeg/    
-https://www.hicetnunc.xyz/objkt/27679    
+https://hic.af/objkt/27679    
 
 #### April 19, 2021 
 The inaugural #TheFEN event takes place, a “coordinated drop” by a selection of artists curated by Juliette Bibasse and Joanie Lemercier. The events bring artists to the platform, including Auriea Harvey, Memo Akten, Addie Wagenknecht and Zai Divecha.
@@ -150,7 +148,7 @@ https://www.reddit.com/r/CryptoCurrency/comments/n1pxk7/hicetnunc_takes_over_ope
 
 #### May 16, 2021
 Creative coder and prolific tool creator Javier Graciá-Carpio reports 10.000 Artists on H=N and provides an NFT that visualises this development 
-https://www.hicetnunc.xyz/objkt/83576
+https://hic.af/objkt/83576
 
 #### May 22/23, 2021
 Hickathon, the first H=N hackathon, originates from another tweet by Mario Klingemann, assembles more than 150 participants in 20 groups, who keep working during 24 hours on a wide range of issues such as governance, site features and various improvements. The organisers, receiving overwhelming support from the community and from the Tezos foundation, manage to set up the Hickathon within a week and make it a fun event.
@@ -181,6 +179,6 @@ the community is celebrating 500.000 OBJKTs (NFTs) on the platform, using the ha
 
 … to be continued
 
-*written by [@crcdng](https://twitter.com/crcdng) based on research from Twitter, Medium, Youtube and other public sources. Special thanks to Javier Graciá-Carpio [@jagracar](https://twitter.com/jagracar) for public data collection.*
+*written by [@crcdng](https://twitter.com/crcdng) based on research from Twitter, Medium, Youtube and other public sources. Special thanks to Javier Graciá-Carpio [@jagracar](https://twitter.com/jagracar) for public data collection and to https://hic.af for the links.*
 
 Published under the Creative Commons Attribution-NonCommercial 4.0 International License [(CC BY-NC 4.0)](https://creativecommons.org/licenses/by/4.0/)
