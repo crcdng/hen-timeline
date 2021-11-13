@@ -133,8 +133,8 @@ Pupila Dilatada, the first collaborative art show appears as a gallery on H=N.
 The first OBJKT4OBJKT event in collaboration with the DiverseNftArt initiative takes place. Artists swap their NFTs for free. The second event in late April attracts even more attention but also reveals the problem of “hoarder bots”, programs written to mass-collect free objects and resell them.  
 https://diversenftart.hotglue.me/     
 
-#### March 31, 2021
-Artist [@muratpak](https://twitter.com/muratpak) tweets out the first version of what will become, after discussions, the HEN logo, shaping the visual identity of the project: https://twitter.com/muratpak/status/1377312115422343169?s=21. According to curator [@TaisKoshino](https://twitter.com/TaisKoshino) the logo was created by an Brazilian artist, I will update this entry accordingly after getting the facts. 
+#### March 31, 2021 (Contested)
+Artist [@muratpak](https://twitter.com/muratpak) tweets out the first version of what will become, after discussions, the HEN logo, shaping the visual identity of the project: https://twitter.com/muratpak/status/1377312115422343169?s=21. According to artist [@koshino](https://twitter.com/koshino) the logo was created by an Brazilian artist. I try to get the facts, then will update this entry. 
 
 #### April 9, 2021
 "Not another JPEG." Artist M Plummer-Fernández shares thoughts about the blossoming (and sometimes stuttering) platform that attracts more and more people critical of mainstream NFT marketplaces. The essay itself is steganographically hidden in an acompanying NFT.
