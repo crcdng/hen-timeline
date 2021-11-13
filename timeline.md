@@ -181,7 +181,8 @@ One year after the domain registration, eight months after the first NFTs were s
 the community is celebrating 500.000 OBJKTs (NFTs) on the platform, using the hashtag #hen500k. Also, the community has roughly a size of 50.000 artists and collectors, while around 5.000 visitors engage with Hic et Nunc daily. Community member and prolific coder [@nftbiker](https://twitter.com/NFTBiker) has provided a [tool to access the contributions](https://nftbiker.xyz/event/hen500k?sort=date). 
 
 ### November 11, 2021
-Founder Rafael Lima pulls the plug on the Hic et Nunc website hicetnunc.xyz. 
+![](assets/20211111.png)
+"discontinued": founder Rafael Lima pulls the plug on the Hic et Nunc website hicetnunc.xyz. 
 
 Due to the decentralized nature of the underlying technology, alternative front-ends such as https://hic.af/, https://www.henext.xyz/, https://objkt.com/ continue running and mirrors of the original site such as http://hen.teztools.io, http://hicetnunc.art, http://hen.hicathon.xyz, http://hicetnunc.cc are spun up within a few hours.
 
