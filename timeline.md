@@ -122,8 +122,9 @@ https://github.com/hicetnunc2000/hicetnunc-api/graphs/commit-activity
 Taís Koshino writes the first(?) curation article on NFTs about H=N (Medium).
 https://hicetnunc2000.medium.com/creamy-picks-1-genesis-1b1e0468f576
 
-#### March 21, 2021
-Jason Bailey publishes an article about the new phenomenon on Artnome.
+#### March 20/21, 2021
+Jack Rusher and Jason Bailey (Artnome) publish articles about the new phenomenon.    
+https://jackrusher.com/journal/what-does-it-mean-to-buy-a-gif.html.   
 https://www.artnome.com/news/2021/3/21/hic-et-nunc-revives-the-true-spirit-of-web-art-through-nfts
 
 #### March 25, 2021
