@@ -154,6 +154,10 @@ https://www.reddit.com/r/CryptoCurrency/comments/n1pxk7/hicetnunc_takes_over_ope
 Creative coder and prolific tool creator Javier Graciá-Carpio reports 10.000 Artists on H=N and provides an NFT that visualises this development 
 https://hic.af/objkt/83576
 
+#### May 17, 2021
+In an article for https://restofworld.org/, Claire L. Evans describes the Brazilian art scene and background of Hic et Nunc.    
+https://restofworld.org/2021/inside-brazils-diy-nft-art-marketplace/
+
 #### May 22/23, 2021
 Hickathon, the first H=N hackathon, originates from another tweet by Mario Klingemann, assembles more than 150 participants in 20 groups, who keep working during 24 hours on a wide range of issues such as governance, site features and various improvements. The organisers, receiving overwhelming support from the community and from the Tezos foundation, manage to set up the Hickathon within a week and make it a fun event.
 https://www.hicathon.xyz/ 
