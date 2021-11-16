@@ -165,7 +165,7 @@ https://twitter.com/hicetnunc2000/status/1397724112806633475
 #### June 28, 2021
 It becomes public knowledge that a logic error in the H=N smart contract which allows an attacker to steal NFTs on the marketplace is actively exploited. In the turbulent fallout of the incident, the selling of NFTs (“swap”) has to be suspended while a new contract is being developed. Effectively this shuts the site down although the creation (“minting”) of new NFTs is still possible without risk. 
 
-Meanwhile, the apparent attacker, who operates under the moniker “hen-exploiter” is engaging with the community, mainly via the H=N discord channel. The ongoing issue also exposes rifts in the H=N community, amidst questions about the development of the site and the parallel opening of another marketplace named objkt.bid (now [object.com](https://objkt.com/)). An AMA (Ask me Anything) event with Rafael Lima brings some insights into the philosophy behind Hic et Nunc.  
+Meanwhile, the apparent attacker, who operates under the moniker “hen-exploiter” is engaging with the community, mainly via the H=N discord channel. The ongoing issue also exposes rifts in the H=N community, amidst questions about the development of the site and the parallel opening of another marketplace named objkt.bid (now [object.com](https://objkt.com/)). An AMA (Ask me Anything) event with Rafael Lima, [published here on Youtube](https://www.youtube.com/watch?v=8iGMIxTap7A) on July 4, 2021  brings some insights into the philosophy behind Hic et Nunc.  
 
 ![](assets/20210701.png)
 Tweet by [@mumu_thestan](https://twitter.com/mumu_thestan), July 1
