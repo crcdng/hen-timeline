@@ -122,8 +122,9 @@ https://github.com/hicetnunc2000/hicetnunc-api/graphs/commit-activity
 Taís Koshino writes the first(?) curation article on NFTs about H=N (Medium).
 https://hicetnunc2000.medium.com/creamy-picks-1-genesis-1b1e0468f576
 
-#### March 21, 2021
-Jason Bailey publishes an article about the new phenomenon on Artnome.
+#### March 20/21, 2021
+Jack Rusher and Jason Bailey (Artnome) publish articles about the new phenomenon.    
+https://jackrusher.com/journal/what-does-it-mean-to-buy-a-gif.html.   
 https://www.artnome.com/news/2021/3/21/hic-et-nunc-revives-the-true-spirit-of-web-art-through-nfts
 
 #### March 25, 2021
@@ -133,8 +134,8 @@ Pupila Dilatada, the first collaborative art show appears as a gallery on H=N.
 The first OBJKT4OBJKT event in collaboration with the DiverseNftArt initiative takes place. Artists swap their NFTs for free. The second event in late April attracts even more attention but also reveals the problem of “hoarder bots”, programs written to mass-collect free objects and resell them.  
 https://diversenftart.hotglue.me/     
 
-#### March 31, 2021 (Contested)
-Artist [@muratpak](https://twitter.com/muratpak) tweets out the first version of what will become, after discussions, the HEN logo, shaping the visual identity of the project: https://twitter.com/muratpak/status/1377312115422343169?s=21. According to artist [@koshino](https://twitter.com/koshino) the logo was created by an Brazilian artist. I try to get the facts, then will update this entry. 
+#### March 31, 2021 
+[@muratpak](https://twitter.com/muratpak) tweets out the first version of what will become, after discussions and adaptions, the HEN logo, thereby shaping the visual identity of the project: https://twitter.com/muratpak/status/1377312115422343169?s=21. According to [@koshino](https://twitter.com/koshino) the logo was created in a collaboration between artists Julio Glatt and Murat Pak.
 
 #### April 9, 2021
 "Not another JPEG." Artist M Plummer-Fernández shares thoughts about the blossoming (and sometimes stuttering) platform that attracts more and more people critical of mainstream NFT marketplaces. The essay itself is steganographically hidden in an acompanying NFT.
@@ -152,6 +153,10 @@ https://www.reddit.com/r/CryptoCurrency/comments/n1pxk7/hicetnunc_takes_over_ope
 #### May 16, 2021
 Creative coder and prolific tool creator Javier Graciá-Carpio reports 10.000 Artists on H=N and provides an NFT that visualises this development 
 https://hic.af/objkt/83576
+
+#### May 17, 2021
+In an article for https://restofworld.org/, Claire L. Evans describes the Brazilian art scene and background of Hic et Nunc.    
+https://restofworld.org/2021/inside-brazils-diy-nft-art-marketplace/
 
 #### May 22/23, 2021
 Hickathon, the first H=N hackathon, originates from another tweet by Mario Klingemann, assembles more than 150 participants in 20 groups, who keep working during 24 hours on a wide range of issues such as governance, site features and various improvements. The organisers, receiving overwhelming support from the community and from the Tezos foundation, manage to set up the Hickathon within a week and make it a fun event.
