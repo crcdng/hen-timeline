@@ -6,7 +6,7 @@
 * https://ostachowski.com/about/what-is-crypto-art-or-nft-art/history-of-crypto-art/ by Martin Lukas Ostachowski
 * https://nfttimeline.com/ 
 
-It will be up to everyone individually to make sense of a phenomenon that is operating since March 1, 2021 and has reached 100.000 minted NFTs three months later. Beyond the numbers, the events listed below might provide some clues to the phenomenon: a set of experiments in various directions, an exploding crypto art energy debate, Twitter as a nervous system and amplifier, a frictionless “open for all“ art platform, an eco-friendly Proof-of-Stake blockchain, an emerging and diverse community that includes artists, collectors and hackers. 
+It will be up to everyone individually to make sense of a phenomenon that, for most people, is operating since March 1, 2021 and has reached 100.000 minted NFTs three months and 500.000 eight months later. Beyond the numbers, the events listed below might provide some clues to the phenmenon: a set of experiments in various directions, an exploding crypto art energy debate, Twitter as a nervous system and amplifier, a frictionless “open for all“ art platform, an eco-friendly Proof-of-Stake blockchain, an emerging and diverse community that includes artists, collectors and hackers. 
 
 However, [this tweet](https://twitter.com/mattmedved/status/1385760755958562816) by Matt Medved captures another aspect of H=N that goes beyond rational analysis and historical explanation. Around the same time in April I [wrote](https://twitter.com/crcdng/status/1386658359290613760) “it feels a bit like the place you visit together after the grand gallery opening to have fun and explore” and shared my [impressions](https://twitter.com/crcdng/status/1386730188654977031)  during the second OBJKT4OBJCT weekend: “a new community of artists and curators is emerging, an art system within the art system”.
 
@@ -90,7 +90,7 @@ https://twitter.com/Blindripper85/status/1328466738619576321
 #### January 3, 2021
 H=N “evolved into a tool for creating micro-funding DAOs for any purpose” (xtz.news interview)
 https://xtz.news/dao-news/hicetnunc-microfunding-daos-on-tezos/ 
-The interview with Rafael Lima gives clues about the name “hic et nunc”, identifiable in Paul Virilio’s writings about a “futurism of the instant”, see for example Virilio, P., & Lotringer, S. (2001). After Architecture: A Conversation. Grey Room, 3, 32–53. doi:10.1162/152638101300138530 
+This interview with Rafael Lima gives not only provides insights into the plans and ideas of the founder, it also gives a clue about the name “hic et nunc”, identifiable in Paul Virilio’s writings about a “futurism of the instant”, see for example Virilio, P., & Lotringer, S. (2001). After Architecture: A Conversation. Grey Room, 3, 32–53. doi:10.1162/152638101300138530 
 
 #### February 12, 2021
 First commit to the hicetnunc DAO smart contracts GitHub repo
@@ -182,14 +182,15 @@ The H=N functionality is fully restored on July 6, after which all NFT have to b
 A detailed write up “Smart Contract Exploit Postmortem” by NoRulesJustFeels can be found [here](https://docs.google.com/document/d/1eZgAotkL3s0M9Dc3RahDWcXarFH0dR9_CMzQsvU6mYk/)
 
 ### November 2, 2021
-One year after the domain registration, eight months after the first NFTs were swapped on HEN (see above) and amidst some internal and external debate,
-the community is celebrating 500.000 OBJKTs (NFTs) on the platform, using the hashtag #hen500k. Also, the community has roughly a size of 50.000 artists and collectors, while around 5.000 visitors engage with Hic et Nunc daily. Community member and prolific coder [@nftbiker](https://twitter.com/NFTBiker) has provided a [tool to access the contributions](https://nftbiker.xyz/event/hen500k?sort=date). 
+One year after the domain registration, eight months after the first NFTs were swapped on HEN (see above) and amidst some internal and external debate, the community celebrates 500.000 OBJKTs (NFTs) on the platform, using the hashtag #hen500k. Also, the community has roughly reached a size of 50.000 artists and collectors, while around 5.000 visitors engage with Hic et Nunc every day. Community member and prolific coder [@nftbiker](https://twitter.com/NFTBiker) has provided a [tool to access the #hen500k contributions](https://nftbiker.xyz/event/hen500k?sort=date). 
 
 ### November 11, 2021
 ![](assets/20211111.png)
 "discontinued": founder Rafael Lima pulls the plug on the Hic et Nunc website hicetnunc.xyz. 
 
-Due to the decentralized nature of the underlying technology, alternative front-ends such as https://hic.af/, https://www.henext.xyz/, https://objkt.com/ continue running and mirrors of the original site such as http://hen.teztools.io, http://hicetnunc.art, http://hen.hicathon.xyz, http://hicetnunc.cc are spun up within a few hours.
+Due to the decentralized nature of the underlying technology, alternative front-ends such as https://hic.af/, https://www.henext.xyz/, https://objkt.com/ continue running unaffected and mirrors of the original site such as http://hen.teztools.io, http://hicetnunc.art, http://hen.hicathon.xyz, http://hicetnunc.cc are spun up within a few hours. 
+
+In the January 2021 interview (see above), Rafael Lima is quoted as follows: "**We intend to present it as a public blockchain infrastructure, and we are looking into taking it to full decentralization, making it persist beyond even my own will**". The events on and after November 11 appear to confirm this vision.
 
 … to be continued
 
