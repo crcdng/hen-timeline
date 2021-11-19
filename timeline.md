@@ -135,7 +135,7 @@ The first OBJKT4OBJKT event in collaboration with the DiverseNftArt initiative t
 https://diversenftart.hotglue.me/     
 
 #### March 31, 2021 
-[@muratpak](https://twitter.com/muratpak) tweets out the first version of what will become, after discussions and adaptions, the HEN logo, thereby shaping the visual identity of the project: https://twitter.com/muratpak/status/1377312115422343169?s=21. According to [@koshino](https://twitter.com/koshino) the logo was created in a collaboration between artists Julio Glatt and Murat Pak.
+[@muratpak](https://twitter.com/muratpak) tweets out the first version of what will become, after discussions and adaptions, the HEN logo, thereby shaping the visual identity of the project: https://twitter.com/muratpak/status/1377312115422343169?s=21. Responsible for the design and conceptual studies was artist [Julio Glatt](https://twitter.com/JulioGlatt/status/1461641499087708166?s=20).
 
 #### April 9, 2021
 "Not another JPEG." Artist M Plummer-Fernández shares thoughts about the blossoming (and sometimes stuttering) platform that attracts more and more people critical of mainstream NFT marketplaces. The essay itself is steganographically hidden in an acompanying NFT.
