@@ -1,14 +1,14 @@
 ###  Introduction
 
-[Hic et Nunc](https://web.archive.org/web/20211107123525/https://www.hicetnunc.xyz/) (abbreviated H=N, sometimes HEN or hen) is the first NFT art place on the [Tezos](https://tezos.com/) blockchain. This brief timeline is meant to help preserve common memory by capturing some of the key events that led up to the current phenomenon. Therefore it puts focus on H=N itself, not trying to serve as a timeline of blockchains, NFTs or crypto art in general. For these topics some excellent resources are available, e.g:
+[Hic et Nunc](https://web.archive.org/web/20211107123525/https://www.hicetnunc.xyz/) (abbreviated H=N, sometimes HEN or hen) is the first NFT art place on the [Tezos](https://tezos.com/) blockchain. This brief timeline is meant to help preserve common memory by capturing some of the key events that led up to the current phenomenon. Therefore it focuses on H=N itself and does not attempt to serve as a timeline of blockchains, NFTs or crypto art in general. These topics are covered in some excellent resources:
 
 * https://decal.furtherfield.org/2020/05/22/a-blockchain-art-history-timeline/ by Furtherfield
 * https://ostachowski.com/about/what-is-crypto-art-or-nft-art/history-of-crypto-art/ by Martin Lukas Ostachowski
 * https://nfttimeline.com/ 
 
-It will be up to everyone individually to make sense of a phenomenon that, for most people, is operating since March 1, 2021 and has reached 100.000 minted NFTs three months and 500.000 eight months later. Beyond the numbers, the events listed below might provide some clues to the phenmenon: a set of experiments in various directions, an exploding crypto art energy debate, Twitter as a nervous system and amplifier, a frictionless “open for all“ art platform, an eco-friendly Proof-of-Stake blockchain, an emerging and diverse community that includes artists, collectors and hackers. 
+It will be up to everyone individually to make sense of a phenomenon that, for most people, is operating since March 1, 2021 and reached 100.000 minted NFTs three months and 500.000 eight months later. Beyond the numbers, the events listed below might provide some clues to the phenmenon: a set of experiments in various directions, an exploding crypto art energy debate, Twitter as a nervous system and amplifier, a frictionless “open for all“ art platform, an eco-friendly Proof-of-Stake blockchain, an emerging and diverse community that includes artists, collectors and hackers. 
 
-However, [this tweet](https://twitter.com/mattmedved/status/1385760755958562816) by Matt Medved captures another aspect of H=N that goes beyond rational analysis and historical explanation. Around the same time in April I [wrote](https://twitter.com/crcdng/status/1386658359290613760) “it feels a bit like the place you visit together after the grand gallery opening to have fun and explore” and shared my [impressions](https://twitter.com/crcdng/status/1386730188654977031)  during the second OBJKT4OBJCT weekend: “a new community of artists and curators is emerging, an art system within the art system”.
+However, [this tweet](https://twitter.com/mattmedved/status/1385760755958562816) by Matt Medved captures another aspect of H=N that goes beyond rational analysis and historical explanation. Around the same time in April I [wrote](https://twitter.com/crcdng/status/1386658359290613760) “it feels a bit like the place you visit together after the grand gallery opening to have fun and explore” and shared my [impressions](https://twitter.com/crcdng/status/1386730188654977031) during the second OBJKT4OBJCT weekend: “a new community of artists and curators is emerging, an art system within the art system”.
 
 This timeline is dedicated to the community.
 
@@ -150,6 +150,9 @@ http://thefen.io/
 H=N begins to overtake other NFT platforms, measured by daily active users (DAU).
 https://www.reddit.com/r/CryptoCurrency/comments/n1pxk7/hicetnunc_takes_over_opensea_in_becoming_the/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
 
+#### May 15, 2021
+The [Tibium residency](https://twitter.com/tibumresidency), promoted by Hic et Nunc, enables creators from the Global South to develop "connections, experiments and critical thought about NFTs."
+
 #### May 16, 2021
 Creative coder and prolific tool creator Javier Graciá-Carpio reports 10.000 Artists on H=N and provides an NFT that visualises this development 
 https://hic.af/objkt/83576
@@ -188,9 +191,24 @@ One year after the domain registration, eight months after the first NFTs were s
 ![](assets/20211111.png)
 "discontinued": founder Rafael Lima pulls the plug on the Hic et Nunc website hicetnunc.xyz. 
 
-Due to the decentralized nature of the underlying technology, alternative front-ends such as https://hic.af/, https://www.henext.xyz/, https://objkt.com/ continue running unaffected and mirrors of the original site such as http://hen.teztools.io, http://hicetnunc.art, http://hen.hicathon.xyz, http://hicetnunc.cc are spun up within a few hours. 
+Due to the decentralized nature of the underlying technology, alternative front-ends such as https://hic.af/, https://www.henext.xyz/ or https://objkt.com/ continue running unaffected and mirrors of the original site such as http://hen.teztools.io, http://hicetnunc.art, http://hen.hicathon.xyz, http://hicetnunc.cc spin up within a few hours. 
 
-In the January 2021 interview (see above), Rafael Lima is quoted as follows: "**We intend to present it as a public blockchain infrastructure, and we are looking into taking it to full decentralization, making it persist beyond even my own will**". The events on and after November 11 appear to confirm this vision.
+In an interview in January 2021 (see above), Rafael Lima is quoted as follows: "**We intend to present it as a public blockchain infrastructure, and we are looking into taking it to full decentralization, making it persist beyond even my own will**". The events during and after November 11 appear to confirm this vision.
+
+### December 31, 2021
+As the year 2021 draws to a close and a new year is swapped in, many questions remain: what does "Hic et Nunc" mean after November 11? Is Hic et Nunc still alive? Has this timeline stoped or can it be continued after all? Some people seem to assume Hic et Nunc is gone while others have pragmatically swapped the domain suffix ".xyz" for ".art" and kept going. 
+
+At its technical core, Hic et Nunc consists of [a number of smart contracts](https://github.com/hicetnunc2000/objkt-swap) on the Tezos blockchain plus some other stuff on top of it. One contract governs minting - the creation of OBJKTs - the other one, a marketplace contract, controls the subsequent trade of these OBJKTs through swap and collect operations. According to plans in the community, that second contract is going to be replaced by a successor that will redirect future platform fees to the community. For the sake of transparency, current and future HEN frontends probably should prominently state the contracts they are minting and trading on. 
+
+The "other stuff" includes the storage of NFT assets on [IPFS](https://ipfs.io/), an indexer that caches blockchain information in a database for performance reasons and code for the front end. There is also a governance token called hDAO that has seen some experimental use. Within that structure, what exactly makes up Hic et Nunc as an entity is not exactly clear. However, we are quite comfortable to assign identity to mutable structures like our own bodies, whose elements (cells) are regenerated periodically. I would assume a necessary condition for Hic et Nunc is minting the OBJKT - the NFT - on the Hic et Nunc contract. But is it sufficient?
+
+Apart from that narrow technical view, political, economic and legal aspects such as ownership over a project and issues of intellectual property do raise important concerns. Is it OK for the community to continue the project? Can it use the name "Hic et Nunc", a similiar name or a different name? What should be done about the hDAO ownership token? Who actually is "the HEN community" and who is speaking in its name? Will it be able to transform itself into a Decentralized Autonomous Organization (DAO), a form of decentralized owenership? Or maybe [alternative models](https://disco.coop/) can be adopted that appear suited to a commons-oriented  spirit?  
+
+We might never know, as in the debates on Twitter spaces and Discord we can see numerous conflicting interests, fueled by opinion, amplification of the loudest voices, speculation and unsubstantiated claims about the founder's intentions. After numerous heated internal and external discussions, and amidst a difficult and problematic namefinding procedure, the emerging community is still in the process of finding itself before it can rebrand and move on. From a critical perspective it must be acknowledge that there are  much more pressing issues such as concerning FUD and hostility against NFT creators from art establishment figures and fringe groups, while a significant portion of the community's energy seem to be taken up by internalities. 
+
+But it is crucial to look around: each system has its own environment. Hic et Nunc's environment saw a surge of Tezos NFT projects and platforms, notably the NFT metaplatform [Objkt.com](https://objkt.com/) and the generative art experiment [Fxhash](https://www.fxhash.xyz/), the entrance of Tezos NFT art at [Art Basel Miami Beach](https://tezos.com/events/art-basel/) and mainstream NFT platform [Rarible](https://rarible.com/), and a growing number of artist collectives such as [Malaysianft](http://mnft.nfxt.gg/) and [Alterhen](https://alterhen.art/). 
+
+The road into 2022 couldn't be more exciting. One thing however is clear: It is nonfungible. Take care.
 
 … to be continued
 
