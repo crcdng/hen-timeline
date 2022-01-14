@@ -26,6 +26,11 @@ https://www.youtube.com/watch?v=u3aE3Z6llMc
 “rearranging architectures, terraforming autonomous communities […] hicetnunc2000 is a lab for decentralized computing experiments” (Medium)
 https://hicetnunc2000.medium.com/ungrund-e4ac3e30de9e 
 
+#### Jul 7, 2020
+Rafael Lima wins the Tezos + CoinList Hackathon with the project "Ungrund Oracle - open source infrastructure to connect microsservices to the tezos network"
+https://blog.coinlist.co/announcing-the-winners-of-the-tezos-coinlist-hackathon/    
+https://coinlist.co/build/tezos/projects/29cc917b-a0ad-4c99-8679-65368db00eca    
+
 #### July 7, 2020
 “Hicetnunc by Rafael Lima, geared towards crowdfunding and crowdsourcing in the e-sports community, receives a grant by the Tezos foundation”
 https://tezos.foundation/fourth-cohort-grants/
