@@ -196,7 +196,7 @@ One year after the domain registration, eight months after the first NFTs were s
 ![](assets/20211111.png)
 "discontinued": founder Rafael Lima pulls the plug on the Hic et Nunc website hicetnunc.xyz. 
 
-Due to the decentralized nature of the underlying technology, alternative front-ends such as https://hic.af/, https://www.henext.xyz/ or https://objkt.com/ continue running unaffected and mirrors of the original site such as http://hen.teztools.io, http://hicetnunc.art, http://hen.hicathon.xyz, http://hicetnunc.cc spin up within a few hours. 
+Due to the decentralized nature of the underlying technology, alternative front-ends such as https://hic.af/, https://www.henext.xyz/, https://hecticnun.xyz/ or https://objkt.com/ continue running unaffected and mirrors of the original site such as http://hicetnunc.art, http://hen.hicathon.xyz, http://hen.teztools.io, http://hicetnunc.cc spin up within a few hours. 
 
 In an interview in January 2021 (see above), Rafael Lima is quoted as follows: "**We intend to present it as a public blockchain infrastructure, and we are looking into taking it to full decentralization, making it persist beyond even my own will**". The events during and after November 11 appear to confirm this vision.
 
