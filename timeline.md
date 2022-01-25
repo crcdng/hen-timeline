@@ -215,6 +215,9 @@ But it is crucial to look around: each system has its own environment. Hic et Nu
 
 The road into 2022 couldn't be more bumpy, yet exciting. One thing however is clear: It is nonfungible. Take care.
 
+### January 25, 2022
+The domain hicetnunc.xyz is reactivated.
+
 … to be continued
 
 *written by [@crcdng](https://twitter.com/crcdng) based on research from Twitter, Medium, Youtube and other public sources. Special thanks to Javier Graciá-Carpio [@jagracar](https://twitter.com/jagracar) for public data collection and to https://hic.af for the links. Dates according to UTC.*
