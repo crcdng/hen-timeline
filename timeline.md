@@ -148,7 +148,7 @@ https://www.plummerfernandez.com/works/not-another-jpeg/
 https://hic.af/objkt/27679    
 
 #### April 19, 2021 
-The inaugural #TheFEN event takes place, a “coordinated drop” by a selection of artists curated by Juliette Bibasse and Joanie Lemercier. The events bring artists to the platform, including Auriea Harvey, Memo Akten, Addie Wagenknecht and Zai Divecha.
+The inaugural #TheFEN takes place, an event that is eventually a series of 7 coordinated drops which take place between April 19 and June 11. In the words of Juliette Bibasse, they include "pioneers of the digital art scene, in response to the outrageous energy consumption of CryptoArt releases (PoW). Their goal is to encourage the community to transition to #CleanNFT (PoS)." The initiative is curated by Juliette Bibasse and Joanie Lemercier, featuring the further artists beesandbombs (Dave Whyte), Memo Akten, Myriam Bleau, Mike Brondbjerg, Cinzia Campolese, Alex J. Champandard, Raphael de Courville, Ali M Demirel, Cadie Desbiens, Zai Divecha, Diane Drubay, Saskia Freeke, Nettrice Gaskins, Han, Auriea Harvey, Mario Klingemann, Joanie Lemercier, Golan Levin, LIA, Zach Lieberman, Shantell Martin, Kelly Richardson, RubenFro, Helena Sarin, Sasha Stiles, Patrick Tresset, Mike Tyka, Universal Everything, Patricio Gonzalez Vivo and Addie Wagenknecht.       
 http://thefen.io/  
 
 #### April 30, 2021
@@ -220,6 +220,6 @@ The domain hicetnunc.xyz is reactivated.
 
 … to be continued
 
-*written by [@crcdng](https://twitter.com/crcdng) based on research from Twitter, Medium, Youtube and other public sources. Special thanks to Javier Graciá-Carpio [@jagracar](https://twitter.com/jagracar) for public data collection and to https://hic.af for the links. Dates according to UTC.*
+*written by [@crcdng](https://twitter.com/crcdng) based on research from Twitter, Medium, Youtube and other public sources. Thanks to Lionel Radisson, Tais Koshino, Kelly Richardson for contributions. Special thanks to Javier Graciá-Carpio [@jagracar](https://twitter.com/jagracar) for public data collection and to https://hic.af for the links. Dates according to UTC.*
 
 Published under the Creative Commons Attribution-NonCommercial 4.0 International License [(CC BY-NC 4.0)](https://creativecommons.org/licenses/by/4.0/)
