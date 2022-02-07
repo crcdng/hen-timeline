@@ -219,7 +219,7 @@ The road into 2022 couldn't be more bumpy, yet exciting. One thing however is cl
 The domain hicetnunc.xyz is reactivated.
 
 ### February 2, 2022
-The independent HEN community relaunches under its new brand 'Teia' (meaning 'web' in Portuguese). The name was proposed by artist [@globpoderoso](https://twitter.com/globpoderoso) and decided on by the community in two rounds of voting after intense discussions. The rebranding includes the HEN fork https://teia.art/, the Twitter account https://twitter.com/TeiaCommunity, the blog https://blog.teia.art/, the community-run Discord https://discord.gg/C2dD9kxfkJ and the Github account https://github.com/teia-community. A launch announcement can be found [here](https://hencommunity.quest/blog/teia-art-launch-announcement).
+The independent HEN community relaunches under its new brand 'Teia' (meaning 'web' in Portuguese). The name was proposed by artist [@globpoderoso](https://twitter.com/globpoderoso) and decided on by the community in two rounds of voting after intense discussions. The rebranding includes the HEN fork https://teia.art/, the Twitter account https://twitter.com/TeiaCommunity, the blog https://blog.teia.art/, the community-run Discord https://discord.gg/C2dD9kxfkJ, the discussion board https://discourse.hencommunity.quest/,  and the Github account https://github.com/teia-community. A launch announcement can be found [here](https://hencommunity.quest/blog/teia-art-launch-announcement).
 
 
 
