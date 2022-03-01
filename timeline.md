@@ -113,7 +113,7 @@ https://medium.com/tqtezos/proof-of-work-vs-proof-of-stake-the-ecological-footpr
 #### February 24, 2021
 Artist Mario Klingemann mints what appears to be the 112th NFT on H=N: https://twitter.com/quasimondo/status/1364558512286806018. However, this work is among the first 152 NFTs that were created on a different smart contract and therefore have become "invisible". An NFT by Mike Tyka has collected those lost OBJKTs and links to the still available information on them: https://hic.af/objkt/24880
 
-#### March 1, 2021
+#### <a name="beginning">March 1, 2021</a> 
 ![](assets/20210301.png)
 This date marks the official beginning of H=N, when “swapping OBJKTs” (trading of NFTs in H=N lingo) is possible. At the same time, the governance hDAO token is released. 
 https://twitter.com/hicetnunc2000/status/1366345595405934592     
@@ -221,12 +221,9 @@ The domain hicetnunc.xyz is reactivated.
 ### February 2, 2022
 The independent HEN community relaunches under its new brand 'Teia' (meaning 'web' in Portuguese). The name was proposed by artist [@globpoderoso](https://twitter.com/globpoderoso) and decided on by the community in two rounds of voting after intense discussions. The rebranding includes the HEN fork https://teia.art/, the Twitter account https://twitter.com/TeiaCommunity, the blog https://blog.teia.art/, the community-run Discord https://discord.gg/C2dD9kxfkJ, the discussion board https://discourse.hencommunity.quest/,  and the Github account https://github.com/teia-community. A launch announcement can be found [here](https://hencommunity.quest/blog/teia-art-launch-announcement).
 
-
-
-
-
- 
-
+### March 1, 2022
+![](assets/20220301.png)
+[Happy First Birthday](#beginning), Hic et Nunc.
 
 … to be continued
 
