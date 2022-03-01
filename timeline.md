@@ -223,7 +223,7 @@ The independent HEN community relaunches under its new brand 'Teia' (meaning 'we
 
 ### March 1, 2022
 ![](assets/20220301.png)
-[Happy First Birthday](#beginning), Hic et Nunc.
+[Happy First Birthday](#beginning), Hic et Nunc. From today, https://www.hicetnunc.xyz/ and https://hicetnunc.art/ point to the same site.
 
 … to be continued
 
