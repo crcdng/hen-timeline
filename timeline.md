@@ -225,6 +225,18 @@ The independent HEN community relaunches under its new brand 'Teia' (meaning 'we
 ![](assets/20220301.png)
 [Happy First Birthday](#beginning), Hic et Nunc. From today, https://www.hicetnunc.xyz/ and https://hicetnunc.art/ point to the same site.
 
+### March 19, 2022
+The Teia community marketplace contract goes live. Marketplace contracts (also known as "swap contracts") govern the trading of NFTs. This step means that from now on artists and collectors can decide to trade their OBJKTS on the Teia contract, directing future fees the Teia community. 
+
+Other marketplaces currently do not display Teia swaps. For a demonstration, 6 editions of the work "hostile environment" were swapped on Hic et Nunc while 4 editions were swapped on Teia.     
+
+This screenshot shows the resulting listing on https://www.hicetnunc.xyz/objkt/23012 
+![](assets/20220313a.png)
+
+This screenshot shows the listing on https://teia.art/objkt/23012
+![](assets/20220313b.png)
+
+
 … to be continued
 
 *written by [@crcdng](https://twitter.com/crcdng) based on research from Twitter, Medium, Youtube and other public sources. Thanks to Lionel Radisson, Tais Koshino, Kelly Richardson for contributions. Special thanks to Javier Graciá-Carpio [@jagracar](https://twitter.com/jagracar) for public data collection and to https://hic.af for the links. Dates according to UTC.*
