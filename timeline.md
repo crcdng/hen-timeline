@@ -241,7 +241,7 @@ One of the distinguishing characteristics of the underlying [Tezos](https://tezo
 
 Ethereum marketplace Opensea seems to have taken notice, and apparently just made good on the [long announced promise to integrate Tezos](https://opensea.io/blog/announcements/tezos-nfts-are-coming-to-opensea/). In a surprise move, Opensea apparently acquired Hic et Nunc from Rafael Lima, aka [crzy](https://twitter.com/crzypatchwork), for an undisclosed number of windows by artist [John Karel](https://twitter.com/jjjjjjjjjjohn). These artworks are in high demand and are traded regularily on Tezos marketplaces. What Rafael intends to do with the  substantial amount of additional windows is unknown at this point, but windows in general allow sunlight and warmth to enter a place which in turn can trigger emotions of hope and confidence. This sentiments may be felt by members of the Tezos art community worldwide who increasingly gather at local events such as the [Non-Fungible Conference in Lisbon](https://www.nonfungibleconference.com/) where community member Den Simonenko is invited to give a talk named ["Uncensored - What really happened from Hic et nunc to Teia on Tezos"](https://www.nonfungibleconference.com/talk-details#sz-session-321412).  
 
-**This breaking news item is ongoing, to be amended upon arrival of furter information.** 
+**This breaking news item is ongoing, to be amended upon arrival of further information.** 
 
 … to be continued
 
