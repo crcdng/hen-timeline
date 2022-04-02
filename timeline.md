@@ -243,6 +243,12 @@ Ethereum marketplace Opensea seems to have taken notice, and apparently just mad
 
 **This breaking news item is ongoing, to be amended upon arrival of further information.** 
 
+### April 2, 2022
+
+Yesterday's entry contains a April Folls' joke. Not only is it unlikely that OpenSea would consider acquiring Hic et Nunc, it is even harder to image that its founder would accept such an arrangement. A joke-free version of this resource, e.g. for academic purposes, is available here: 
+https://github.com/i3games/hen-timeline/tree/joke-free . Thank you for considering the provided citation and copyright information. 
+
+
 … to be continued
 
 *written by [@crcdng](https://twitter.com/crcdng) based on research from Twitter, Medium, Youtube and other public sources. Thanks to Lionel Radisson, Tais Koshino, Kelly Richardson for contributions. Special thanks to Javier Graciá-Carpio [@jagracar](https://twitter.com/jagracar) for public data collection and to https://hic.af for the links. Dates according to UTC.*
