@@ -239,7 +239,7 @@ This screenshot shows the listings on https://teia.art/objkt/23012:
 ### April 23, 2022
 ![](assets/20220423.png)
 
-"We're out of service for an undetermined period of time". Hic et Nunc founder Rafael Lima has switched off the website for a second time after November 11, 2021 (see above). The existing ecosystem remains unaffected, sites like https://teia.art/, https://hic.af/, https://www.henext.xyz/, https://hecticnun.xyz/, https://objkt.com/, http://hen.teztools.io, https://hicetnunc.art/ continue to operate normally, albeit the compatibility between different platform remains a [complicated matter](https://docs.google.com/spreadsheets/d/11xbk3V2SfdpSSSGfkz3Tr3I2ikPEaOFAX8khX4zDvhA/edit?usp=sharing).  
+"We're out of service for an undetermined period of time". Hic et Nunc founder Rafael Lima has switched off the website hicetnunc.xyz for a second time after November 11, 2021 (see above). The existing ecosystem remains unaffected, sites like https://teia.art/, https://hic.af/, https://www.henext.xyz/, https://hecticnun.xyz/, https://objkt.com/, http://hen.teztools.io, https://hicetnunc.art/ continue to operate normally, although  the compatibility between different platform remains a [complicated matter](https://docs.google.com/spreadsheets/d/11xbk3V2SfdpSSSGfkz3Tr3I2ikPEaOFAX8khX4zDvhA/edit?usp=sharing).  
 
 
 … to be continued
