@@ -236,17 +236,9 @@ This screenshot shows the resulting listings on https://www.hicetnunc.xyz/objkt/
 This screenshot shows the listings on https://teia.art/objkt/23012:
 ![](assets/20220313b.png)
 
-### April 1, 2022
-One of the distinguishing characteristics of the underlying [Tezos](https://tezos.com/) blockchain is an on-chain upgrade mechanism that allows the technology to evolve in a secure manner. Thanks to the [Ithaca 2](https://research-development.nomadic-labs.com/announcing-ithaca-2.html) upgrade that was rolled out today, the chain is now prepared for substantive [scaling](https://research-development.nomadic-labs.com/tezos-is-scaling.html). This will enable faster transactions and higher throughput on art-focused platforms such as Teia, Hic et Nunc, fxhash, Versum and Objkt.com. 
-
-Ethereum marketplace Opensea seems to have taken notice, and apparently just made good on the [long announced promise to integrate Tezos](https://opensea.io/blog/announcements/tezos-nfts-are-coming-to-opensea/). In a surprise move, Opensea apparently acquired Hic et Nunc from Rafael Lima, aka [crzy](https://twitter.com/crzypatchwork), for an undisclosed number of windows by artist [John Karel](https://twitter.com/jjjjjjjjjjohn). These artworks are in high demand and are traded regularily on Tezos marketplaces. What Rafael intends to do with the  substantial amount of additional windows is unknown at this point, but windows in general allow sunlight and warmth to enter a place which in turn can trigger emotions of hope and confidence. This sentiments may be felt by members of the Tezos art community worldwide who increasingly gather at local events such as the [Non-Fungible Conference in Lisbon](https://www.nonfungibleconference.com/) where community member Den Simonenko is invited to give a talk named ["Uncensored - What really happened from Hic et nunc to Teia on Tezos"](https://www.nonfungibleconference.com/talk-details#sz-session-321412).  
-
-**This breaking news item is ongoing, to be amended upon arrival of further information.** 
-
-### April 2, 2022
-
-Yesterday's entry contains a April Folls' joke. Not only is it unlikely that OpenSea would consider acquiring Hic et Nunc, it is even harder to image that its founder would accept such an arrangement. A joke-free version of this resource, e.g. for academic purposes, is available here: 
-https://github.com/i3games/hen-timeline/tree/joke-free . Thank you for considering the provided citation and copyright information. 
+### April 23, 2022
+![](assets/20220423.png)
+"Out of service for an undetermined period of time". Hic et Nunc founder Rafael Lima has switched off the website for a second time after November 11, 2021 (see above). The existing ecosystem remains unaffected, sites like https://teia.art/, https://hic.af/, https://www.henext.xyz/, https://hecticnun.xyz/, https://objkt.com/, http://hen.teztools.io continue to operate normally, albeit the compatibility between different platform remains a [complicated matter](https://docs.google.com/spreadsheets/d/11xbk3V2SfdpSSSGfkz3Tr3I2ikPEaOFAX8khX4zDvhA/edit?usp=sharing).  
 
 
 … to be continued
