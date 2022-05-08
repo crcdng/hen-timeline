@@ -142,6 +142,9 @@ https://diversenftart.hotglue.me/
 #### March 31, 2021 
 [@muratpak](https://twitter.com/muratpak) tweets out the first version of what will become, after discussions and adaptions, the HEN logo, thereby shaping the visual identity of the project: https://twitter.com/muratpak/status/1377312115422343169?s=21. Responsible for the design and conceptual studies was artist [Julio Glatt](https://twitter.com/JulioGlatt/status/1461641499087708166?s=20).
 
+#### April 6, 2021
+An NFT to preserve history: The first 152 NFTs were minted on an initial version of the Hic et Nunc smart contract and became inaccessible on the platform later. ["The Lost HicEtNuncs"](https://objkt.com/asset/hicetnunc/24880), an NTF created by [Mike Tyka](https://twitter.com/mtyka), makes them visible again. 
+
 #### April 9, 2021
 "Not another JPEG." Artist M Plummer-Fernández shares thoughts about the blossoming (and sometimes stuttering) platform that attracts more and more people critical of mainstream NFT marketplaces. The essay itself is steganographically hidden in an acompanying NFT.
 https://www.plummerfernandez.com/works/not-another-jpeg/    
