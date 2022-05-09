@@ -244,6 +244,9 @@ This screenshot shows the listings on https://teia.art/objkt/23012:
 
 "We're out of service for an undetermined period of time". Hic et Nunc founder Rafael Lima has switched off the websites hicetnunc.xyz and hicetnunc.art for a second time after November 11, 2021 (see above). The existing ecosystem remains rather unaffected, sites like https://teia.art/, https://hic.af/, https://www.henext.xyz/, https://hecticnun.xyz/, https://objkt.com/, http://hen.teztools.io, continue to operate, although indexer issues and the compatibility between different platform are [complicating the situation](https://docs.google.com/spreadsheets/d/11xbk3V2SfdpSSSGfkz3Tr3I2ikPEaOFAX8khX4zDvhA/edit?usp=sharing).  
 
+### May 06, 2022
+Tezos for Tezos, hashtag [#tezos4tezos](https://twitter.com/search?q=%23tezos4tezos&src=typed_query), took place on the weekend May 6 to 8, rekindling a community spirit similiar to  previous #OBJKT4OBJKT events (see above). Artists were encouraged to mint editions of 100 within a price range of 0.1 to 1 Tez. According to [this summary by @nftbiker](https://twitter.com/nftbiker/status/1523571588523651072), 56648 editions of 2629 works were sold in total on the primary market with a combined turnover of 29022 Tez (approx. 72250 USD). While revenues are far from  widely reported record NFT sales on other platforms, a grassroots event fueled by enthusiasm such as this one is suitable to highlight the value of community in the overall NFT space.
+
 
 … to be continued
 
