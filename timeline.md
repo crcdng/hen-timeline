@@ -179,7 +179,7 @@ H=N celebrates 100.000 minted NFTs.
 https://twitter.com/hicetnunc2000/status/1397724112806633475
 
 #### <a name="objkt.bid">June 10, 2021</a>
-Objkt.bid, an experimental platform that adds an auction feature for Hic et Nunc NFTs is launched. It evolves into the [Objkt.com](https://objkt.com/) marketplace, reaching [100 Million USD sales volume](https://www.dapp.com/app/objkt-com) within 12 months.    
+Objkt.bid, an experimental platform that adds an auction feature for Hic et Nunc NFTs is launched. It evolves into the [objkt.com](https://objkt.com/) marketplace, reaching [100 Million USD sales volume](https://www.dapp.com/app/objkt-com) within 12 months.    
 
 #### June 28, 2021
 It becomes public knowledge that a logic error in the H=N smart contract which allows an attacker to steal NFTs on the marketplace is actively exploited. In the turbulent fallout of the incident, the selling of NFTs (“swap”) has to be suspended while a new contract is being developed. Effectively this shuts the site down although the creation (“minting”) of new NFTs is still possible without risk. 
