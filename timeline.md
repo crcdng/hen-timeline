@@ -178,13 +178,13 @@ https://www.youtube.com/watch?v=NIy8F5b2_Pk
 H=N celebrates 100.000 minted NFTs.
 https://twitter.com/hicetnunc2000/status/1397724112806633475
 
-#### <a name="objkt.bid">June 10, 2021</a>
+#### <a name="objktbid">June 10, 2021</a>
 Objkt.bid, an experimental platform that adds an auction feature for Hic et Nunc NFTs is launched. It evolves into the [objkt.com](https://objkt.com/) marketplace, reaching [100 Million USD sales volume](https://www.dapp.com/app/objkt-com) within 12 months.    
 
 #### June 28, 2021
 It becomes public knowledge that a logic error in the H=N smart contract which allows an attacker to steal NFTs on the marketplace is actively exploited. In the turbulent fallout of the incident, the selling of NFTs (“swap”) has to be suspended while a new contract is being developed. Effectively this shuts the site down although the creation (“minting”) of new NFTs is still possible without risk. 
 
-Meanwhile, the apparent attacker, who operates under the moniker “hen-exploiter” is engaging with the community, mainly via the H=N discord channel. The ongoing issue also exposes rifts in the H=N community, amidst questions about the development of the site and the parallel opening of another marketplace named objkt.bid (now [object.com](https://objkt.com/)). An AMA (Ask me Anything) event with Rafael Lima, [published here on Youtube](https://www.youtube.com/watch?v=8iGMIxTap7A) on July 4, 2021  brings some insights into the philosophy behind Hic et Nunc.  
+Meanwhile, the apparent attacker, who operates under the moniker “hen-exploiter” is engaging with the community, mainly via the H=N discord channel. The ongoing issue also exposes rifts in the H=N community, amidst questions about the development of the site and the parallel opening of objkt.bid (now [object.com](https://objkt.com/), see [above](#objktbid)). An AMA (Ask me Anything) event with Rafael Lima, [published here on Youtube](https://www.youtube.com/watch?v=8iGMIxTap7A) on July 4, 2021  brings some insights into the philosophy behind Hic et Nunc.  
 
 ![](assets/20210701.png)
 Tweet by [@mumu_thestan](https://twitter.com/mumu_thestan), July 1
