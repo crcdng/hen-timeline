@@ -1,10 +1,11 @@
-# hen-timeline
-  A brief [timeline](timeline.md) of [Hic et Nunc](https://web.archive.org/web/20211107123525/https://www.hicetnunc.xyz/) (H=N) and Teia. 
+# HEN timeline
 
-  The timeline captures key moments in the development of Hic et Nunc and beyond, including the evolution of the Teia community and other events regarding related art communities and NFT marketplaces. 
-  
-  Provided by [@crcdng](https://twitter.com/crcdng).
+A brief [timeline](timeline.md) of [Hic et Nunc](https://web.archive.org/web/20211107123525/https://www.hicetnunc.xyz/) (abbreviated: HEN or H=N) and [Teia](https://teia.art/).
 
-  As with anything - if you believe in the core tenets of second-order cybernetics - this resource is written from a personal (observer) perspective. Entries are fact-checked, however, and I strive to keep them as accurate as possible. If you spot an error or omission, please talk to me on Twitter or file a bug report.
+This timeline captures key moments in the development of Hic et Nunc and beyond, including the evolution of Teia and the wider Tezos art communities.
 
-  Published under CC BY-NC 4.0. For academic citation see CITATION.cff
+If you believe in core ideas of second-order cybernetics, all communication is is based on personal (observer) perspectives. Communication acts contain elements of facts, self-revelation, relationship and appeal; no one is free from that. Some entries of this timeline also  may include some commentary, yet I attempt to fact-check and keep them as accurate as possible. If you spot errors or omissions, contact me on Twitter or file a bug report on Github.
+
+Published under CC BY-NC 4.0. For academic citations see [CITATION.cff](CITATION.cff).
+
+Provided for the Tezos art communities by [@crcdng](https://twitter.com/crcdng).
