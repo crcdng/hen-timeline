@@ -4,7 +4,7 @@ A brief [timeline](timeline.md) of [Hic et Nunc](https://web.archive.org/web/202
 
 This timeline captures key moments in the development of Hic et Nunc and beyond, including the evolution of Teia and the wider Tezos art communities.
 
-If you believe in core ideas of second-order cybernetics, all communication is is based on personal (observer) perspectives. Communication acts contain elements of facts, self-revelation, relationship and appeal; no one is free from that. Some entries of this timeline also  may include some commentary, yet I attempt to fact-check and keep them as accurate as possible. If you spot errors or omissions, contact me on Twitter or file a bug report on Github.
+If you believe in core ideas of second-order cybernetics, communication is based on personal (observer) perspectives. Each act of communication includes elements of facts, self-revelation, relationship and appeal. However, I fact-check and attempt to keep this timeline as accurate as possible. Some entries, however, do contain judgement and commentary. If you spot errors or omissions, contact me on Twitter or file a bug report on Github.
 
 Published under CC BY-NC 4.0. For academic citations see [CITATION.cff](CITATION.cff).
 
