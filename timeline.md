@@ -1,187 +1,188 @@
-###  Introduction
+# HEN timeline
+## Introduction
 
-[Hic et Nunc](https://web.archive.org/web/20211107123525/https://www.hicetnunc.xyz/) (abbreviated H=N, sometimes HEN or hen) is the first NFT art place on the [Tezos](https://tezos.com/) blockchain. This brief timeline is meant to help preserve common memory by capturing some of the key events that led up to the current phenomenon. Therefore it focuses on H=N itself and does not attempt to serve as a timeline of blockchains, NFTs or crypto art in general. These topics are covered in some excellent resources:
+[Hic et Nunc](https://web.archive.org/web/20211107123525/https://www.hicetnunc.xyz/) (abbreviated H=N, sometimes HEN or hen) was the first NFT art place on the [Tezos](https://tezos.com/) blockchain. This brief timeline is meant to help preserve common memory by recording key events of its development. Therefore it focuses on H=N itself (and later on Teia) and does not attempt to serve as a timeline of blockchains, NFTs or crypto art in general. These topics are covered in some excellent resources:
 
-* https://decal.furtherfield.org/2020/05/22/a-blockchain-art-history-timeline/ by Furtherfield
-* https://ostachowski.com/about/what-is-crypto-art-or-nft-art/history-of-crypto-art/ by Martin Lukas Ostachowski
-* https://nfttimeline.com/ 
+* [https://decal.furtherfield.org/2020/05/22/a-blockchain-art-history-timeline/](https://decal.furtherfield.org/2020/05/22/a-blockchain-art-history-timeline/) by Furtherfield
+* [https://ostachowski.com/about/what-is-crypto-art-or-nft-art/history-of-crypto-art/](https://ostachowski.com/about/what-is-crypto-art-or-nft-art/history-of-crypto-art/) by Martin Lukas Ostachowski
+* [https://nfttimeline.com/](https://nfttimeline.com/) 
 
-It will be up to everyone individually to make sense of a phenomenon that, for most people, is operating since March 1, 2021 and reached 100.000 minted NFTs three months and 500.000 eight months later. Beyond the numbers, the events listed below might provide some clues to the phenomenon: a set of experiments in various directions, an exploding crypto art energy debate, Twitter as a nervous system and amplifier, a frictionless “open for all“ art platform, an eco-friendly Proof-of-Stake blockchain, an emerging and diverse community that includes artists, collectors and hackers. 
+It will be up to everyone individually to make sense of a phenomenon that, for most people, was operating since March 1, 2021 and reached 100.000 minted NFTs three months and 500.000 eight months later. Beyond the numbers, the events listed below might provide some clues to its unique development: a set of experiments in various directions, an exploding crypto art and energy consumption debate, Twitter as a nervous system and amplifier, a frictionless “open for all“ art platform, an eco-friendly Proof-of-Stake blockchain, and an emerging and diverse community that includes artists, collectors, curators and hackers. 
 
-However, [this tweet](https://twitter.com/mattmedved/status/1385760755958562816) by Matt Medved captures another aspect of H=N that goes beyond rational analysis and historical explanation. Around the same time in April I [wrote](https://twitter.com/crcdng/status/1386658359290613760) “it feels a bit like the place you visit together after the grand gallery opening to have fun and explore” and shared my [impressions](https://twitter.com/crcdng/status/1386730188654977031) during the second OBJKT4OBJCT weekend: “a new community of artists and curators is emerging, an art system within the art system”.
+However, [this tweet](https://twitter.com/mattmedved/status/1385760755958562816) by Matt Medved captures another aspect of H=N that goes beyond rational analysis and historical explanation. Around the same time in April I [wrote](https://twitter.com/crcdng/status/1386658359290613760) “it feels a bit like the place you visit together after the grand gallery opening to have fun and explore” and shared my [impressions](https://twitter.com/crcdng/status/1386730188654977031) during the second OBJKT4OBJKT weekend: “a new community of artists and curators is emerging, an art system within the art system”.
 
-This timeline is dedicated to the community.
+This timeline is dedicated to that community.
 
-### A Brief Timeline of Hic et Nunc
+## A Brief Timeline of Hic et Nunc
 
-#### September 17, 2018
+### September 17, 2018
 Launch of the public Tezos blockchain, the “mainnet”.
 https://tezos.com/
 
-#### March 1, 2020
+### March 1, 2020
 The first tweet from account https://twitter.com/hicetnunc2000 contains a link to the lecture A Thousand Years of Nonlinear History by philosopher Manuel DeLanda
 https://www.youtube.com/watch?v=u3aE3Z6llMc 
 
-#### May 19, 2020
+### May 19, 2020
 “rearranging architectures, terraforming autonomous communities […] hicetnunc2000 is a lab for decentralized computing experiments” (Medium)
 https://hicetnunc2000.medium.com/ungrund-e4ac3e30de9e 
 
-#### Jul 7, 2020
+### Jul 7, 2020
 Rafael Lima wins the Tezos + CoinList Hackathon with the project "Ungrund Oracle - open source infrastructure to connect microsservices to the tezos network"
 https://blog.coinlist.co/announcing-the-winners-of-the-tezos-coinlist-hackathon/    
 https://coinlist.co/build/tezos/projects/29cc917b-a0ad-4c99-8679-65368db00eca    
 
-#### July 7, 2020
+### July 7, 2020
 “Hicetnunc by Rafael Lima, geared towards crowdfunding and crowdsourcing in the e-sports community, receives a grant by the Tezos foundation”
 https://tezos.foundation/fourth-cohort-grants/
 
-#### August 20, 2020
+### August 20, 2020
 “coming live” (Tweet)
 https://twitter.com/hicetnunc2000/status/1296554519933997058
 
-#### September 3, 2020
+### September 3, 2020
 The “Delphi” upgrade to the Tezos blockchain significantly reduces transaction costs, which makes microtransactions even more feasible. Out-of-control transaction fees and negative ecological impact. 
 https://blog.nomadic-labs.com/delphi-official-release.html
 
-#### September 23, 2020
+### September 23, 2020
 “Friends, something has been bugging me for a while”, begins the tweet in which artist Memo Akten addresses deep concerns about the energy usage of crypto art. In the subsequent days and weeks heated debates ensue. Memo subsequently publishes research and a tool to calculate the energy consumption of artworks. The latter was later weaponized against individual artists against the intention of its creator and therefore withdrawn.  
 http://cryptoart.wtf 
 https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053 
 https://github.com/memo/eco-nft
 
-#### September 27, 2020
+### September 27, 2020
 Rafael Lima develops random-bridge during chainlink hackathon.
 https://www.youtube.com/watch?v=jKihf2JpqiA
 
-#### October 8, 2020
+### October 8, 2020
 “A microservice to upload files into IPFS” (Tweet)
 https://twitter.com/hicetnunc2000/status/1314084398124367872 
 
-#### October 17, 2020
+### October 17, 2020
 Milestone reached: “microfunding protocol is live” (Tweet) 
 https://twitter.com/hicetnunc2000/status/1317308306189332481 
 
-#### October 27, 2020
+### October 27, 2020
 Medium article ”hicetnunc microfunding protocol”
 https://hicetnunc2000.medium.com/hicetnunc-microfunding-protocol-e270a63eb73c 
 
-#### November 7, 2020
+### November 7, 2020
 hicetnunc.xzy domain registration
 Tracked by https://hic.af/objkt/90853
 
-#### November 9, 2020
+### November 9, 2020
 First commit to the hicetnunc GitHub repo
 https://github.com/hicetnunc2000/hicetnunc/graphs/commit-activity
 
-#### November 12, 2020
+### November 12, 2020
 First Archive crawl of www.hicetnunc.xyz
 https://web.archive.org/web/20201112035107/https://www.hicetnunc.xyz/
 (The crawler had difficulties capturing the site. The first visible version 
 is from March 1, 2021 https://web.archive.org/web/20210301170201/https://www.hicetnunc.xyz/ )
 
-#### November 16, 2020
+### November 16, 2020
 First mention of NFTs as a giveaway (Tweet)
 https://twitter.com/hicetnunc2000/status/1328393465907064844
 https://better-call.dev/mainnet/KT1SRTR7jVzrBgwzbvbhp7SQ2WFomfqgsYAP/operations
 
-#### November 17, 2020
+### November 17, 2020
 First bug report (Tweet) 
 https://twitter.com/cryyptt2/status/1328619566264709122
 
-#### November 17, 2020
+### November 17, 2020
 First collectors (Tweet)
 https://twitter.com/Blindripper85/status/1328466738619576321 
 
-#### January 3, 2021
+### January 3, 2021
 H=N “evolved into a tool for creating micro-funding DAOs for any purpose” (xtz.news interview)
 https://xtz.news/dao-news/hicetnunc-microfunding-daos-on-tezos/ 
 This interview with Rafael Lima gives not only provides insights into the plans and ideas of the founder, it also gives a clue about the name “hic et nunc”, identifiable in Paul Virilio’s writings about a “futurism of the instant”, see for example Virilio, P., & Lotringer, S. (2001). After Architecture: A Conversation. Grey Room, 3, 32–53. doi:10.1162/152638101300138530 
 
-#### February 12, 2021
+### February 12, 2021
 First commit to the hicetnunc DAO smart contracts GitHub repo
 https://github.com/hicetnunc2000/hicetnuncDAO/graphs/commit-activity 
 
-#### February 15, 2021
+### February 15, 2021
 OBJKT Swap, a manifesto and roadmap (Medium)
 https://hicetnunc2000.medium.com/objkt-swap-62dbaf776336 
 
-#### February 18, 2021
+### February 18, 2021
 Artist and climate activist Joanie Lemercier sheds more light on the energy consumption of Proof-of-Work Ethereum cryptoart platforms. H=N runs on Tezos, a Proof-of-Stake blockchain whose energy impact is neglectable in comparison to Proof-of-Work blockchains (Bitcoin, Ethereum) according to an article published two days earlier by the Tezos foundation.  
 https://joanielemercier.com/the-problem-of-cryptoart/    
 https://medium.com/tqtezos/proof-of-work-vs-proof-of-stake-the-ecological-footprint-c58029faee44 
 
-#### February 24, 2021
+### February 24, 2021
 Artist Mario Klingemann mints what appears to be the 112th NFT on H=N: https://twitter.com/quasimondo/status/1364558512286806018. However, this work is among the first 152 NFTs that were created on a different smart contract and therefore have become "invisible". An NFT by Mike Tyka has collected those lost OBJKTs and links to the still available information on them: https://hic.af/objkt/24880
 
-#### <a name="beginning">March 1, 2021</a> 
+### <a name="beginning">March 1, 2021</a> 
 ![](assets/20210301.png)
 This date marks the official beginning of H=N, when “swapping OBJKTs” (trading of NFTs in H=N lingo) is possible. At the same time, the governance hDAO token is released. 
 https://twitter.com/hicetnunc2000/status/1366345595405934592     
 https://better-call.dev/mainnet/KT1AFA2mwNUMNd4SsujE1YYp29vd8BZejyKW/tokens    
 
-#### March 10, 2021
+### March 10, 2021
 First commit to hicetnunc API GitHub repo
 https://github.com/hicetnunc2000/hicetnunc-api/graphs/commit-activity 
 
-#### March 16, 2021
+### March 16, 2021
 Taís Koshino writes the first(?) curation article on NFTs about H=N (Medium).
 https://hicetnunc2000.medium.com/creamy-picks-1-genesis-1b1e0468f576
 
-#### March 20/21, 2021
+### March 20/21, 2021
 Jack Rusher and Jason Bailey (Artnome) publish articles about the new phenomenon.    
 https://jackrusher.com/journal/what-does-it-mean-to-buy-a-gif.html.   
 https://www.artnome.com/news/2021/3/21/hic-et-nunc-revives-the-true-spirit-of-web-art-through-nfts
 
-#### March 25, 2021
+### March 25, 2021
 Pupila Dilatada, the first collaborative art show appears as a gallery on H=N.
 
-#### March 26-28, 2021
+### March 26-28, 2021
 The first OBJKT4OBJKT event in collaboration with the DiverseNftArt initiative takes place. Artists swap their NFTs for free. The second event in late April attracts even more attention but also reveals the problem of “hoarder bots”, programs written to mass-collect free objects and resell them.  
 https://diversenftart.hotglue.me/     
 
-#### March 31, 2021 
+### March 31, 2021 
 [@muratpak](https://twitter.com/muratpak) tweets out the first version of what will become, after discussions and adaptions, the HEN logo, thereby shaping the visual identity of the project: https://twitter.com/muratpak/status/1377312115422343169?s=21. Responsible for the design and conceptual studies was artist [Julio Glatt](https://twitter.com/JulioGlatt/status/1461641499087708166?s=20).
 
-#### April 6, 2021
+### April 6, 2021
 An NFT to preserve history: The first 152 NFTs were minted on an initial version of the Hic et Nunc smart contract and became inaccessible on the platform later. ["The Lost HicEtNuncs"](https://objkt.com/asset/hicetnunc/24880), an NTF created by [Mike Tyka](https://twitter.com/mtyka), makes them visible again. 
 
-#### April 9, 2021
+### April 9, 2021
 "Not another JPEG." Artist M Plummer-Fernández shares thoughts about the blossoming (and sometimes stuttering) platform that attracts more and more people critical of mainstream NFT marketplaces. The essay itself is steganographically hidden in an acompanying NFT.
 https://www.plummerfernandez.com/works/not-another-jpeg/    
 https://hic.af/objkt/27679    
 
-#### April 19, 2021 
+### April 19, 2021 
 The inaugural #TheFEN takes place, an event that is eventually a series of 7 coordinated drops which take place between April 19 and June 11. In the words of Juliette Bibasse, they include "pioneers of the digital art scene, in response to the outrageous energy consumption of CryptoArt releases (PoW). Their goal is to encourage the community to transition to #CleanNFT (PoS)." The initiative is curated by Juliette Bibasse and Joanie Lemercier, featuring the further artists beesandbombs (Dave Whyte), Memo Akten, Myriam Bleau, Mike Brondbjerg, Cinzia Campolese, Alex J. Champandard, Raphael de Courville, Ali M Demirel, Cadie Desbiens, Zai Divecha, Diane Drubay, Saskia Freeke, Nettrice Gaskins, Han, Auriea Harvey, Mario Klingemann, Joanie Lemercier, Golan Levin, LIA, Zach Lieberman, Shantell Martin, Kelly Richardson, RubenFro, Helena Sarin, Sasha Stiles, Patrick Tresset, Mike Tyka, Universal Everything, Patricio Gonzalez Vivo and Addie Wagenknecht.       
 http://thefen.io/  
 
-#### April 30, 2021
+### April 30, 2021
 H=N begins to overtake other NFT platforms, measured by daily active users (DAU).
 https://www.reddit.com/r/CryptoCurrency/comments/n1pxk7/hicetnunc_takes_over_opensea_in_becoming_the/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
 
-#### May 15, 2021
+### May 15, 2021
 The [Tibium residency](https://twitter.com/tibumresidency), promoted by Hic et Nunc, enables creators from the Global South to develop "connections, experiments and critical thought about NFTs."
 
-#### May 16, 2021
+### May 16, 2021
 Creative coder and prolific tool creator Javier Graciá-Carpio reports 10.000 Artists on H=N and provides an NFT that visualises this development 
 https://hic.af/objkt/83576
 
-#### May 17, 2021
+### May 17, 2021
 In an article for https://restofworld.org/, Claire L. Evans describes the Brazilian art scene and background of Hic et Nunc.    
 https://restofworld.org/2021/inside-brazils-diy-nft-art-marketplace/
 
-#### May 22/23, 2021
+### May 22/23, 2021
 Hickathon, the first H=N hackathon, originates from another tweet by Mario Klingemann, assembles more than 150 participants in 20 groups, who keep working during 24 hours on a wide range of issues such as governance, site features and various improvements. The organisers, receiving overwhelming support from the community and from the Tezos foundation, manage to set up the Hickathon within a week and make it a fun event.
 https://www.hicathon.xyz/ 
 https://www.youtube.com/watch?v=NIy8F5b2_Pk 
 
-#### May 27, 2021
+### May 27, 2021
 H=N celebrates 100.000 minted NFTs.
 https://twitter.com/hicetnunc2000/status/1397724112806633475
 
-#### <a name="objktbid">June 10, 2021</a>
+### <a name="objktbid">June 10, 2021</a>
 Objkt.bid, an experimental platform that adds an auction feature for Hic et Nunc NFTs is launched. It evolves into the [objkt.com](https://objkt.com/) marketplace, reaching [100 Million USD sales volume](https://www.dapp.com/app/objkt-com) within 12 months.    
 
-#### June 28, 2021
+### June 28, 2021
 It becomes public knowledge that a logic error in the H=N smart contract which allows an attacker to steal NFTs on the marketplace is actively exploited. In the turbulent fallout of the incident, the selling of NFTs (“swap”) has to be suspended while a new contract is being developed. Effectively this shuts the site down although the creation (“minting”) of new NFTs is still possible without risk. 
 
 Meanwhile, the apparent attacker, who operates under the moniker “hen-exploiter” is engaging with the community, mainly via the H=N discord channel. The ongoing issue also exposes rifts in the H=N community, amidst questions about the development of the site and the parallel opening of objkt.bid (now [object.com](https://objkt.com/), see [above](#objktbid)). An AMA (Ask me Anything) event with Rafael Lima, [published here on Youtube](https://www.youtube.com/watch?v=8iGMIxTap7A) on July 4, 2021  brings some insights into the philosophy behind Hic et Nunc.  
