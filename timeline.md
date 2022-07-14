@@ -16,33 +16,25 @@ This timeline is dedicated to that community.
 ## A Brief Timeline of Hic et Nunc
 
 ### September 17, 2018
-Launch of the public Tezos blockchain, the “mainnet”.
-https://tezos.com/
+Launch of the public [Tezos blockchain](https://tezos.com/), the “mainnet”.
 
 ### March 1, 2020
-The first tweet from account https://twitter.com/hicetnunc2000 contains a link to the lecture A Thousand Years of Nonlinear History by philosopher Manuel DeLanda
-https://www.youtube.com/watch?v=u3aE3Z6llMc 
+The first tweet from Twitter account [@hicetnunc2000](https://twitter.com/hicetnunc2000) contains a [link](https://www.youtube.com/watch?v=u3aE3Z6llMc) to the lecture "A Thousand Years of Nonlinear History" by philosopher Manuel De Landa.
 
 ### May 19, 2020
-“rearranging architectures, terraforming autonomous communities […] hicetnunc2000 is a lab for decentralized computing experiments” (Medium)
-https://hicetnunc2000.medium.com/ungrund-e4ac3e30de9e 
+“rearranging architectures, terraforming autonomous communities […] hicetnunc2000 is a lab for decentralized computing experiments” ([Medium article](https://hicetnunc2000.medium.com/ungrund-e4ac3e30de9e))
 
 ### Jul 7, 2020
-Rafael Lima wins the Tezos + CoinList Hackathon with the project "Ungrund Oracle - open source infrastructure to connect microsservices to the tezos network"
-https://blog.coinlist.co/announcing-the-winners-of-the-tezos-coinlist-hackathon/    
-https://coinlist.co/build/tezos/projects/29cc917b-a0ad-4c99-8679-65368db00eca    
+Rafael Lima [wins the Tezos + CoinList Hackathon](https://blog.coinlist.co/announcing-the-winners-of-the-tezos-coinlist-hackathon/) with the project "[Ungrund Oracle - open source infrastructure to connect microsservices to the tezos network](https://coinlist.co/build/tezos/projects/29cc917b-a0ad-4c99-8679-65368db00eca)"
 
 ### July 7, 2020
-“Hicetnunc by Rafael Lima, geared towards crowdfunding and crowdsourcing in the e-sports community, receives a grant by the Tezos foundation”
-https://tezos.foundation/fourth-cohort-grants/
+“Hicetnunc by Rafael Lima, geared towards crowdfunding and crowdsourcing in the e-sports community, receives a grant by the Tezos foundation” ([Announcement](https://tezos.foundation/fourth-cohort-grants/))
 
 ### August 20, 2020
-“coming live” (Tweet)
-https://twitter.com/hicetnunc2000/status/1296554519933997058
+“coming live” ([Tweet](https://twitter.com/hicetnunc2000/status/1296554519933997058))
 
 ### September 3, 2020
-The “Delphi” upgrade to the Tezos blockchain significantly reduces transaction costs, which makes microtransactions even more feasible. Out-of-control transaction fees and negative ecological impact. 
-https://blog.nomadic-labs.com/delphi-official-release.html
+The [“Delphi” upgrade](https://blog.nomadic-labs.com/delphi-official-release.html) significantly reduces transaction costs of the Tezos blockchain, which makes microtransactions even more feasible. 
 
 ### September 23, 2020
 “Friends, something has been bugging me for a while”, begins the tweet in which artist Memo Akten addresses deep concerns about the energy usage of crypto art. In the subsequent days and weeks heated debates ensue. Memo subsequently publishes research and a tool to calculate the energy consumption of artworks. The latter was later weaponized against individual artists against the intention of its creator and therefore withdrawn.  
@@ -256,6 +248,6 @@ The three-day event ["Proof of People"](https://proofofpeople.verticalcrypto.art
 
 … to be continued
 
-*written by [@crcdng](https://twitter.com/crcdng) based on research from Twitter, Medium, Youtube and other public sources. Thanks to Lionel Radisson, Tais Koshino, Kelly Richardson for contributions. Special thanks to Javier Graciá-Carpio [@jagracar](https://twitter.com/jagracar) for public data collection and to https://hic.af for the links. Dates according to UTC.*
+*written by [@crcdng](https://twitter.com/crcdng) based on research from Twitter, Medium, Youtube and other public sources. Thanks to Lionel Radisson, Tais Koshino, Kelly Richardson for contributions. Special thanks to Javier Graciá-Carpio [@jagracar](https://twitter.com/jagracar) for public data collection and to the writers and editors of the [Teia community newsletter](https://blog.teia.art/blog). Dates according to UTC.*
 
 Published under the Creative Commons Attribution-NonCommercial 4.0 International License [(CC BY-NC 4.0)](https://creativecommons.org/licenses/by/4.0/)
