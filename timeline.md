@@ -81,7 +81,7 @@ OBJKT Swap, a manifesto and roadmap ([Medium article](https://hicetnunc2000.medi
 Artist and climate activist Joanie Lemercier [sheds more light on the energy consumption of Proof-of-Work Ethereum cryptoart platforms](https://joanielemercier.com/the-problem-of-cryptoart/). Hic et Nunc runs on Tezos, a Proof-of-Stake blockchain whose energy impact is neglectable in comparison to Proof-of-Work (Bitcoin, Ethereum) according to [an article published by the Tezos foundation](https://medium.com/tqtezos/proof-of-work-vs-proof-of-stake-the-ecological-footprint-c58029faee44).  
 
 ### February 24, 2021
-Artist Mario Klingemann [mints what is likely the 112th NFT on Hic et Nunc](https://twitter.com/quasimondo/status/1364558512286806018). However, this work is among the first 152 pieces that were created on a different smart contract and therefore have become "invisible". [This NFT by Mike Tyka](https://hic.af/objkt/24880) collects those lost NFTs and links to information on them that is still available. 
+Artist Mario Klingemann [mints what is likely the 112th NFT on Hic et Nunc](https://twitter.com/quasimondo/status/1364558512286806018). However, this work is among the first 152 pieces that were created on a different smart contract and therefore have become "invisible" - [see April 6, 2021](#firstnftsnft).
 
 ### <a name="beginning">March 1, 2021</a>
 <img src="assets/20210301.png" alt="Tweet by @hicetnunc2000" style="width:500px;"/>
@@ -92,22 +92,21 @@ This date marks the official beginning of Hic et Nunc, when “swapping OBJKTs�
 [First commit](https://github.com/hicetnunc2000/hicetnunc-api/graphs/commit-activity) to the Hic et Nunc API GitHub repo.
  
 ### March 16, 2021
-Taís Koshino writes the first curation article about NFTs on Hic et Nunc ([Medium article](https://medium.com/@taiskoshino/creamy-picks-1-bcfc331a54db)).
+Artist Taís Koshino writes the first curation article about NFTs on Hic et Nunc ([Medium article](https://medium.com/@taiskoshino/creamy-picks-1-bcfc331a54db)).
 
 ### March 20/21, 2021
 [Jack Rusher](https://jackrusher.com/journal/what-does-it-mean-to-buy-a-gif.html) and [Jason Bailey (Artnome)](https://www.artnome.com/news/2021/3/21/hic-et-nunc-revives-the-true-spirit-of-web-art-through-nfts) publish articles about the phenomenon.      
 
 ### March 25, 2021
-Pupila Dilatada, the first collaborative art show appears as a gallery on H=N.
+[Pupila Dilatada](https://www.pupiladilatada.xyz), the first collaborative art show on Tezos  appears as a gallery on Hic et Nunc. Further editions will follow.
 
 ### March 26-28, 2021
-The first OBJKT4OBJKT event in collaboration with the DiverseNftArt initiative takes place. Artists swap their NFTs for free. The second event in late April attracts even more attention but also reveals the problem of “hoarder bots”, programs written to mass-collect free objects and resell them.  
-https://diversenftart.hotglue.me/     
-
+The first #OBJKT4OBJKT event is initiated by the [DiverseNftArt initiative](https://diversenftart.hotglue.me). During a weekend that has the appearance of a worldwide virtual party, artists offer and collect their NFTs for a minimum amount of Tez or completyely for free. A second, bigger event in late April attracts even more attention but also reveals the problem of “hoarder bots”, programs written to mass-collect free objects and resell them.  
+    
 ### March 31, 2021 
-[@muratpak](https://twitter.com/muratpak) tweets out the first version of what will become, after discussions and adaptions, the HEN logo, thereby shaping the visual identity of the project: https://twitter.com/muratpak/status/1377312115422343169?s=21. Responsible for the design and conceptual studies was artist [Julio Glatt](https://twitter.com/JulioGlatt/status/1461641499087708166?s=20).
+Artist Murat Pak [tweets out the first version](https://twitter.com/muratpak/status/1377312115422343169?s=21) of what will become, after discussions and adaptions, the Hic et Nunc logo, shaping the visual identity of the project. Responsible for the design and conceptual studies was artist [Julio Glatt](https://twitter.com/JulioGlatt/status/1461641499087708166?s=20).
 
-### April 6, 2021
+### <a name="firstnftsnft">April 6, 2021</a>
 An NFT to preserve history: The first 152 NFTs were minted on an initial version of the Hic et Nunc smart contract and became inaccessible on the platform later. ["The Lost HicEtNuncs"](https://objkt.com/asset/hicetnunc/24880), an NTF created by [Mike Tyka](https://twitter.com/mtyka), makes them visible again. 
 
 ### April 9, 2021
@@ -182,7 +181,7 @@ Apart from that narrow technical view, political, economic and legal aspects suc
 
 We might never know, as in the debates on Twitter spaces and Discord we see conflicting interests, fueled by opinion, amplification of the loudest voices, speculation and unsubstantiated claims about the founder's intentions. After numerous heated internal and external discussions, and amidst a difficult and problematic namefinding procedure, this emerging community is still in the process of finding itself before it can rebrand and move on. From a critical perspective it must be acknowledged, that there are much more pressing issues such as concerning FUD and hostility against NFT creators from art establishment figures and fringe groups, while a significant portion of the community's energy seems to be taken up by internalities. 
 
-But it is crucial to look around: each system has its own environment. Hic et Nunc's environment saw a surge of Tezos NFT projects and platforms, notably the NFT metaplatform [Objkt.com](https://objkt.com/) and the generative art experiment [Fxhash](https://www.fxhash.xyz/), the entrance of Tezos NFT art at [Art Basel Miami Beach](https://tezos.com/events/art-basel/) and mainstream NFT platform [Rarible](https://rarible.com/), and a growing number of artist collectives such as [Malaysianft](http://mnft.nfxt.gg/) and [Alterhen](https://alterhen.art/). 
+But it is crucial to look around: each system has its own environment. Hic et Nunc's environment saw a surge of Tezos NFT projects and platforms, notably the NFT metaplatform [Objkt.com](https://objkt.com/) and the generative art experiment [fxhash](https://www.fxhash.xyz/), the entrance of Tezos NFT art at [Art Basel Miami Beach](https://tezos.com/events/art-basel/) and mainstream NFT platform [Rarible](https://rarible.com/), and a growing number of artist collectives such as [Malaysianft](http://mnft.nfxt.gg/) and [Alterhen](https://alterhen.art/). 
 
 The road into 2022 couldn't be more bumpy, yet exciting. One thing however is clear: It is nonfungible. Take care.
 
