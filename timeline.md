@@ -1,7 +1,7 @@
 # HEN timeline
 ## Introduction
 
-[Hic et Nunc](https://web.archive.org/web/20211107123525/https://www.hicetnunc.xyz/) (abbreviated H=N, sometimes HEN or hen) was the first NFT art place on the [Tezos](https://tezos.com/) blockchain. This brief timeline is meant to help preserve common memory by recording key events of its development. Therefore it focuses on H=N itself (and later on Teia) and does not attempt to serve as a timeline of blockchains, NFTs or crypto art in general. These topics are covered in some excellent resources:
+[Hic et Nunc](https://web.archive.org/web/20211107123525/https://www.hicetnunc.xyz/) (abbreviated H=N, sometimes HEN or hen) was the first NFT art place on the [Tezos](https://tezos.com/) blockchain. This brief timeline is meant to help preserve common memory by recording key events of its development. Therefore it primarily focuses on H=N itself (and later on the offsprings coming out of the community such as Teia) and does not attempt to serve as a timeline of blockchains, NFTs or crypto art in general. These topics are covered in some excellent resources:
 
 * [https://decal.furtherfield.org/2020/05/22/a-blockchain-art-history-timeline/](https://decal.furtherfield.org/2020/05/22/a-blockchain-art-history-timeline/) by Furtherfield
 * [https://ostachowski.com/about/what-is-crypto-art-or-nft-art/history-of-crypto-art/](https://ostachowski.com/about/what-is-crypto-art-or-nft-art/history-of-crypto-art/) by Martin Lukas Ostachowski
@@ -19,7 +19,7 @@ This timeline is dedicated to that community.
 Launch of the public [Tezos blockchain](https://tezos.com/), the “mainnet”.
 
 ### March 1, 2020
-The first tweet from Twitter account [@hicetnunc2000](https://twitter.com/hicetnunc2000) contains a [link](https://www.youtube.com/watch?v=u3aE3Z6llMc) to the lecture "A Thousand Years of Nonlinear History" by philosopher Manuel De Landa.
+The first tweet from Twitter account [@hicetnunc2000](https://twitter.com/hicetnunc2000) contains a [link](https://www.youtube.com/watch?v=u3aE3Z6llMc) to the lecture "A Thousand Years of Nonlinear History" by philosopher Manuel De Landa. *This tweet has been deleted in the meantime, see note at the end.*
 
 ### May 19, 2020
 “rearranging architectures, terraforming autonomous communities […] hicetnunc2000 is a lab for decentralized computing experiments” ([Medium article](https://hicetnunc2000.medium.com/ungrund-e4ac3e30de9e))
@@ -31,7 +31,7 @@ Rafael Lima [wins the Tezos + CoinList Hackathon](https://blog.coinlist.co/annou
 “Hicetnunc by Rafael Lima, geared towards crowdfunding and crowdsourcing in the e-sports community, receives a grant by the Tezos foundation” ([Announcement](https://tezos.foundation/fourth-cohort-grants/))
 
 ### August 20, 2020
-“coming live” ([Tweet](https://twitter.com/hicetnunc2000/status/1296554519933997058))
+“coming live” ([deleted Tweet](https://twitter.com/hicetnunc2000/status/1296554519933997058))
 
 ### September 3, 2020
 The [“Delphi” upgrade to the Tezos blockchain](https://blog.nomadic-labs.com/delphi-official-release.html) significantly reduces transaction costs, which makes microtransactions on Tezos even more feasible than before. 
@@ -43,16 +43,16 @@ The [“Delphi” upgrade to the Tezos blockchain](https://blog.nomadic-labs.com
 Rafael Lima [develops random-bridge](https://www.youtube.com/watch?v=jKihf2JpqiA) during a chainlink hackathon.
 
 ### October 8, 2020
-“A microservice to upload files into IPFS” ([Tweet](https://twitter.com/hicetnunc2000/status/1314084398124367872))
+“A microservice to upload files into IPFS” ([deleted Tweet](https://twitter.com/hicetnunc2000/status/1314084398124367872))
  
 ### October 17, 2020
-Milestone reached: “microfunding protocol is live” ([Tweet](https://twitter.com/hicetnunc2000/status/1317308306189332481 )) 
+Milestone reached: “microfunding protocol is live” ([deleted Tweet](https://twitter.com/hicetnunc2000/status/1317308306189332481 )) 
 
 ### October 27, 2020
 ”hicetnunc microfunding protocol” ([Medium article](https://hicetnunc2000.medium.com/hicetnunc-microfunding-protocol-e270a63eb73c))
  
 ### November 7, 2020
-hicetnunc.xzy domain registration. Tracked by [an NFT](https://hic.af/objkt/90853). 
+hicetnunc.xzy domain registration. Tracked by [an NFT](https://hic.af/objkt/90853). *Note that "lifetime" in this context indicates the time span since that date.* 
 
 ### November 9, 2020
 [First commit](https://github.com/hicetnunc2000/hicetnunc/graphs/commit-activity) to the hicetnunc GitHub repository.
@@ -70,32 +70,27 @@ First reported "bug" ([Tweet](https://twitter.com/cryyptt2/status/13286195662647
 First collectors ([Tweet](https://twitter.com/Blindripper85/status/1328466738619576321)).
  
 ### January 3, 2021
-H=N “evolved into a tool for creating micro-funding DAOs for any purpose” (xtz.news interview)
-https://xtz.news/dao-news/hicetnunc-microfunding-daos-on-tezos/ 
-This interview with Rafael Lima gives not only provides insights into the plans and ideas of the founder, it also gives a clue about the name “hic et nunc”, identifiable in Paul Virilio’s writings about a “futurism of the instant”, see for example Virilio, P., & Lotringer, S. (2001). After Architecture: A Conversation. Grey Room, 3, 32–53. doi:10.1162/152638101300138530 
+H=N “evolved into a tool for creating micro-funding DAOs for any purpose” ([xtz.news interview](https://xtz.news/dao-news/hicetnunc-microfunding-daos-on-tezos/))
+
+This interview with Rafael Lima gives not only provides insights into the plans and ideas of the founder of Hic et Nunc, it also gives a clue about its name, a phrase that appears in Paul Virilio’s writings about a “Futurism of the Instant”, see for example Virilio, P., & Lotringer, S. (2001). After Architecture: A Conversation. Grey Room, 3, 32–53. doi:10.1162/152638101300138530.
 
 ### February 12, 2021
-First commit to the hicetnunc DAO smart contracts GitHub repo
-https://github.com/hicetnunc2000/hicetnuncDAO/graphs/commit-activity 
+[First commit](https://github.com/hicetnunc2000/hicetnuncDAO/graphs/commit-activity) to the hicetnunc DAO smart contracts GitHub repository.
 
 ### February 15, 2021
-OBJKT Swap, a manifesto and roadmap (Medium)
-https://hicetnunc2000.medium.com/objkt-swap-62dbaf776336 
-
+OBJKT Swap, a manifesto and roadmap ([Medium article](https://hicetnunc2000.medium.com/objkt-swap-62dbaf776336)).
+ 
 ### February 18, 2021
-Artist and climate activist Joanie Lemercier sheds more light on the energy consumption of Proof-of-Work Ethereum cryptoart platforms. H=N runs on Tezos, a Proof-of-Stake blockchain whose energy impact is neglectable in comparison to Proof-of-Work blockchains (Bitcoin, Ethereum) according to an article published two days earlier by the Tezos foundation.  
-https://joanielemercier.com/the-problem-of-cryptoart/    
-https://medium.com/tqtezos/proof-of-work-vs-proof-of-stake-the-ecological-footprint-c58029faee44 
+Artist and climate activist Joanie Lemercier [sheds more light on the energy consumption of Proof-of-Work Ethereum cryptoart platforms](https://joanielemercier.com/the-problem-of-cryptoart/). Hic et Nunc runs on Tezos, a Proof-of-Stake blockchain whose energy impact is neglectable in comparison to Proof-of-Work (Bitcoin, Ethereum) according to [an article published by the Tezos foundation](https://medium.com/tqtezos/proof-of-work-vs-proof-of-stake-the-ecological-footprint-c58029faee44).  
 
 ### February 24, 2021
-Artist Mario Klingemann mints what appears to be the 112th NFT on H=N: https://twitter.com/quasimondo/status/1364558512286806018. However, this work is among the first 152 NFTs that were created on a different smart contract and therefore have become "invisible". An NFT by Mike Tyka has collected those lost OBJKTs and links to the still available information on them: https://hic.af/objkt/24880
+Artist Mario Klingemann [mints what appears to be the 112th NFT on Hic et Nunc](https://twitter.com/quasimondo/status/1364558512286806018). However, this work is among the first 152 pieces that were created on a different smart contract and therefore have become "invisible". [This NFT by Mike Tyka](https://hic.af/objkt/24880) has collected those lost OBJKTs and links to the still available information on them. 
 
-### <a name="beginning">March 1, 2021</a> 
+### <a name="beginning">March 1, 2021</a>
+
 ![](assets/20210301.png)
-This date marks the official beginning of H=N, when “swapping OBJKTs” (trading of NFTs in H=N lingo) is possible. At the same time, the governance hDAO token is released. 
-https://twitter.com/hicetnunc2000/status/1366345595405934592     
-https://better-call.dev/mainnet/KT1AFA2mwNUMNd4SsujE1YYp29vd8BZejyKW/tokens    
-
+This date marks the official beginning of H=N, when “swapping OBJKTs” (trading of NFTs in H=N lingo) is possible. ([deleted Tweet](https://twitter.com/hicetnunc2000/status/1366345595405934592)). At the same time, [the governance hDAO token is released](https://better-call.dev/mainnet/KT1AFA2mwNUMNd4SsujE1YYp29vd8BZejyKW/tokens). 
+    
 ### March 10, 2021
 First commit to hicetnunc API GitHub repo
 https://github.com/hicetnunc2000/hicetnunc-api/graphs/commit-activity 
@@ -232,6 +227,6 @@ The three-day event ["Proof of People"](https://proofofpeople.verticalcrypto.art
 
 … to be continued
 
-*written by [@crcdng](https://twitter.com/crcdng) based on research from Twitter, Medium, Youtube and other public sources. Thanks to Lionel Radisson, Tais Koshino, Kelly Richardson for contributions. Special thanks to Javier Graciá-Carpio [@jagracar](https://twitter.com/jagracar) for public data collection and to the writers and editors of the [Teia community newsletter](https://blog.teia.art/blog). Dates according to UTC.*
+*written by [@crcdng](https://twitter.com/crcdng) based on personal communication as well as research from Discord, Twitter, Medium, Youtube and other public sources. Thanks to Lionel Radisson, Tais Koshino, Kelly Richardson for contributions. Special thanks to Javier Graciá-Carpio [@jagracar](https://twitter.com/jagracar) for public data collection and to the writers / editors of the [Teia community newsletter](https://blog.teia.art/blog). Please note that the founder of Hic et Nunc, Rafael Lima has deleted all tweets from the @hicetnunc2000 account, including those that are referenced in this resource. I decided to keep the links for documentation purposes. Dates are according to UTC.*
 
 Published under the Creative Commons Attribution-NonCommercial 4.0 International License [(CC BY-NC 4.0)](https://creativecommons.org/licenses/by/4.0/)
