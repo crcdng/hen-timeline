@@ -34,57 +34,41 @@ Rafael Lima [wins the Tezos + CoinList Hackathon](https://blog.coinlist.co/annou
 “coming live” ([Tweet](https://twitter.com/hicetnunc2000/status/1296554519933997058))
 
 ### September 3, 2020
-The [“Delphi” upgrade](https://blog.nomadic-labs.com/delphi-official-release.html) significantly reduces transaction costs of the Tezos blockchain, which makes microtransactions even more feasible. 
+The [“Delphi” upgrade to the Tezos blockchain](https://blog.nomadic-labs.com/delphi-official-release.html) significantly reduces transaction costs, which makes microtransactions on Tezos even more feasible than before. 
 
 ### September 23, 2020
-“Friends, something has been bugging me for a while”, begins the tweet in which artist Memo Akten addresses deep concerns about the energy usage of crypto art. In the subsequent days and weeks heated debates ensue. Memo subsequently publishes research and a tool to calculate the energy consumption of artworks. The latter was later weaponized against individual artists against the intention of its creator and therefore withdrawn.  
-http://cryptoart.wtf 
-https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053 
-https://github.com/memo/eco-nft
+“Friends, something has been bugging me for a while. The world is burning”, begins the [tweet](https://twitter.com/memotv/status/1308683955705655296) in which artist Memo Akten addresses deep concerns about the energy usage of crypto art. In the subsequent days and weeks heated debates ensue. Memo subsequently [publishes essays](https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053) and [research](https://github.com/memo/eco-nft), including a tool to calculate the energy consumption of NFT artworks. The tool was weaponized against individual artists which was not in the intention of its creator and [therefore was withdrawn later](http://cryptoart.wtf).  
 
 ### September 27, 2020
-Rafael Lima develops random-bridge during chainlink hackathon.
-https://www.youtube.com/watch?v=jKihf2JpqiA
+Rafael Lima [develops random-bridge](https://www.youtube.com/watch?v=jKihf2JpqiA) during a chainlink hackathon.
 
 ### October 8, 2020
-“A microservice to upload files into IPFS” (Tweet)
-https://twitter.com/hicetnunc2000/status/1314084398124367872 
-
+“A microservice to upload files into IPFS” ([Tweet](https://twitter.com/hicetnunc2000/status/1314084398124367872))
+ 
 ### October 17, 2020
-Milestone reached: “microfunding protocol is live” (Tweet) 
-https://twitter.com/hicetnunc2000/status/1317308306189332481 
+Milestone reached: “microfunding protocol is live” ([Tweet](https://twitter.com/hicetnunc2000/status/1317308306189332481 )) 
 
 ### October 27, 2020
-Medium article ”hicetnunc microfunding protocol”
-https://hicetnunc2000.medium.com/hicetnunc-microfunding-protocol-e270a63eb73c 
-
+”hicetnunc microfunding protocol” ([Medium article](https://hicetnunc2000.medium.com/hicetnunc-microfunding-protocol-e270a63eb73c))
+ 
 ### November 7, 2020
-hicetnunc.xzy domain registration
-Tracked by https://hic.af/objkt/90853
+hicetnunc.xzy domain registration. Tracked by [an NFT](https://hic.af/objkt/90853). 
 
 ### November 9, 2020
-First commit to the hicetnunc GitHub repo
-https://github.com/hicetnunc2000/hicetnunc/graphs/commit-activity
+[First commit](https://github.com/hicetnunc2000/hicetnunc/graphs/commit-activity) to the hicetnunc GitHub repository.
 
 ### November 12, 2020
-First Archive crawl of www.hicetnunc.xyz
-https://web.archive.org/web/20201112035107/https://www.hicetnunc.xyz/
-(The crawler had difficulties capturing the site. The first visible version 
-is from March 1, 2021 https://web.archive.org/web/20210301170201/https://www.hicetnunc.xyz/ )
+First [Internet Archive crawl](https://web.archive.org/web/20201112035107/https://www.hicetnunc.xyz/) of www.hicetnunc.xyz. (The crawler had difficulties indexing the site. The [first visible version](https://web.archive.org/web/20210301170201/https://www.hicetnunc.xyz/) is dated March 1, 2021.
 
 ### November 16, 2020
-First mention of NFTs as a giveaway (Tweet)
-https://twitter.com/hicetnunc2000/status/1328393465907064844
-https://better-call.dev/mainnet/KT1SRTR7jVzrBgwzbvbhp7SQ2WFomfqgsYAP/operations
+First mention of NFTs as a giveaway ([deleted Tweet](https://twitter.com/hicetnunc2000/status/1328393465907064844)), followed by [operations](https://better-call.dev/mainnet/KT1SRTR7jVzrBgwzbvbhp7SQ2WFomfqgsYAP/operations).
 
 ### November 17, 2020
-First bug report (Tweet) 
-https://twitter.com/cryyptt2/status/1328619566264709122
+First reported "bug" ([Tweet](https://twitter.com/cryyptt2/status/1328619566264709122)). 
 
 ### November 17, 2020
-First collectors (Tweet)
-https://twitter.com/Blindripper85/status/1328466738619576321 
-
+First collectors ([Tweet](https://twitter.com/Blindripper85/status/1328466738619576321)).
+ 
 ### January 3, 2021
 H=N “evolved into a tool for creating micro-funding DAOs for any purpose” (xtz.news interview)
 https://xtz.news/dao-news/hicetnunc-microfunding-daos-on-tezos/ 
