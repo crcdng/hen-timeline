@@ -43,13 +43,13 @@ The [“Delphi” upgrade to the Tezos blockchain](https://blog.nomadic-labs.com
 Rafael Lima [develops random-bridge](https://www.youtube.com/watch?v=jKihf2JpqiA) during a chainlink hackathon.
 
 ### October 8, 2020
-“A microservice to upload files into IPFS” ([deleted Tweet](https://twitter.com/hicetnunc2000/status/1314084398124367872))
+“A microservice to upload files into IPFS” ([deleted Tweet](https://twitter.com/hicetnunc2000/status/1314084398124367872)).
  
 ### October 17, 2020
-Milestone reached: “microfunding protocol is live” ([deleted Tweet](https://twitter.com/hicetnunc2000/status/1317308306189332481 )) 
+Milestone reached: “microfunding protocol is live” ([deleted Tweet](https://twitter.com/hicetnunc2000/status/1317308306189332481)).
 
 ### October 27, 2020
-”hicetnunc microfunding protocol” ([Medium article](https://hicetnunc2000.medium.com/hicetnunc-microfunding-protocol-e270a63eb73c))
+”hicetnunc microfunding protocol” ([Medium article](https://hicetnunc2000.medium.com/hicetnunc-microfunding-protocol-e270a63eb73c)).
  
 ### November 7, 2020
 hicetnunc.xzy domain registration. Tracked by [an NFT](https://hic.af/objkt/90853). *Note that "lifetime" in this context indicates the time span since that date.* 
@@ -61,16 +61,13 @@ hicetnunc.xzy domain registration. Tracked by [an NFT](https://hic.af/objkt/9085
 First [Internet Archive crawl](https://web.archive.org/web/20201112035107/https://www.hicetnunc.xyz/) of www.hicetnunc.xyz. (The crawler had difficulties indexing the site. The [first visible version](https://web.archive.org/web/20210301170201/https://www.hicetnunc.xyz/) is dated March 1, 2021.
 
 ### November 16, 2020
-First mention of NFTs as a giveaway ([deleted Tweet](https://twitter.com/hicetnunc2000/status/1328393465907064844)), followed by [operations](https://better-call.dev/mainnet/KT1SRTR7jVzrBgwzbvbhp7SQ2WFomfqgsYAP/operations).
+First mention of NFTs as a giveaway ([deleted Tweet](https://twitter.com/hicetnunc2000/status/1328393465907064844)), followed by [operations](https://better-call.dev/mainnet/KT1SRTR7jVzrBgwzbvbhp7SQ2WFomfqgsYAP/operations). For the first time, collecting an NFT from Hic et Nunc is mentioned on Twitter ([Tweet](https://twitter.com/Blindripper85/status/1328466738619576321)).
 
 ### November 17, 2020
 First reported "bug" ([Tweet](https://twitter.com/cryyptt2/status/1328619566264709122)). 
-
-### November 17, 2020
-First collectors ([Tweet](https://twitter.com/Blindripper85/status/1328466738619576321)).
  
 ### January 3, 2021
-H=N “evolved into a tool for creating micro-funding DAOs for any purpose” ([xtz.news interview](https://xtz.news/dao-news/hicetnunc-microfunding-daos-on-tezos/))
+H=N “evolved into a tool for creating micro-funding DAOs for any purpose” ([xtz.news interview](https://xtz.news/dao-news/hicetnunc-microfunding-daos-on-tezos/)).
 
 This interview with Rafael Lima gives not only provides insights into the plans and ideas of the founder of Hic et Nunc, it also gives a clue about its name, a phrase that appears in Paul Virilio’s writings about a “Futurism of the Instant”, see for example Virilio, P., & Lotringer, S. (2001). After Architecture: A Conversation. Grey Room, 3, 32–53. doi:10.1162/152638101300138530.
 
@@ -84,12 +81,12 @@ OBJKT Swap, a manifesto and roadmap ([Medium article](https://hicetnunc2000.medi
 Artist and climate activist Joanie Lemercier [sheds more light on the energy consumption of Proof-of-Work Ethereum cryptoart platforms](https://joanielemercier.com/the-problem-of-cryptoart/). Hic et Nunc runs on Tezos, a Proof-of-Stake blockchain whose energy impact is neglectable in comparison to Proof-of-Work (Bitcoin, Ethereum) according to [an article published by the Tezos foundation](https://medium.com/tqtezos/proof-of-work-vs-proof-of-stake-the-ecological-footprint-c58029faee44).  
 
 ### February 24, 2021
-Artist Mario Klingemann [mints what appears to be the 112th NFT on Hic et Nunc](https://twitter.com/quasimondo/status/1364558512286806018). However, this work is among the first 152 pieces that were created on a different smart contract and therefore have become "invisible". [This NFT by Mike Tyka](https://hic.af/objkt/24880) has collected those lost OBJKTs and links to the still available information on them. 
+Artist Mario Klingemann [mints what appears to be the 112th NFT on Hic et Nunc](https://twitter.com/quasimondo/status/1364558512286806018). However, this work is among the first 152 pieces that were created on a different smart contract and therefore have become "invisible". [This NFT by Mike Tyka](https://hic.af/objkt/24880) collects those lost NFTs and links to information on them that is still available. 
 
 ### <a name="beginning">March 1, 2021</a>
 
 ![](assets/20210301.png)
-This date marks the official beginning of H=N, when “swapping OBJKTs” (trading of NFTs in H=N lingo) is possible. ([deleted Tweet](https://twitter.com/hicetnunc2000/status/1366345595405934592)). At the same time, [the governance hDAO token is released](https://better-call.dev/mainnet/KT1AFA2mwNUMNd4SsujE1YYp29vd8BZejyKW/tokens). 
+This date marks the official beginning of H=N, when “swapping OBJKTs” (trading of NFTs in H=N lingo) is possible ([deleted Tweet](https://twitter.com/hicetnunc2000/status/1366345595405934592)). At the same time, [the governance hDAO token is released](https://better-call.dev/mainnet/KT1AFA2mwNUMNd4SsujE1YYp29vd8BZejyKW/tokens). 
     
 ### March 10, 2021
 First commit to hicetnunc API GitHub repo
