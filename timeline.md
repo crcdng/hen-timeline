@@ -81,25 +81,21 @@ OBJKT Swap, a manifesto and roadmap ([Medium article](https://hicetnunc2000.medi
 Artist and climate activist Joanie Lemercier [sheds more light on the energy consumption of Proof-of-Work Ethereum cryptoart platforms](https://joanielemercier.com/the-problem-of-cryptoart/). Hic et Nunc runs on Tezos, a Proof-of-Stake blockchain whose energy impact is neglectable in comparison to Proof-of-Work (Bitcoin, Ethereum) according to [an article published by the Tezos foundation](https://medium.com/tqtezos/proof-of-work-vs-proof-of-stake-the-ecological-footprint-c58029faee44).  
 
 ### February 24, 2021
-Artist Mario Klingemann [mints what appears to be the 112th NFT on Hic et Nunc](https://twitter.com/quasimondo/status/1364558512286806018). However, this work is among the first 152 pieces that were created on a different smart contract and therefore have become "invisible". [This NFT by Mike Tyka](https://hic.af/objkt/24880) collects those lost NFTs and links to information on them that is still available. 
+Artist Mario Klingemann [mints what is likely the 112th NFT on Hic et Nunc](https://twitter.com/quasimondo/status/1364558512286806018). However, this work is among the first 152 pieces that were created on a different smart contract and therefore have become "invisible". [This NFT by Mike Tyka](https://hic.af/objkt/24880) collects those lost NFTs and links to information on them that is still available. 
 
 ### <a name="beginning">March 1, 2021</a>
-<img src="assets/20210301.png" alt="Tweet by @hicetnunc2000" style="width:400px;"/>
+<img src="assets/20210301.png" alt="Tweet by @hicetnunc2000" style="width:500px;"/>
 
-This date marks the official beginning of H=N, when “swapping OBJKTs” (trading of NFTs in H=N lingo) is possible ([deleted Tweet](https://twitter.com/hicetnunc2000/status/1366345595405934592)). At the same time, [the governance hDAO token is released](https://better-call.dev/mainnet/KT1AFA2mwNUMNd4SsujE1YYp29vd8BZejyKW/tokens). 
+This date marks the official beginning of Hic et Nunc, when “swapping OBJKTs” (trading of NFTs) is possible ([deleted Tweet](https://twitter.com/hicetnunc2000/status/1366345595405934592)). At the same time, [the governance hDAO token is released](https://better-call.dev/mainnet/KT1AFA2mwNUMNd4SsujE1YYp29vd8BZejyKW/tokens). 
     
 ### March 10, 2021
-First commit to hicetnunc API GitHub repo
-https://github.com/hicetnunc2000/hicetnunc-api/graphs/commit-activity 
-
+[First commit](https://github.com/hicetnunc2000/hicetnunc-api/graphs/commit-activity) to the Hic et Nunc API GitHub repo.
+ 
 ### March 16, 2021
-Taís Koshino writes the first(?) curation article on NFTs about H=N (Medium).
-https://hicetnunc2000.medium.com/creamy-picks-1-genesis-1b1e0468f576
+Taís Koshino writes the first curation article about NFTs on Hic et Nunc ([Medium article](https://medium.com/@taiskoshino/creamy-picks-1-bcfc331a54db)).
 
 ### March 20/21, 2021
-Jack Rusher and Jason Bailey (Artnome) publish articles about the new phenomenon.    
-https://jackrusher.com/journal/what-does-it-mean-to-buy-a-gif.html.   
-https://www.artnome.com/news/2021/3/21/hic-et-nunc-revives-the-true-spirit-of-web-art-through-nfts
+[Jack Rusher](https://jackrusher.com/journal/what-does-it-mean-to-buy-a-gif.html) and [Jason Bailey (Artnome)](https://www.artnome.com/news/2021/3/21/hic-et-nunc-revives-the-true-spirit-of-web-art-through-nfts) publish articles about the phenomenon.      
 
 ### March 25, 2021
 Pupila Dilatada, the first collaborative art show appears as a gallery on H=N.
@@ -155,7 +151,7 @@ It becomes public knowledge that a logic error in the H=N smart contract which a
 
 Meanwhile, the apparent attacker, who operates under the moniker “hen-exploiter” is engaging with the community, mainly via the H=N discord channel. The ongoing issue also exposes rifts in the H=N community, amidst questions about the development of the site and the parallel opening of objkt.bid (now [object.com](https://objkt.com/), see [above](#objktbid)). An AMA (Ask me Anything) event with Rafael Lima, [published here on Youtube](https://www.youtube.com/watch?v=8iGMIxTap7A) on July 4, 2021  brings some insights into the philosophy behind Hic et Nunc.  
 
-![](assets/20210701.png)
+<img src="assets/20210701.png" alt="Tweet by @mumu_thestan" style="width:500px;"/>
 Tweet by [@mumu_thestan](https://twitter.com/mumu_thestan), July 1
 
 Controversial issues remain, yet members of the community react with a quality that can be observed as its strength: humour. As “hen-exploiter” is supposedly negative on Aubergines, a growing number of Aubergine-shaped NFTs are exchanged directly between artists and collectors under the hashtag [#AUBJKT4AUBJKT](https://twitter.com/search?q=%23AUBJKT4AUBJKT&src=typed_query).
