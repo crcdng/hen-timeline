@@ -84,8 +84,8 @@ Artist and climate activist Joanie Lemercier [sheds more light on the energy con
 Artist Mario Klingemann [mints what appears to be the 112th NFT on Hic et Nunc](https://twitter.com/quasimondo/status/1364558512286806018). However, this work is among the first 152 pieces that were created on a different smart contract and therefore have become "invisible". [This NFT by Mike Tyka](https://hic.af/objkt/24880) collects those lost NFTs and links to information on them that is still available. 
 
 ### <a name="beginning">March 1, 2021</a>
+<img src="assets/20210301.png" alt="Tweet by @hicetnunc2000" style="width:400px;"/>
 
-![](assets/20210301.png)
 This date marks the official beginning of H=N, when “swapping OBJKTs” (trading of NFTs in H=N lingo) is possible ([deleted Tweet](https://twitter.com/hicetnunc2000/status/1366345595405934592)). At the same time, [the governance hDAO token is released](https://better-call.dev/mainnet/KT1AFA2mwNUMNd4SsujE1YYp29vd8BZejyKW/tokens). 
     
 ### March 10, 2021
