@@ -24,11 +24,10 @@ The first tweet from Twitter account [@hicetnunc2000](https://twitter.com/hicetn
 ### May 19, 2020
 “rearranging architectures, terraforming autonomous communities […] hicetnunc2000 is a lab for decentralized computing experiments” ([Medium article](https://hicetnunc2000.medium.com/ungrund-e4ac3e30de9e))
 
-### Jul 7, 2020
-Rafael Lima [wins the Tezos + CoinList Hackathon](https://blog.coinlist.co/announcing-the-winners-of-the-tezos-coinlist-hackathon/) with the project "[Ungrund Oracle - open source infrastructure to connect microsservices to the tezos network](https://coinlist.co/build/tezos/projects/29cc917b-a0ad-4c99-8679-65368db00eca)"
-
 ### July 7, 2020
-“Hicetnunc by Rafael Lima, geared towards crowdfunding and crowdsourcing in the e-sports community, receives a grant by the Tezos foundation” ([Announcement](https://tezos.foundation/fourth-cohort-grants/))
+Rafael Lima [wins the Tezos + CoinList Hackathon](https://blog.coinlist.co/announcing-the-winners-of-the-tezos-coinlist-hackathon/) with the project "[Ungrund Oracle - open source infrastructure to connect microsservices to the tezos network](https://coinlist.co/build/tezos/projects/29cc917b-a0ad-4c99-8679-65368db00eca)".
+
+“Hicetnunc by Rafael Lima, geared towards crowdfunding and crowdsourcing in the e-sports community, receives a grant by the Tezos foundation” ([Announcement](https://tezos.foundation/fourth-cohort-grants/)).
 
 ### August 20, 2020
 “coming live” ([deleted Tweet](https://twitter.com/hicetnunc2000/status/1296554519933997058))
@@ -110,37 +109,28 @@ Artist Murat Pak [tweets out the first version](https://twitter.com/muratpak/sta
 An NFT to preserve history: The first 152 NFTs were minted on an initial version of the Hic et Nunc smart contract and became inaccessible on the platform later. ["The Lost HicEtNuncs"](https://objkt.com/asset/hicetnunc/24880), an NTF created by [Mike Tyka](https://twitter.com/mtyka), makes them visible again. 
 
 ### April 9, 2021
-"Not another JPEG." Artist M Plummer-Fernández shares thoughts about the blossoming (and sometimes stuttering) platform that attracts more and more people critical of mainstream NFT marketplaces. The essay itself is steganographically hidden in an acompanying NFT.
-https://www.plummerfernandez.com/works/not-another-jpeg/    
-https://hic.af/objkt/27679    
+"Not another JPEG." Artist M Plummer-Fernández [shares thoughts](https://www.plummerfernandez.com/works/not-another-jpeg/) about the blossoming (and sometimes stuttering) platform that attracts more and more people who are critical of mainstream NFT marketplaces. The essay itself is steganographically hidden [in an acompanying NFT](https://hic.af/objkt/27679).
 
 ### April 19, 2021 
-The inaugural #TheFEN takes place, an event that is eventually a series of 7 coordinated drops which take place between April 19 and June 11. In the words of Juliette Bibasse, they include "pioneers of the digital art scene, in response to the outrageous energy consumption of CryptoArt releases (PoW). Their goal is to encourage the community to transition to #CleanNFT (PoS)." The initiative is curated by Juliette Bibasse and Joanie Lemercier, featuring the further artists beesandbombs (Dave Whyte), Memo Akten, Myriam Bleau, Mike Brondbjerg, Cinzia Campolese, Alex J. Champandard, Raphael de Courville, Ali M Demirel, Cadie Desbiens, Zai Divecha, Diane Drubay, Saskia Freeke, Nettrice Gaskins, Han, Auriea Harvey, Mario Klingemann, Joanie Lemercier, Golan Levin, LIA, Zach Lieberman, Shantell Martin, Kelly Richardson, RubenFro, Helena Sarin, Sasha Stiles, Patrick Tresset, Mike Tyka, Universal Everything, Patricio Gonzalez Vivo and Addie Wagenknecht.       
-http://thefen.io/  
-
+This day marks the inauguaral [#TheFEN event](https://teia.art/gallery/thefen), eventually a series of 7 coordinated NFT drops curated by Juliette Bibasse and Joanie Lemercier that take place between April 19 and June 11, 2021. In the words of Juliette Bibasse, they include "pioneers of the digital art scene, in response to the outrageous energy consumption of CryptoArt releases (PoW). Their goal is to encourage the community to transition to #CleanNFT (PoS)". The exhibitions feature artists beesandbombs (Dave Whyte), Memo Akten, Juliette Bibasse, Myriam Bleau, Mike Brondbjerg, Cinzia Campolese, Alex J. Champandard, Raphael de Courville, Ali M Demirel, Cadie Desbiens, Zai Divecha, Diane Drubay, Saskia Freeke, Nettrice Gaskins, Han, Auriea Harvey, Mario Klingemann, Joanie Lemercier, Golan Levin, LIA, Zach Lieberman, Shantell Martin, Kelly Richardson, RubenFro, Helena Sarin, Sasha Stiles, Patrick Tresset, Mike Tyka, Universal Everything, Patricio Gonzalez Vivo and Addie Wagenknecht.       
+  
 ### April 30, 2021
-H=N begins to overtake other NFT platforms, measured by daily active users (DAU).
-https://www.reddit.com/r/CryptoCurrency/comments/n1pxk7/hicetnunc_takes_over_opensea_in_becoming_the/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+Hic et Nunc is believed by some commentators to reach or overtake NFT platforms on other blockchains, measured by metrics such as daily active users (DAU). ([deleted entry on Reddit](https://www.reddit.com/r/CryptoCurrency/comments/n1pxk7/hicetnunc_takes_over_opensea_in_becoming_the/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)) *Note that this entry is under review, in order to (in-)validate claims such as this one, I am planning to add a data section to this repository*
 
 ### May 15, 2021
 The [Tibium residency](https://twitter.com/tibumresidency), promoted by Hic et Nunc, enables creators from the Global South to develop "connections, experiments and critical thought about NFTs."
 
 ### May 16, 2021
-Creative coder and prolific tool creator Javier Graciá-Carpio reports 10.000 Artists on H=N and provides an NFT that visualises this development 
-https://hic.af/objkt/83576
+Artist, creative coder and tool creator Javier Graciá-Carpio reports 10.000 Artists on Hic et Nunc and provides an NFT that [visualises this development](https://teia.art/objkt/83576).
 
 ### May 17, 2021
-In an article for https://restofworld.org/, Claire L. Evans describes the Brazilian art scene and background of Hic et Nunc.    
-https://restofworld.org/2021/inside-brazils-diy-nft-art-marketplace/
+In an [article](https://restofworld.org/2021/inside-brazils-diy-nft-art-marketplace/) for https://restofworld.org/, Claire L. Evans describes the Brazilian art scene and background of Hic et Nunc.
 
 ### May 22/23, 2021
-Hickathon, the first H=N hackathon, originates from another tweet by Mario Klingemann, assembles more than 150 participants in 20 groups, who keep working during 24 hours on a wide range of issues such as governance, site features and various improvements. The organisers, receiving overwhelming support from the community and from the Tezos foundation, manage to set up the Hickathon within a week and make it a fun event.
-https://www.hicathon.xyz/ 
-https://www.youtube.com/watch?v=NIy8F5b2_Pk 
+[Hickathon](https://www.hicathon.xyz/) is a community-organized hackathon centered around open ideas of tending and building on various technical and gouvernance topics around Hic et Nunc. The initiative assembles more than 150 volunteers in 20 working groups, who originally plan to keep working during 24 hours. Yet the Hickaton continues over multiple months, with participants working on a wide range of issues such as governance, site features and various improvements. The organisers who receive overwhelming participation from the community and support from the Tezos foundation, manage to set up the event within a week and [make it a fun event](https://www.youtube.com/watch?v=UvynsPkCzUM).
 
 ### May 27, 2021
-H=N celebrates 100.000 minted NFTs.
-https://twitter.com/hicetnunc2000/status/1397724112806633475
+H=N celebrates 100.000 minted NFTs ([deleted Tweet](https://twitter.com/hicetnunc2000/status/1397724112806633475)).
 
 ### <a name="objktbid">June 10, 2021</a>
 Objkt.bid, an experimental platform that adds an auction feature for Hic et Nunc NFTs is launched. It evolves into the [objkt.com](https://objkt.com/) marketplace, reaching [100 Million USD sales volume](https://www.dapp.com/app/objkt-com) within 12 months.    
