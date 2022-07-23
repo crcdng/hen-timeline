@@ -13,7 +13,7 @@ However, [this tweet](https://twitter.com/mattmedved/status/1385760755958562816)
 
 This timeline is dedicated to that community.
 
-## A Brief Timeline of Hic et Nunc
+## A Brief Timeline of Hic et Nunc and beyond
 
 ### September 17, 2018
 Launch of the public [Tezos blockchain](https://tezos.com/), the “mainnet”.
@@ -65,7 +65,7 @@ First mention of NFTs as a giveaway ([deleted Tweet](https://twitter.com/hicetnu
 ### November 17, 2020
 First reported "bug" ([Tweet](https://twitter.com/cryyptt2/status/1328619566264709122)). 
  
-### January 3, 2021
+### <a name="interview">January 3, 2021</a>
 H=N “evolved into a tool for creating micro-funding DAOs for any purpose” ([xtz.news interview](https://xtz.news/dao-news/hicetnunc-microfunding-daos-on-tezos/)).
 
 This interview with Rafael Lima gives not only provides insights into the plans and ideas of the founder of Hic et Nunc, it also gives a clue about its name, a phrase that appears in Paul Virilio’s writings about a “Futurism of the Instant”, see for example Virilio, P., & Lotringer, S. (2001). After Architecture: A Conversation. Grey Room, 3, 32–53. doi:10.1162/152638101300138530.
@@ -124,41 +124,45 @@ The [Tibium residency](https://twitter.com/tibumresidency), promoted by Hic et N
 Artist, creative coder and tool creator Javier Graciá-Carpio reports 10.000 Artists on Hic et Nunc and provides an NFT that [visualises this development](https://teia.art/objkt/83576).
 
 ### May 17, 2021
-In an [article](https://restofworld.org/2021/inside-brazils-diy-nft-art-marketplace/) for https://restofworld.org/, Claire L. Evans describes the Brazilian art scene and background of Hic et Nunc.
+Claire L. Evans describes the Brazilian digital art scene and background of Hic et Nunc in an [article](https://restofworld.org/2021/inside-brazils-diy-nft-art-marketplace/) for [https://restofworld.org/](https://restofworld.org/).
 
 ### May 22/23, 2021
-[Hickathon](https://www.hicathon.xyz/) is a community-organized hackathon centered around open ideas of tending and building on various technical and gouvernance topics around Hic et Nunc. The initiative assembles more than 150 volunteers in 20 working groups, who originally plan to keep working during 24 hours. Yet the Hickaton continues over multiple months, with participants working on a wide range of issues such as governance, site features and various improvements. The organisers who receive overwhelming participation from the community and support from the Tezos foundation, manage to set up the event within a week and [make it a fun event](https://www.youtube.com/watch?v=UvynsPkCzUM).
+[Hickathon](https://www.hicathon.xyz/) is a community-organized hackathon born from the idea of improving and building upon various technical and gouvernance aspects around Hic et Nunc. The initiative gathers more than 150 volunteers in 20 working groups, who originally plan to keep working during 24 hours. Yet the Hickaton continues over multiple months, with participants tackling a wide range of issues such as governance, site features and various improvements. The organisers, who receive overwhelming participation from the community and support from the Tezos foundation, manage to set up the event within a week and [make it a fun event](https://www.youtube.com/watch?v=UvynsPkCzUM).
 
 ### May 27, 2021
 H=N celebrates 100.000 minted NFTs ([deleted Tweet](https://twitter.com/hicetnunc2000/status/1397724112806633475)).
 
 ### <a name="objktbid">June 10, 2021</a>
-Objkt.bid, an experimental platform that adds an auction feature for Hic et Nunc NFTs is launched. It evolves into the [objkt.com](https://objkt.com/) marketplace, reaching [100 Million USD sales volume](https://www.dapp.com/app/objkt-com) within 12 months.    
+Objkt.bid launches as an experimental platform, adding an auction feature for Hic et Nunc tokens. The site evolves into [objkt.com](https://objkt.com/), the largest Tezos NFT marketplace, reaching [100 Million USD sales volume](https://www.dapp.com/app/objkt-com) within 12 months.    
 
 ### June 28, 2021
-It becomes public knowledge that a logic error in the H=N smart contract which allows an attacker to steal NFTs on the marketplace is actively exploited. In the turbulent fallout of the incident, the selling of NFTs (“swap”) has to be suspended while a new contract is being developed. Effectively this shuts the site down although the creation (“minting”) of new NFTs is still possible without risk. 
-
-Meanwhile, the apparent attacker, who operates under the moniker “hen-exploiter” is engaging with the community, mainly via the H=N discord channel. The ongoing issue also exposes rifts in the H=N community, amidst questions about the development of the site and the parallel opening of objkt.bid (now [object.com](https://objkt.com/), see [above](#objktbid)). An AMA (Ask me Anything) event with Rafael Lima, [published here on Youtube](https://www.youtube.com/watch?v=8iGMIxTap7A) on July 4, 2021  brings some insights into the philosophy behind Hic et Nunc.  
-
 <img src="assets/20210701.png" alt="Tweet by @mumu_thestan" style="width:500px;"/>
-Tweet by [@mumu_thestan](https://twitter.com/mumu_thestan), July 1
 
-Controversial issues remain, yet members of the community react with a quality that can be observed as its strength: humour. As “hen-exploiter” is supposedly negative on Aubergines, a growing number of Aubergine-shaped NFTs are exchanged directly between artists and collectors under the hashtag [#AUBJKT4AUBJKT](https://twitter.com/search?q=%23AUBJKT4AUBJKT&src=typed_query).
+It becomes public that a logic error in the Hic et Nunc smart contract which allows an attacker to steal NFTs on the marketplace is actively exploited. In the turbulent fallout of the incident, the trading of NFTs ("swapping") has to be suspended while a new contract is being developed. Effectively this shuts the site down although the creation ("minting") of new NFTs is still possible without risk. 
 
-The H=N functionality is fully restored on July 6, after which all NFT have to be migrated to the new contract (“v2”).
+Meanwhile, the alleged attacker, operating under the moniker "hen-exploiter", is engaging with the Hic et Nunc community, mainly via Discord. The ongoing issue also exposes rifts in the community, amidst questions about the development of the site and the parallel opening of objkt.bid (now [object.com](https://objkt.com/), see [above](#objktbid)). An AMA (Ask me Anything) event with Rafael Lima, [published here on Youtube](https://www.youtube.com/watch?v=8iGMIxTap7A) on July 4, 2021 attempts to give some insights into the philosophy behind Hic et Nunc.  
 
-A detailed write up “Smart Contract Exploit Postmortem” by NoRulesJustFeels can be found [here](https://docs.google.com/document/d/1eZgAotkL3s0M9Dc3RahDWcXarFH0dR9_CMzQsvU6mYk/)
+Many controversial issues remain, yet members of the community react with a quality that can be described as its strength: humour. As “hen-exploiter” apparently hedges negative feelings towards Aubergines, as noted by [@mumu_thestan](https://twitter.com/mumu_thestan), a growing number of Aubergine-themed NFTs are minted and traded directly between artists and collectors under the hashtag [#AUBJKT4AUBJKT](https://twitter.com/search?q=%23AUBJKT4AUBJKT&src=typed_query).
+
+The functionality of Hic et Nunc is fully restored on July 6, after which all existing NFTs have to be migrated to the newly deployed smartly contract ("v2").
+
+Community member [NoRulesJustFeels](https://twitter.com/FeelsNoRules) has a detailed write up:  [“Smart Contract Exploit Postmortem”](https://docs.google.com/document/d/1eZgAotkL3s0M9Dc3RahDWcXarFH0dR9_CMzQsvU6mYk/).
 
 ### November 2, 2021
-One year after the domain registration, eight months after the first NFTs were swapped on HEN (see above) and amidst some internal and external debate, the community celebrates 500.000 OBJKTs (NFTs) on the platform, using the hashtag #hen500k. Also, the community has roughly reached a size of 50.000 artists and collectors, while around 5.000 visitors engage with Hic et Nunc every day. Community member and prolific coder [@nftbiker](https://twitter.com/NFTBiker) has provided a [tool to access the #hen500k contributions](https://nftbiker.xyz/event/hen500k?sort=date). 
+A year after the Hic et Nunc domain is registered, eight months after the first NFTs were swapped on the platform (see above) and amidst some internal and external debate, the community celebrates 500.000 OBJKTs (NFTs) using the hashtag #hen500k. Also, the community has roughly reached a size of 50.000 artists and collectors, while around 5.000 visitors engage with Hic et Nunc every day. Community member and prolific coder [@nftbiker](https://twitter.com/NFTBiker) has provided a [tool to access the #hen500k contributions](https://nftbiker.xyz/event/hen500k?sort=date). 
 
 ### <a name="switchoff">November 11, 2021</a>
-![](assets/20211111.png)
+<img src="assets/20211111.png" alt="Tweet by Rafael Lima" style="width:500px;"/>
+
 "discontinued": founder Rafael Lima pulls the plug on the Hic et Nunc website hicetnunc.xyz. 
 
-Due to the decentralized nature of the underlying technology, alternative front-ends such as hic.af, www.henext.xyz, hecticnun.xyz or https://objkt.com/ continue running unaffected and mirrors of the original site such as hicetnunc.art, hen.hicathon.xyz, hen.teztools.io, hicetnunc.cc spin up within a few hours. 
+In an interview in January 2021 (see [above](#interview)), founder Rafael Lima is quoted as follows: "**We intend to present it as a public blockchain infrastructure, and we are looking into taking it to full decentralization, making it persist beyond even my own will**". The events during and after November 11 clearly confirm this vision.
 
-In an interview in January 2021 (see above), Rafael Lima is quoted as follows: "**We intend to present it as a public blockchain infrastructure, and we are looking into taking it to full decentralization, making it persist beyond even my own will**". The events during and after November 11 appear to confirm this vision.
+Due to the decentralized nature of the underlying technology, alternative front-ends such as hic.af, www.henext.xyz, hecticnun.xyz or [https://objkt.com](https://objkt.com/) continue running unaffected. Mirrors of the site such as hicetnunc.art, hen.hicathon.xyz, hen.teztools.io, hicetnunc.cc had already been running in parallel or spin up within a few hours. 
+
+In particular the quickly initiated initiative by technology company [DNS](https://twitter.com/dns) to set up a stable mirror of Hic et Nunc (whose code is [open source](https://github.com/hicetnunc2000/hicetnunc)) reveals not only technical but also cultural challenges. This becomes evident from the communication taking place in Twitter spaces and on Discord. After some discussion, the mirror site hicetnunc.art is set up and handed over to the Hic et Nunc community. 
+
+A detailed account from the perspective of DNS CEO [Shokunin](https://twitter.com/DNSCEO) [is available here](https://blog.dns.xyz/a-technical-deep-dive-on-how-hicetnunc-was-recovered/).
 
 ### December 31, 2021
 As the year 2021 draws to a close and a new year is swapped in, many questions remain: what does "Hic et Nunc" mean after November 11? Is Hic et Nunc still alive? Has this timeline stoped or can it be continued after all? Some people seem to assume Hic et Nunc is gone while others have pragmatically replaced the domain suffix ".xyz" by ".art" and kept going. 
@@ -209,6 +213,6 @@ The three-day event ["Proof of People"](https://proofofpeople.verticalcrypto.art
 
 … to be continued
 
-*written by [@crcdng](https://twitter.com/crcdng) based on personal communication as well as research from Discord, Twitter, Medium, Youtube and other public sources. Thanks to Lionel Radisson, Tais Koshino, Kelly Richardson for contributions. Special thanks to Javier Graciá-Carpio [@jagracar](https://twitter.com/jagracar) for public data collection and to the writers / editors of the [Teia community newsletter](https://blog.teia.art/blog). Please note that the founder of Hic et Nunc, Rafael Lima has deleted all tweets from the @hicetnunc2000 account, including those that are referenced in this resource. I decided to keep the links for documentation purposes. Dates are according to UTC.*
+*written by [@crcdng](https://twitter.com/crcdng) based on personal communication as well as research from Discord, Twitter, Medium, Youtube and other public sources. Thanks to Lionel Radisson, Tais Koshino, Kelly Richardson for contributions. Special thanks to Javier Graciá-Carpio [@jagracar](https://twitter.com/jagracar) for public data collection and to the writers / editors of the [Teia community newsletter](https://blog.teia.art/blog). Please note that the founder of Hic et Nunc, Rafael Lima has deleted various materials, including the tweets from the @hicetnunc2000 account which are referenced in this resource. I decided to keep the links for documentation purposes. Dates are according to UTC.*
 
 Published under the Creative Commons Attribution-NonCommercial 4.0 International License [(CC BY-NC 4.0)](https://creativecommons.org/licenses/by/4.0/)

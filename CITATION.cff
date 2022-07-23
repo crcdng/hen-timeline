@@ -4,8 +4,8 @@ authors:
   - family-names: Straeubig
     given-names: Michael
 title: HEN Timeline
-abstract: A brief timeline on Hic et Nunc, an experimental NFT platform on the Tezos blockchain and the evolvin Teia community.
+abstract: A brief timeline on Hic et Nunc, an experimental NFT platform on the Tezos blockchain and the subsequently evolving Tezos art communities.
 license: CC BY-NC 4.0
-version: 0.2.0
-date-released: 2022-06-13
+version: 0.3.0
+date-released: 2022-07-23
 repository-code: "https://github.com/i3games/hen-timeline"
