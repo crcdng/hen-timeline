@@ -99,7 +99,7 @@ Artist Taís Koshino writes the first curation article about NFTs on Hic et Nunc
 ### March 25, 2021
 [Pupila Dilatada](https://www.pupiladilatada.xyz), the first collaborative art show on Tezos  appears as a gallery on Hic et Nunc. Further editions will follow.
 
-### March 26-28, 2021
+### <a name="objktforobjkt">March 26-28, 2021</a>
 The first #OBJKT4OBJKT event is initiated by the [DiverseNftArt initiative](https://diversenftart.hotglue.me). During a weekend that has the appearance of a worldwide virtual party, artists offer and collect their NFTs for a minimum amount of Tez or completyely for free. A second, bigger event in late April attracts even more attention but also reveals the problem of “hoarder bots”, programs written to mass-collect free objects and resell them.  
     
 ### March 31, 2021 
@@ -189,33 +189,34 @@ The road into 2022 couldn't be more bumpy, yet exciting. One thing however is cl
 The domain hicetnunc.xyz is reactivated.
 
 ### February 2, 2022
-The independent HEN community relaunches under its new brand 'Teia' (meaning 'web' in Portuguese). The name was proposed by artist [@globpoderoso](https://twitter.com/globpoderoso) and decided on by the community in two rounds of voting after intense discussions. The rebranding includes the HEN fork [teia.art](https://teia.art/), the Twitter account [@TeiaCommunity](https://twitter.com/TeiaCommunity), the [blog.teia.art](https://blog.teia.art/), the community-run [Discord](https://discord.gg/C2dD9kxfkJ), a discussion board, and the [Teia community Github account](https://github.com/teia-community). The launch announcement can be found [here](https://hencommunity.quest/blog/teia-art-launch-announcement).
+The independent HEN community relaunches under its new name "Teia" (meaning "web" in Portuguese). The name was proposed by artist [@globpoderoso](https://twitter.com/globpoderoso) and decided on by the community in two rounds of voting after intense discussions. The rebranding includes the HEN fork [teia.art](https://teia.art/), the Twitter account [@TeiaCommunity](https://twitter.com/TeiaCommunity), the [blog.teia.art](https://blog.teia.art/), the community-run [Discord](https://discord.gg/C2dD9kxfkJ), a discussion board, and the [Teia community Github account](https://github.com/teia-community). The launch announcement can be found [here](https://hencommunity.quest/blog/teia-art-launch-announcement).
 
 ### March 1, 2022
-![](assets/20210301.png) 
 [Happy First Birthday](#beginning), Hic et Nunc. Also, from today, hicetnunc.xyz and hicetnunc.art point to the same site, both domains now under control of Rafael Lima.
 
 ### March 19, 2022
-The Teia community marketplace contract goes live. Marketplace contracts (also known as "swap contracts") govern the trading of NFTs. This step means that from now on artists and collectors can decide to trade their OBJKTS on the Teia contract, directing future fees to the Teia community. 
+The Teia community marketplace contract goes live. Marketplace smart contracts (also known as "swap contracts") control the trading of NFTs. This step means that from now on artists and collectors can decide to trade their OBJKTS on the Teia contract, directing future fees to the Teia community. 
 
 Other marketplaces currently do not display Teia swaps. For a demonstration, 6 editions of the work "hostile environment" were swapped on Hic et Nunc while 4 editions were swapped on Teia.     
 
-This screenshot shows the resulting listings on https://www.hicetnunc.xyz/objkt/23012: 
-![](assets/20220313a.png)
+This screenshot shows the resulting listings on www.hicetnunc.xyz/objkt/23012: 
+<img src="assets/20220313a.png" alt="listing on hicetnunc.xyz" style="width:500px;"/>
 
-This screenshot shows the listings on https://teia.art/objkt/23012:
-![](assets/20220313b.png)
+This screenshot shows the listings on [https://teia.art/objkt/23012](https://teia.art/objkt/23012):
+<img src="assets/20220313b.png" alt="listing on teia.art" style="width:500px;"/>
+
+*Note (July 2022): the screenshots reflect the situation at that date.*
 
 ### April 23, 2022
-![](assets/20220423.png)
-[above](#switchoff)
-"We're out of service for an undetermined period of time". Hic et Nunc founder Rafael Lima has switched off the websites hicetnunc.xyz and hicetnunc.art. This happens for the second time after the November 11, 2021 event (see [above](#switchoff)). The digital art ecosystem that Hic et Nunc has brought to life remains rather unaffected, as other sites such as https://teia.art/, https://objkt.com/, hic.af, www.henext.xyz, hecticnun.xyz and hen.teztools.io continue to operate, although indexer and compatibility issues between different platforms are [complicating the situation](https://docs.google.com/spreadsheets/d/11xbk3V2SfdpSSSGfkz3Tr3I2ikPEaOFAX8khX4zDvhA/edit?usp=sharing). Note (July 2022): out of the sites mentioned above, the community driven https://teia.art/ as well https://objkt.com/, the largest marketplace on Tezos, are actively meintained and operational.    
+<img src="assets/20220423.png" alt="second discontinuation announcement" style="width:500px;"/>
+
+"We're out of service for an undetermined period of time". Hic et Nunc founder Rafael Lima has switched off the websites hicetnunc.xyz and hicetnunc.art. This happens for the second time after the November 11, 2021 event (see [above](#switchoff)). The digital art ecosystem that Hic et Nunc has brought to life remains rather unaffected, as other sites such as [https://teia.art/](https://teia.art/), [https://objkt.com/](https://objkt.com/), hic.af, www.henext.xyz, hecticnun.xyz and hen.teztools.io continue to operate, although indexer and compatibility issues between different platforms are [complicating the situation](https://docs.google.com/spreadsheets/d/11xbk3V2SfdpSSSGfkz3Tr3I2ikPEaOFAX8khX4zDvhA/edit?usp=sharing). *Note (July 2022): out of the sites mentioned above, the community driven https://teia.art/ as well https://objkt.com/, the largest marketplace on Tezos, are actively meintained and operational.*    
 
 ### May 06, 2022
-Tezos for Tezos, hashtag [#tezos4tezos](https://twitter.com/search?q=%23tezos4tezos&src=typed_query), took place on the weekend May 6 to 8, rekindling a community spirit similiar to  previous #OBJKT4OBJKT events (see above). Artists were encouraged to mint editions of 100 within a price range of 0.1 to 1 Tez. According to [this summary by @nftbiker](https://twitter.com/nftbiker/status/1523571588523651072), 56648 editions of 2629 works were sold in total on the primary market with a combined turnover of 29022 Tez (approx. 72250 USD). While revenues are far from widely reported record NFT sales on other platforms, a grassroots event fueled by enthusiasm such as this one is suitable to highlight the value of community in the overall NFT space.
+Tezos for Tezos, hashtag [#tezos4tezos](https://twitter.com/search?q=%23tezos4tezos&src=typed_query), took place on the weekend May 6 to 8, rekindling a community spirit similiar to  previous #OBJKT4OBJKT events (see [above](#objktforobjkt)). Artists were encouraged to mint editions of 100 within a price range of 0.1 to 1 Tez. According to [this summary by @nftbiker](https://twitter.com/nftbiker/status/1523571588523651072), 56648 editions of 2629 works were sold in total on the primary market with a combined turnover of 29022 Tez (approx. 72250 USD). While revenues of that size are far from widely reported record NFT sales on other platforms, a grassroots event fueled by enthusiasm such as this one is suitable to highlight the value of communities in the overall NFT art space.
 
 ### July 06 to 08, 2022
-The three-day event ["Proof of People"](https://proofofpeople.verticalcrypto.art/) at London's fabric nightclub marks a highlight for the Tezos art community. Organized by [VerticalCrypto Art](https://verticalcrypto.art/), whose significance since the early days of Hic et Nunc cannot be overstated, the event hosted a wide range of talks, panel discussions, workshops, projects, exhibitions and live acts ranging from fashion and generative art to interactive installations, performance and music. At this and other events worldwide, the various communities come together to celebrate the new avant-garde in art and culture. 
+The three-day event ["Proof of People"](https://proofofpeople.verticalcrypto.art/) at London's fabric nightclub marks another highlight for the Tezos art community. The event was organized by [VerticalCrypto Art](https://verticalcrypto.art/), whose significance since the early days of Hic et Nunc cannot be overstated. It hosted a wide range of talks, panel discussions, workshops, projects, exhibitions and live acts ranging from fashion and generative art to interactive installations, performance and music. At this and other events worldwide, various communities come together to celebrate a new avant-garde in art and culture. 
 
 … to be continued
 
