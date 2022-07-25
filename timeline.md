@@ -18,7 +18,7 @@ However, [this tweet](https://twitter.com/mattmedved/status/1385760755958562816)
 
 This timeline is dedicated to that community.
 
-## A Brief Timeline of Hic et Nunc and beyond
+## A Brief Timeline of Hic et Nunc, Teia, and beyond
 
 ### September 17, 2018
 Launch of the public [Tezos blockchain](https://tezos.com/), the “mainnet”.
