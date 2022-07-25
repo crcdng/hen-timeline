@@ -1,4 +1,9 @@
 # HEN timeline
+
+*Please make sure to read the [README.md](README.md) for context and license use*
+
+*If you read this on Github, there is a more comfortable reading experience on Gitbook: [https://crcdng.gitbook.io/hen-timeline/](https://crcdng.gitbook.io/hen-timeline/)*
+
 ## Introduction
 
 [Hic et Nunc](https://web.archive.org/web/20211107123525/https://www.hicetnunc.xyz/) (abbreviated H=N, sometimes HEN or hen) was the first NFT art place on the [Tezos](https://tezos.com/) blockchain. This brief timeline is meant to help preserve common memory by recording key events of its development. Therefore it primarily focuses on H=N itself (and later on the offsprings coming out of the community such as Teia) and does not attempt to serve as a timeline of blockchains, NFTs or crypto art in general. These topics are covered in some excellent resources:
