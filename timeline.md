@@ -9,7 +9,7 @@
 [Hic et Nunc](https://web.archive.org/web/20211107123525/https://www.hicetnunc.xyz/) (abbreviated H=N, sometimes HEN or hen) was the first NFT art place on the [Tezos](https://tezos.com/) blockchain. This brief timeline is meant to help preserve common memory by recording key events of its development. Therefore it primarily focuses on H=N itself (and later on the offsprings coming out of the community such as Teia) and does not attempt to serve as a timeline of blockchains, NFTs or crypto art in general. These topics are covered in some excellent resources:
 
 * [https://decal.furtherfield.org/2020/05/22/a-blockchain-art-history-timeline/](https://decal.furtherfield.org/2020/05/22/a-blockchain-art-history-timeline/) by Furtherfield
-* [https://ostachowski.com/about/what-is-crypto-art-or-nft-art/history-of-crypto-art/](https://ostachowski.com/about/what-is-crypto-art-or-nft-art/history-of-crypto-art/) by Martin Lukas Ostachowski
+* [https://mlo.art/research/history-of-crypto-art/](https://mlo.art/research/history-of-crypto-art/) by Martin Lukas Ostachowski
 * [https://nfttimeline.com/](https://nfttimeline.com/) 
 
 A comprehensive collection complementing this timeline is ["The Museum of Tezos Artfkts"](https://artfkt.art/), also at [https://teia.art/the_museum_of_tezos_artfkts](https://teia.art/the_museum_of_tezos_artfkts). 
@@ -78,6 +78,9 @@ H=N “evolved into a tool for creating micro-funding DAOs for any purpose” ([
 This interview with Rafael Lima gives not only provides insights into the plans and ideas of the founder of Hic et Nunc, it also gives a clue about its name, a phrase that appears in Paul Virilio’s writings about a “Futurism of the Instant”, see for example Virilio, P., & Lotringer, S. (2001). After Architecture: A Conversation. Grey Room, 3, 32–53. doi:10.1162/152638101300138530.
 
 ### February 12, 2021
+[First publicly reported mint](https://xtz.news/latest-tezos-news/hicetnunc-introduces-objkts-nft-minter-on-tezos/) on Hic et Nunc.
+
+### February 12, 2021
 [First commit](https://github.com/hicetnunc2000/hicetnuncDAO/graphs/commit-activity) to the hicetnunc DAO smart contracts GitHub repository.
 
 ### February 15, 2021
@@ -113,7 +116,7 @@ The first #OBJKT4OBJKT event is initiated by the [DiverseNftArt initiative](http
 Artist Murat Pak [tweets out the first version](https://twitter.com/muratpak/status/1377312115422343169?s=21) of what will become, after discussions and adaptions, the Hic et Nunc logo, shaping the visual identity of the project. Responsible for the design and conceptual studies was artist [Julio Glatt](https://twitter.com/JulioGlatt/status/1461641499087708166?s=20).
 
 ### <a name="firstnftsnft">April 6, 2021</a>
-An NFT to preserve history: The first 152 NFTs were minted on an initial version of the Hic et Nunc smart contract and became inaccessible on the platform later. ["The Lost HicEtNuncs"](https://objkt.com/asset/hicetnunc/24880), an NTF created by [Mike Tyka](https://twitter.com/mtyka), makes them visible again. 
+An NFT to preserve history: The first 152 NFTs are minted on an initial version of the Hic et Nunc smart contract and become inaccessible on the platform later. ["The Lost HicEtNuncs"](https://objkt.com/asset/hicetnunc/24880), an NTF created by [Mike Tyka](https://twitter.com/mtyka), makes them visible again. 
 
 ### April 9, 2021
 "Not another JPEG." Artist M Plummer-Fernández [shares thoughts](https://www.plummerfernandez.com/works/not-another-jpeg/) about the blossoming (and sometimes stuttering) platform that attracts more and more people who are critical of mainstream NFT marketplaces. The essay itself is steganographically hidden [in an acompanying NFT](https://hic.af/objkt/27679).
