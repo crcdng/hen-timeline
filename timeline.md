@@ -195,7 +195,7 @@ The road into 2022 couldn't be more bumpy, yet exciting. One thing however is cl
 ### January 25, 2022
 The domain hicetnunc.xyz is reactivated.
 
-### February 2, 2022
+### <a name="teiasoftlaunch">February 2, 2022</a>
 The independent HEN community relaunches under its new name "Teia" (meaning "web" in Portuguese). The name was proposed by artist [@globpoderoso](https://twitter.com/globpoderoso) and decided on by the community in two rounds of voting after intense discussions. The rebranding includes the HEN fork [teia.art](https://teia.art/), the Twitter account [@TeiaCommunity](https://twitter.com/TeiaCommunity), the [blog.teia.art](https://blog.teia.art/), the community-run [Discord](https://discord.gg/C2dD9kxfkJ), a discussion board, and the [Teia community Github account](https://github.com/teia-community). The launch announcement can be found [here](https://hencommunity.quest/blog/teia-art-launch-announcement).
 
 ### March 1, 2022
@@ -224,6 +224,16 @@ Tezos for Tezos, hashtag [#tezos4tezos](https://twitter.com/search?q=%23tezos4te
 
 ### July 06 to 08, 2022
 The three-day event ["Proof of People"](https://proofofpeople.verticalcrypto.art/) at London's fabric nightclub marks another highlight for the Tezos art community. The event was organized by [VerticalCrypto Art](https://verticalcrypto.art/), whose significance since the early days of Hic et Nunc cannot be overstated. It hosted a wide range of talks, panel discussions, workshops, projects, exhibitions and live acts ranging from fashion and generative art to interactive installations, performance and music. At this and other events worldwide, various communities come together to celebrate a new avant-garde in art and culture. 
+
+### <a name="royalties">November 10, 2022</a>
+<img src="assets/20221110.png" alt="royalties" style="width:500px;"/>
+
+Amidst controversy over a few NFT trading websites' announcements to make artist royalties optional, the leading Tezos art platforms unanimously declared to refrain from such behaviour. Under the moniker "Respect Artist Royalties", statements from [fxhash](https://twitter.com/fx_hash_/status/1590818471155101696), [versum](https://twitter.com/versumofficial/status/1590835144042385408), [Objkt.com](https://twitter.com/objktcom/status/1591147021888589847) and [Teia](https://twitter.com/TeiaCommunity/status/1590828908257349634) took a clear position in the debate. 
+
+The automated ("trustless") distribution of royalties - a set percentage going to the original artist during a secondary sale - can be considered a revolutionary mechanism enabled by NFTs and one of the major reasons for artists to engage in the space. It also allows artists to set lower initial prices for their artworks in expectation of future revenue, thereby contributing to the democratization of art. 
+
+### February 9, 2023
+As noted in the current issue of the [community-edited newletter](https://blog.teia.art/blog/teia-newsletter-014#teia-anniversary), this day marks the first year since the official launch date, while [February 2](#teiasoftlaunch) designates the "soft launch" of Teia.
 
 … to be continued
 
