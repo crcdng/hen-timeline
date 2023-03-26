@@ -254,6 +254,12 @@ Aside from the online platforms, physical NFT art exhibitions provide a wide ran
 
 Finally, an outlook regarding the future of this avant-garde moment. Despite some encouraging signals, given the volatile context of NFTs and crypto, it has to be declared - unknown.
 
+### March 26, 2023
+
+[Teia](https://teia.art/), the community-run art platform on Tezos that emerged from Hic et Nunc [a year ago](#teiasoftlaunch), annouces its [official incoporation](https://blog.teia.art/blog/teia-newsletter-015#teia-is-now-incorporated) as a non-profit DAO LLC.  
+
+
+
 … to be continued
 
 *written by [@crcdng](https://twitter.com/crcdng) based on personal communication as well as research from Discord, Twitter, Medium, Youtube and other public sources. Thanks to Lionel Radisson, Tais Koshino, Kelly Richardson for contributions. Special thanks to [Tezos NFT Reporter](https://twitter.com/HENFT_Reporter) and to Javier Graciá-Carpio [@jagracar](https://twitter.com/jagracar) for public data collection and to the writers / editors of the [Teia community newsletter](https://blog.teia.art/blog). Please note that the founder of Hic et Nunc, Rafael Lima, has deleted various information, including tweets from the @hicetnunc2000 account which are referenced in this resource. I decided to keep the links for documentation purposes. Dates are according to UTC.*
