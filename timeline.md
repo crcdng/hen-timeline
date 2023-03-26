@@ -255,8 +255,11 @@ Aside from the online platforms, physical NFT art exhibitions provide a wide ran
 Finally, an outlook regarding the future of this avant-garde moment. Despite some encouraging signals, given the volatile context of NFTs and crypto, it has to be declared - unknown.
 
 ### March 26, 2023
+<img src="assets/20230326.png" alt="teia incorporation deed" style="width:500px;"/>
 
-[Teia](https://teia.art/), the community-run art platform on Tezos that emerged from Hic et Nunc [a year ago](#teiasoftlaunch), annouces its [official incorporation](https://blog.teia.art/blog/teia-newsletter-015#teia-is-now-incorporated) as a non-profit DAO LLC.  
+Source: [Teia](https://blog.teia.art/blog/registration-announcement)   
+
+[Teia](https://teia.art/), the community-run art platform on Tezos that emerged from Hic et Nunc [a year ago](#teiasoftlaunch), annouces its [official incorporation](https://https://blog.teia.art/blog/registration-announcement) as a non-profit DAO LLC.  
 
 
 
