@@ -256,7 +256,7 @@ Finally, an outlook regarding the future of this avant-garde moment. Despite som
 
 ### March 26, 2023
 
-[Teia](https://teia.art/), the community-run art platform on Tezos that emerged from Hic et Nunc [a year ago](#teiasoftlaunch), annouces its [official incoporation](https://blog.teia.art/blog/teia-newsletter-015#teia-is-now-incorporated) as a non-profit DAO LLC.  
+[Teia](https://teia.art/), the community-run art platform on Tezos that emerged from Hic et Nunc [a year ago](#teiasoftlaunch), annouces its [official incorporation](https://blog.teia.art/blog/teia-newsletter-015#teia-is-now-incorporated) as a non-profit DAO LLC.  
 
 
 
