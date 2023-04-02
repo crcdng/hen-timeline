@@ -1,7 +1,5 @@
 # About HEN timeline
 
-**
-
 This is a brief [timeline](timeline.md) of [Hic et Nunc](https://web.archive.org/web/20211107123525/https://www.hicetnunc.xyz/) (abbreviated: HEN or H=N), [Teia](https://teia.art/), and beyond.
 
 *If you read this on Github, there is a more comfortable reading experience on Gitbook: [https://crcdng.gitbook.io/hen-timeline/](https://crcdng.gitbook.io/hen-timeline/)*
