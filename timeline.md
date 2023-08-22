@@ -6,7 +6,7 @@
 
 ## Introduction
 
-[Hic et Nunc](https://web.archive.org/web/20211107123525/https://www.hicetnunc.xyz/) (abbreviated H=N, sometimes HEN or hen) was the first NFT art place on the [Tezos](https://tezos.com/) blockchain. This brief timeline is meant to help preserve common memory by recording key events of its development. Therefore it primarily focuses on H=N itself (and later on the offsprings coming out of the community such as Teia) and does not attempt to serve as a timeline of blockchains, NFTs or crypto art in general. These topics are covered in some excellent resources:
+[Hic et Nunc](https://web.archive.org/web/20211107123525/https://www.hicetnunc.xyz/) (abbreviated H=N, HEN or hen) was the first NFT art place on the [Tezos](https://tezos.com/) blockchain. This brief timeline is meant to help preserve common memory by recording key events of its development. Therefore it primarily focuses on Hic et Nunc itself (and later on the offsprings coming out of the community such as Teia) and does not attempt to serve as a timeline of blockchains, NFTs or crypto art in general. These topics are already covered in some excellent resources:
 
 * [https://decal.furtherfield.org/2020/05/22/a-blockchain-art-history-timeline/](https://decal.furtherfield.org/2020/05/22/a-blockchain-art-history-timeline/) by Furtherfield
 * [https://mlo.art/research/history-of-crypto-art/](https://mlo.art/research/history-of-crypto-art/) by Martin Lukas Ostachowski
@@ -261,7 +261,8 @@ Source: [Teia](https://blog.teia.art/blog/registration-announcement)
 
 [Teia](https://teia.art/), the community-run art platform on Tezos that emerged from Hic et Nunc [a year ago](#teiasoftlaunch) is now [official incorporated](https://https://blog.teia.art/blog/registration-announcement) as a non-profit DAO LLC.  
 
-
+### August 20, 2023
+Teia begins [the distribution of its governance token $TEIA](https://blog.teia.art/blog/announcement-token-drop) during a 3 months timeframe. The 8 million tokens are to be used in future decision making for the community-run art platform. In a further step towards decentralization, the ownership of the DAO is then to be legally transferred to $TEIA holders.
 
 … to be continued
 
