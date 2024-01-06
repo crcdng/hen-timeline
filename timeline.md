@@ -72,7 +72,7 @@ First mention of NFTs as a giveaway ([deleted Tweet](https://twitter.com/hicetnu
 ### November 17, 2020
 First reported "bug" ([Tweet](https://twitter.com/cryyptt2/status/1328619566264709122)). 
  
-### <a name="interview">January 3, 2021</a>
+### January 3, 2021
 H=N “evolved into a tool for creating micro-funding DAOs for any purpose” ([xtz.news interview](https://web.archive.org/web/20210108155754/https://xtz.news/dao-news/hicetnunc-microfunding-daos-on-tezos/)).
 
 This interview with Rafael Lima gives not only provides insights into the plans and ideas of the founder of Hic et Nunc, it also gives a clue about its name, a phrase that appears in Paul Virilio’s writings about a “Futurism of the Instant”, see for example Virilio, P., & Lotringer, S. (2001). After Architecture: A Conversation. Grey Room, 3, 32–53. doi:10.1162/152638101300138530.
@@ -97,7 +97,7 @@ Artist and climate activist Joanie Lemercier [sheds more light on the energy con
 ### February 24, 2021
 Artist Mario Klingemann [mints what is likely the 112th NFT on Hic et Nunc](https://twitter.com/quasimondo/status/1364558512286806018). However, this work is among the first 152 pieces that were created on a different smart contract and therefore have become "invisible" - [see April 6, 2021](#firstnftsnft).
 
-### <a name="beginning">March 1, 2021</a>
+### March 1, 2021
 <img src="assets/20210301.png" alt="Tweet by @hicetnunc2000" style="width:500px;"/>
 
 This date marks the official beginning of Hic et Nunc, when “swapping OBJKTs” (trading of NFTs) is possible ([deleted Tweet](https://twitter.com/hicetnunc2000/status/1366345595405934592)). At the same time, [the governance hDAO token is released](https://better-call.dev/mainnet/KT1AFA2mwNUMNd4SsujE1YYp29vd8BZejyKW/tokens). 
@@ -114,7 +114,7 @@ Artist Taís Koshino writes the first curation article about NFTs on Hic et Nunc
 ### March 25, 2021
 [Pupila Dilatada](https://www.pupiladilatada.xyz), the first collaborative art show on Tezos  appears as a gallery on Hic et Nunc. Further editions will follow.
 
-### <a name="objktforobjkt">March 26-28, 2021</a>
+### March 26-28, 2021
 The first #OBJKT4OBJKT event is initiated by the [DiverseNftArt initiative](https://diversenftart.hotglue.me). During a weekend that has the appearance of a worldwide virtual party, artists offer and collect their NFTs for a minimum amount of Tez or completyely for free. A second, bigger event in late April attracts even more attention but also reveals the problem of “hoarder bots”, programs written to mass-collect free objects and resell them.  
     
 ### March 31, 2021 
@@ -147,7 +147,7 @@ Claire L. Evans describes the Brazilian digital art scene and background of Hic 
 ### May 27, 2021
 H=N celebrates 100.000 minted NFTs ([deleted Tweet](https://twitter.com/hicetnunc2000/status/1397724112806633475)).
 
-### <a name="objktbid">June 10, 2021</a>
+### June 10, 2021
 Objkt.bid launches as an experimental platform, adding an auction feature for Hic et Nunc tokens. The site evolves into [objkt.com](https://objkt.com/), the largest Tezos NFT marketplace, reaching [100 Million USD sales volume](https://www.dapp.com/app/objkt-com) within 12 months.    
 
 ### June 28, 2021
@@ -155,7 +155,7 @@ Objkt.bid launches as an experimental platform, adding an auction feature for Hi
 
 It becomes public that a logic error in the Hic et Nunc smart contract which allows an attacker to steal NFTs on the marketplace is actively exploited. In the turbulent fallout of the incident, the trading of NFTs ("swapping") has to be suspended while a new contract is being developed. Effectively this shuts the site down although the creation ("minting") of new NFTs is still possible without risk. 
 
-Meanwhile, the alleged attacker, operating under the moniker "hen-exploiter", is engaging with the Hic et Nunc community, mainly via Discord. The ongoing issue also exposes rifts in the community, amidst questions about the development of the site and the parallel opening of objkt.bid (now [object.com](https://objkt.com/), see [above](#objktbid)). An AMA (Ask me Anything) event with Rafael Lima, [published here on Youtube](https://www.youtube.com/watch?v=8iGMIxTap7A) on July 4, 2021 attempts to give some insights into the philosophy behind Hic et Nunc.  
+Meanwhile, the alleged attacker, operating under the moniker "hen-exploiter", is engaging with the Hic et Nunc community, mainly via Discord. The ongoing issue also exposes rifts in the community, amidst questions about the development of the site and the parallel opening of objkt.bid (now [object.com](https://objkt.com/), see [above](#june-10-2021)). An AMA (Ask me Anything) event with Rafael Lima, [published here on Youtube](https://www.youtube.com/watch?v=8iGMIxTap7A) on July 4, 2021 attempts to give some insights into the philosophy behind Hic et Nunc.  
 
 Many controversial issues remain, yet members of the community react with a quality that can be described as its strength: humour. As “hen-exploiter” apparently hedges negative feelings towards Aubergines, as noted by [@mumu_thestan](https://twitter.com/mumu_thestan), a growing number of Aubergine-themed NFTs are minted and traded directly between artists and collectors under the hashtag [#AUBJKT4AUBJKT](https://twitter.com/search?q=%23AUBJKT4AUBJKT&src=typed_query).
 
@@ -166,12 +166,12 @@ Community member [NoRulesJustFeels](https://twitter.com/FeelsNoRules) has a deta
 ### November 2, 2021
 A year after the Hic et Nunc domain is registered, eight months after the first NFTs were swapped on the platform (see above) and amidst some internal and external debate, the community celebrates 500.000 OBJKTs (NFTs) using the hashtag #hen500k. Also, the community has roughly reached a size of 50.000 artists and collectors, while around 5.000 visitors engage with Hic et Nunc every day. Community member and prolific coder [@nftbiker](https://twitter.com/NFTBiker) has provided a [tool to access the #hen500k contributions](https://nftbiker.xyz/event/hen500k?sort=date). 
 
-### <a name="switchoff">November 11, 2021</a>
+### November 11, 2021
 <img src="assets/20211111.png" alt="Tweet by Rafael Lima" style="width:500px;"/>
 
 "discontinued": founder Rafael Lima pulls the plug on the Hic et Nunc website hicetnunc.xyz. 
 
-In an interview in January 2021 (see [above](#interview)), founder Rafael Lima is quoted as follows: "**We intend to present it as a public blockchain infrastructure, and we are looking into taking it to full decentralization, making it persist beyond even my own will**". The events during and after November 11 clearly confirm this vision.
+In an interview in January 2021 (see [above](#january-3-2021)), founder Rafael Lima is quoted as follows: "**We intend to present it as a public blockchain infrastructure, and we are looking into taking it to full decentralization, making it persist beyond even my own will**". The events during and after November 11 clearly confirm this vision.
 
 Due to the decentralized nature of the underlying technology, alternative front-ends such as hic.af, www.henext.xyz, hecticnun.xyz or [https://objkt.com](https://objkt.com/) continue running unaffected. Mirrors of the site such as hicetnunc.art, hen.hicathon.xyz, hen.teztools.io, hicetnunc.cc had already been running in parallel or spin up within a few hours. 
 
@@ -203,11 +203,11 @@ The road into 2022 couldn't be more bumpy, yet exciting. One thing however is cl
 ### January 25, 2022
 The domain hicetnunc.xyz is reactivated.
 
-### <a name="teiasoftlaunch">February 2, 2022</a>
+### February 2, 2022
 The independent HEN community relaunches under its new name "Teia" (meaning "web" in Portuguese). The name was proposed by artist [@globpoderoso](https://twitter.com/globpoderoso) and decided on by the community in two rounds of voting after intense discussions. The rebranding includes the HEN fork [teia.art](https://teia.art/), the Twitter account [@TeiaCommunity](https://twitter.com/TeiaCommunity), the [blog.teia.art](https://blog.teia.art/), the community-run [Discord](https://discord.gg/C2dD9kxfkJ), a discussion board, and the [Teia community Github account](https://github.com/teia-community). The launch announcement can be found [here](https://web.archive.org/web/20220206185740/hencommunity.quest/blog/teia-art-launch-announcement).
 
 ### March 1, 2022
-[Happy First Birthday](#beginning), Hic et Nunc. Also, from today, hicetnunc.xyz and hicetnunc.art point to the same site, both domains now under control of Rafael Lima.
+[Happy First Birthday](#march-1-2020), Hic et Nunc. Also, from today, hicetnunc.xyz and hicetnunc.art point to the same site, both domains now under control of Rafael Lima.
 
 ### March 19, 2022
 The Teia community marketplace contract goes live. Marketplace smart contracts (also known as "swap contracts") control the trading of NFTs. This step means that from now on artists and collectors can decide to trade their OBJKTS on the Teia contract, directing future fees to the Teia community. 
@@ -225,15 +225,15 @@ This screenshot shows the listings on [https://teia.art/objkt/23012](https://tei
 ### April 23, 2022
 <img src="assets/20220423.png" alt="second discontinuation announcement" style="width:500px;"/>
 
-"We're out of service for an undetermined period of time". Hic et Nunc founder Rafael Lima has switched off the websites hicetnunc.xyz and hicetnunc.art. This happens for the second time after the November 11, 2021 event (see [above](#switchoff)). The digital art ecosystem that Hic et Nunc has brought to life remains rather unaffected, as other sites such as [https://teia.art/](https://teia.art/), [https://objkt.com/](https://objkt.com/), hic.af, www.henext.xyz, hecticnun.xyz and hen.teztools.io continue to operate, although indexer and compatibility issues between different platforms are [complicating the situation](https://docs.google.com/spreadsheets/d/11xbk3V2SfdpSSSGfkz3Tr3I2ikPEaOFAX8khX4zDvhA/edit?usp=sharing). *Note (July 2022): out of the sites mentioned above, the community driven https://teia.art/ as well https://objkt.com/, the largest marketplace on Tezos, are actively meintained and operational.*    
+"We're out of service for an undetermined period of time". Hic et Nunc founder Rafael Lima has switched off the websites hicetnunc.xyz and hicetnunc.art. This happens for the second time after the November 11, 2021 event (see [above](#november-11-2021)). The digital art ecosystem that Hic et Nunc has brought to life remains rather unaffected, as other sites such as [https://teia.art/](https://teia.art/), [https://objkt.com/](https://objkt.com/), hic.af, www.henext.xyz, hecticnun.xyz and hen.teztools.io continue to operate, although indexer and compatibility issues between different platforms are [complicating the situation](https://docs.google.com/spreadsheets/d/11xbk3V2SfdpSSSGfkz3Tr3I2ikPEaOFAX8khX4zDvhA/edit?usp=sharing). *Note (July 2022): out of the sites mentioned above, the community driven https://teia.art/ as well https://objkt.com/, the largest marketplace on Tezos, are actively meintained and operational.*    
 
 ### May 06, 2022
-Tezos for Tezos, hashtag [#tezos4tezos](https://twitter.com/search?q=%23tezos4tezos&src=typed_query), takes place on the weekend May 6 to 8, rekindling a community spirit similiar to  previous #OBJKT4OBJKT events (see [above](#objktforobjkt)). Artists are encouraged to mint editions of 100 within a price range of 0.1 to 1 Tez. According to [this summary by @nftbiker](https://twitter.com/nftbiker/status/1523571588523651072), 56648 editions of 2629 works are sold in total on the primary market with a combined turnover of 29022 Tez (approx. 72250 USD). While revenues of that size are far from widely reported record NFT sales on other platforms, a grassroots event fueled by enthusiasm such as this one is suitable to highlight the value of communities in the overall NFT art space.
+Tezos for Tezos, hashtag [#tezos4tezos](https://twitter.com/search?q=%23tezos4tezos&src=typed_query), takes place on the weekend May 6 to 8, rekindling a community spirit similiar to  previous #OBJKT4OBJKT events (see [above](#march-26-28-2021)). Artists are encouraged to mint editions of 100 within a price range of 0.1 to 1 Tez. According to [this summary by @nftbiker](https://twitter.com/nftbiker/status/1523571588523651072), 56648 editions of 2629 works are sold in total on the primary market with a combined turnover of 29022 Tez (approx. 72250 USD). While revenues of that size are far from widely reported record NFT sales on other platforms, a grassroots event fueled by enthusiasm such as this one is suitable to highlight the value of communities in the overall NFT art space.
 
 ### July 06 to 08, 2022
 The three-day event ["Proof of People"](https://proofofpeople.verticalcrypto.art/) at London's fabric nightclub marks another highlight for the Tezos art community. The event is organized by [VerticalCrypto Art](https://verticalcrypto.art/), whose significance since the early days of Hic et Nunc cannot be overstated. It hosted a wide range of talks, panel discussions, workshops, projects, exhibitions and live acts ranging from fashion and generative art to interactive installations, performance and music. At this and other events worldwide, various communities come together to celebrate a new avant-garde in art and culture. 
 
-### <a name="royalties">November 10, 2022</a>
+### November 10, 2022
 <img src="assets/20221110.png" alt="royalties" style="width:500px;"/>
 
 Amidst controversy over a few NFT trading websites' announcements to make artist royalties optional, the leading Tezos art platforms unanimously declare to refrain from such behaviour. Under the moniker "Respect Artist Royalties", statements from [fxhash](https://twitter.com/fx_hash_/status/1590818471155101696), [versum](https://twitter.com/versumofficial/status/1590835144042385408), [Objkt.com](https://twitter.com/objktcom/status/1591147021888589847) and [Teia](https://twitter.com/TeiaCommunity/status/1590828908257349634) take a clear position in the debate. 
@@ -241,7 +241,7 @@ Amidst controversy over a few NFT trading websites' announcements to make artist
 The automated ("trustless") distribution of royalties - a set percentage going to the original artist during a secondary sale - can be considered a revolutionary mechanism enabled through NFTs and one of the major reasons for artists to engage in the space. It also allows artists to set lower initial prices for their artworks in expectation of future revenue, thereby contributing to a democratization of art. 
 
 ### February 9, 2023
-As announced in the current issue of the [community-edited newletter](https://blog.teia.art/blog/teia-newsletter-014#teia-anniversary), this date marks the first year since the official launch of Teia (February 2 as [highlighted above](#teiasoftlaunch) is designated as "soft launch").
+As announced in the current issue of the [community-edited newletter](https://blog.teia.art/blog/teia-newsletter-014#teia-anniversary), this date marks the first year since the official launch of Teia (February 2 as [highlighted above](#february-2-2022) is designated as "soft launch").
 
 An anniversary invites reflections on [the past](https://www.rightclicksave.com/article/on-the-early-days-of-hic-et-nunc), present and future. Current NFT-related headlines tend to focus on the last "crypto crash", an ongoing "bear market", scandals and speculation. A more differentiated picture emerges from a closer look at the present Tezos art ecosystem. First an overview of the numbers:
 
@@ -251,7 +251,7 @@ Source: [HEN Activity Dashboard](https://public.tableau.com/app/profile/nft.repo
 
 Tezos-based art platforms continue to grow and attract artistsand collectors while improving in terms of features, services and interoperability (although the general picture here remains [complicated](https://docs.google.com/spreadsheets/d/11xbk3V2SfdpSSSGfkz3Tr3I2ikPEaOFAX8khX4zDvhA/edit?usp=share_link)). Many of the tools and platforms are still created by individuals and small teams, often by artists, and often self-funded. 
 
-In addition, there appears to be a [shared understanding of values](#royalties), rejecting the purely profit-maximizing philosophy of some other NFT projects. While from a first-hand observation a strength of this community is its diversity, the overall structural inequality in the art market appears unchanged, in particular at the top level of income, according to [another statistic](https://twitter.com/HENFT_Reporter/status/1609725592609472512) compiled by NFT Reporter. 
+In addition, there appears to be a [shared understanding of values](#november-10-2022), rejecting the purely profit-maximizing philosophy of some other NFT projects. While from a first-hand observation a strength of this community is its diversity, the overall structural inequality in the art market appears unchanged, in particular at the top level of income, according to [another statistic](https://twitter.com/HENFT_Reporter/status/1609725592609472512) compiled by NFT Reporter. 
 
 During the last 12 months [teia.art](https://teia.art/) the community-run continuation and evolution of Hic et Nunc, has proven to be sustainable. Among its activities are a number of charity fundraisers, the ongoing rotating [art curation](https://twitter.com/TeiaArt) and the contionous development of its [technical infrastructure](https://blog.teia.art/blog/teia-newsletter-014#big-teztokteia-upgrade-on-the-way).  
 
@@ -264,7 +264,7 @@ Finally, an outlook regarding the future of this avant-garde moment. Despite som
 
 Source: [Teia](https://blog.teia.art/blog/registration-announcement)   
 
-[Teia](https://teia.art/), the community-run art platform on Tezos that emerged from Hic et Nunc [a year ago](#teiasoftlaunch) is now [official incorporated](https://https://blog.teia.art/blog/registration-announcement) as a non-profit DAO LLC.  
+[Teia](https://teia.art/), the community-run art platform on Tezos that emerged from Hic et Nunc [a year ago](#february-2-2022) is now [official incorporated](https://https://blog.teia.art/blog/registration-announcement) as a non-profit DAO LLC.  
 
 ### August 20, 2023
 Teia begins [the distribution of its governance token $TEIA](https://blog.teia.art/blog/announcement-token-drop) during a 3 months timeframe. The 8 million tokens are to be used in future decision making for the community-run art platform. In a further step towards decentralization, the ownership of the DAO is then to be legally transferred to $TEIA holders.
