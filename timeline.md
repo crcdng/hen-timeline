@@ -2,7 +2,7 @@
 
 *Please make sure to read the [README.md](README.md) for context and license use*
 
-*If you read this on Github, there is a more comfortable reading experience on Gitbook: [https://crcdng.gitbook.io/hen-timeline/](https://crcdng.gitbook.io/hen-timeline/)*
+*If you read this on Github, there is a more comfortable reading experience on Gitbook: [https://crcdng.gitbook.io/hen-tl/](https://crcdng.gitbook.io/hen-tl/)*
 
 ## Introduction
 
