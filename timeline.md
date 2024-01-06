@@ -73,12 +73,18 @@ First mention of NFTs as a giveaway ([deleted Tweet](https://twitter.com/hicetnu
 First reported "bug" ([Tweet](https://twitter.com/cryyptt2/status/1328619566264709122)). 
  
 ### <a name="interview">January 3, 2021</a>
-H=N “evolved into a tool for creating micro-funding DAOs for any purpose” ([xtz.news interview](https://xtz.news/dao-news/hicetnunc-microfunding-daos-on-tezos/)).
+H=N “evolved into a tool for creating micro-funding DAOs for any purpose” ([xtz.news interview](https://web.archive.org/web/20210108155754/https://xtz.news/dao-news/hicetnunc-microfunding-daos-on-tezos/)).
 
 This interview with Rafael Lima gives not only provides insights into the plans and ideas of the founder of Hic et Nunc, it also gives a clue about its name, a phrase that appears in Paul Virilio’s writings about a “Futurism of the Instant”, see for example Virilio, P., & Lotringer, S. (2001). After Architecture: A Conversation. Grey Room, 3, 32–53. doi:10.1162/152638101300138530.
 
-### February 12, 2021
-[First publicly reported mint](https://xtz.news/latest-tezos-news/hicetnunc-introduces-objkts-nft-minter-on-tezos/) on Hic et Nunc.
+### February 2, 2021
+According to this [tweet](https://twitter.com/ccarella/status/1743269158538584424) the first minted NFT on Tezos is ["Alone Together"](https://objkt.com/tokens/KT1S95Dyj2QrJpSnAbHRUSUZr7DhuFqssrog/0) by [@ccarella](https://twitter.com/ccarella). The operation is recorded [here](https://tzkt.io/oo5ePoVD6uzqq32CiChNc6TBN5DShZBE8cwvxFuUSW7YXTPTbdG/10204464). 
+
+### February 8, 2021
+[First public report of a mint functionality](https://web.archive.org/web/20210209121912/https://xtz.news/latest-tezos-news/hicetnunc-introduces-objkts-nft-minter-on-tezos/) on Hic et Nunc. Operations are recorded onj the [Hic et Nunc Minter](https://tzkt.io/KT1Hkg5qeNhfwpKW4fXvq7HGZB9z2EnmCCA9/operations/) contract (OBJKT Swap v1) from March 1, 2021. From July 3, 2021 swapping is recorded on the [Hic et nunc Markeplace](https://tzkt.io/KT1HbQepzV1nVGg8QVznG7z4RcHseD5kwqBn/operations/) contract (OBJKT Swap v2). 
+
+Before that, however, operations take place on yet another [contract](https://tzkt.io/KT1M2JnD1wsg7w2B4UXJXtKQPuDUpU2L7cJH/operations/). This ledger shows mints of FA2 Tokens which are classified as "FA2 Token / Defi" and do do not have external artifacts associated with them: "Token" minted from January 29, 2021, and "OBJKT" from January 30, 2021, respectively. On February 6, the first "FA2 Token / NFT" titled "$ung" [is minted](https://tzkt.io/onn5NDfaMqBkLtM399vgpJjCaGA3fExuMsBh7qGwUK4VWnDmijx/7200861) which has ID 7 and [external content on IPFS](https://ipfs.io/ipfs/QmevGKa3g6hFWNV9wviNb1qWUKFE8mygcrU7hEuDxfP33r) (not retrievable at this moment). In the listing of the "The Lost HicEtNuncs" by Mike Tyka [see April 6, 2021](#firstnftsnft) this is the 8th token in the first row. Yet we can see in the listing a token on its left,  side which has also  before Assuming they are listed chronologically there is a possible earlier NFT which has a [representation on IPFS](https://ipfs.io/ipfs/QmRo7xV4DrQyTaVSKNqpdnAHJByxxopzE6aMcSCEh4y48P) but token 6 appears [not to be connected with an artefact](https://tzkt.io/KT1M2JnD1wsg7w2B4UXJXtKQPuDUpU2L7cJH/tokens/6/transfers). (to be updated)
+
 
 ### February 12, 2021
 [First commit](https://github.com/hicetnunc2000/hicetnuncDAO/graphs/commit-activity) to the hicetnunc DAO smart contracts GitHub repository.
