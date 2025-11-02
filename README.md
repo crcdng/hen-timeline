@@ -4,6 +4,8 @@ This is a brief [timeline](timeline.md) of [Hic et Nunc](https://web.archive.org
 
 The original place for this timeline is [https://github.com/crcdng/hen-timeline](https://github.com/crcdng/hen-timeline). *If you read this on Github, there is a more comfortable reading experience on Gitbook: [https://crcdng.gitbook.io/hen-tl/](https://crcdng.gitbook.io/hen-tl/)*
 
+You can listen to a generated audio narration of this text [here](HEN_Timeline.mp3)
+
 This timeline captures key moments in the development of Hic et Nunc and beyond, including the evolution of Teia and the wider Tezos art communities.
 
 Despite taking great care to fact-check and to keep the entries as accurate as possible, I am very aware that this represents **a history**, not **the history** of Hic et Nunc and Teia. There is never one history, but rather a bunch of "intertwined genealogies" (Rosa Menkman) that share some common observations and diverge in others. 
