@@ -4,7 +4,7 @@
 
 *If you read this on Github, there is a more comfortable reading experience on Gitbook: [https://crcdng.gitbook.io/hen-tl/](https://crcdng.gitbook.io/hen-tl/)*
 
-You can listen to a generated audio narration of this text [here](HEN_timeline.mp3)
+You can listen to a generated audio narration of this text [here](HEN_timeline.mp3).
 
 ## Introduction
 
